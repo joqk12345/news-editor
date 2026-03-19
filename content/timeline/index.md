@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 95 篇文档</span>
+  <span class="kb-chip">共 96 篇文档</span>
   <span class="kb-chip">覆盖 16 个日期</span>
-  <span class="kb-chip">高优先级 49 篇</span>
+  <span class="kb-chip">高优先级 50 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-19</span>
 </div>
 
@@ -24,6 +24,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="/ai-software/agents-tooling/report-1773935436772">企业内部编码代理：构建、购买与实施策略</a></div>
       <p>企业内部编码代理：构建、购买与实施策略</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 代理与工具</span>
+        <span class="kb-chip">high / 14</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-19</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="/ai-software/agents-tooling/ai-agent-1773936648366">AI Agent沙盒平台比较与选型分析</a></div>
+      <p>AI Agent沙盒平台比较与选型分析</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 代理与工具</span>
         <span class="kb-chip">high / 14</span>
@@ -1442,6 +1457,7 @@ generatedType: "index"
 ## 最近重点文档
 
 - [企业内部编码代理：构建、购买与实施策略](/ai-software/agents-tooling/report-1773935436772)：2026-03-19，AI 与软件 / 代理与工具。
+- [AI Agent沙盒平台比较与选型分析](/ai-software/agents-tooling/ai-agent-1773936648366)：2026-03-19，AI 与软件 / 代理与工具。
 - [子代理突破LLM上下文限制的工程实践](/ai-software/agents-tooling/subagents-in-llm-engineering-1773791412180)：2026-03-17，AI 与软件 / 代理与工具。
 - [AI正重塑经济基础设施](/ai-software/models-research/ai-1773418076847)：2026-03-13，AI 与软件 / 模型与研究。
 - [背景代理：实现自驱动代码库的路径与方法](/ai-software/agents-tooling/background-agents-and-self-driving-codebase-1772554684151)：2026-03-03，AI 与软件 / 代理与工具。
@@ -1450,4 +1466,3 @@ generatedType: "index"
 - [开放共演与自我对弈驱动AI复杂性](/ai-software/models-research/ai-1772237728821)：2026-02-28，AI 与软件 / 模型与研究。
 - [AI代理研究组织模拟实验揭示创意瓶颈](/ai-software/agents-tooling/ai-agent-research-organization-simulation-1772237022583)：2026-02-28，AI 与软件 / 代理与工具。
 - [M5芯片：AI硬件本地化拐点](/ai-software/models-research/m5-ai-1772150684171)：2026-02-27，AI 与软件 / 模型与研究。
-- [比特币：算法治理公司的股票通缩分红模型](/markets-wealth/investing-strategy/bitcoin-s-stock-attribute-and-algorithmic-dividend-mechanism-1771889914313)：2026-02-23，市场与财富 / 投资策略。
