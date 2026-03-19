@@ -7,7 +7,7 @@ generatedType: "index"
 
 # 优先级总览
 
-- 高优先级：53 篇
+- 高优先级：54 篇
 - 中优先级：33 篇
 - 低优先级：13 篇
 
@@ -34,4 +34,4 @@ generatedType: "index"
 | 17 | [杨立昆蛋糕理论：自监督学习是AI智能基石](/ai-software/models-research/cake-analogy-1773929211750) | `ai-software/models-research` | 2026-03-19 | high (13) |
 | 18 | [投资中的参照系陷阱与定投策略](/markets-wealth/investing-strategy/investment-psychology-and-dollar-cost-averaging-1773963782873) | `markets-wealth/investing-strategy` | 2026-03-19 | high (13) |
 | 19 | [十倍之前要找到生活方向](/markets-wealth/investing-strategy/long-term-investment-and-life-purpose-1773962531815) | `markets-wealth/investing-strategy` | 2026-03-19 | high (13) |
-| 20 | [何恺明：点石成金的赋能者魔力](/ai-software/models-research/scientific-leadership-and-personal-empowerment-1773834579813) | `ai-software/models-research` | 2026-03-18 | high (13) |
+| 20 | [区块链市场操控幻觉解析](/markets-wealth/investing-strategy/blockchain-market-manipulation-illusion-1773963854553) | `markets-wealth/investing-strategy` | 2026-03-19 | high (13) |

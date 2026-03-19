@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 99 篇文档</span>
+  <span class="kb-chip">共 100 篇文档</span>
   <span class="kb-chip">覆盖 16 个日期</span>
-  <span class="kb-chip">高优先级 53 篇</span>
+  <span class="kb-chip">高优先级 54 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-19</span>
 </div>
 
@@ -114,6 +114,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="/markets-wealth/investing-strategy/long-term-investment-and-life-purpose-1773962531815">十倍之前要找到生活方向</a></div>
       <p>在追求长期投资回报的等待期，找到并专注于一生热爱的事业是培养淡定心态、抵御市场波动的关键。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">investing</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-19</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="/markets-wealth/investing-strategy/blockchain-market-manipulation-illusion-1773963854553">区块链市场操控幻觉解析</a></div>
+      <p>区块链市场因多节点结构难以操控，所谓“庄家”感觉是短期交易者心理导致的幻觉，不影响长期价格。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">市场与财富 / 投资策略</span>
         <span class="kb-chip">high / 13</span>
