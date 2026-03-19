@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 96 篇文档</span>
+  <span class="kb-chip">共 97 篇文档</span>
   <span class="kb-chip">覆盖 16 个日期</span>
-  <span class="kb-chip">高优先级 50 篇</span>
+  <span class="kb-chip">高优先级 51 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-19</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-19</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333">构建高效协作的AI编程代理系统</a></div>
+      <p>Ramp通过Inspect代理实现沙盒环境下的代码自主验证，OpenCode优化性能与多用户协作，并构建Slack/Web/Chrome多客户端生态，共同形成高效、可复现的AI编程代理系统。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 代理与工具</span>
+        <span class="kb-chip">high / 14</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-03-19</div>
     <div class="kb-timeline-card">
@@ -1456,6 +1471,7 @@ generatedType: "index"
 
 ## 最近重点文档
 
+- [构建高效协作的AI编程代理系统](/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333)：2026-03-19，AI 与软件 / 代理与工具。
 - [企业内部编码代理：构建、购买与实施策略](/ai-software/agents-tooling/report-1773935436772)：2026-03-19，AI 与软件 / 代理与工具。
 - [AI Agent沙盒平台比较与选型分析](/ai-software/agents-tooling/ai-agent-1773936648366)：2026-03-19，AI 与软件 / 代理与工具。
 - [子代理突破LLM上下文限制的工程实践](/ai-software/agents-tooling/subagents-in-llm-engineering-1773791412180)：2026-03-17，AI 与软件 / 代理与工具。
@@ -1465,4 +1481,3 @@ generatedType: "index"
 - [Claude导入记忆功能：无缝切换AI服务](/ai-software/agents-tooling/claude-ai-1772409057881)：2026-03-01，AI 与软件 / 代理与工具。
 - [开放共演与自我对弈驱动AI复杂性](/ai-software/models-research/ai-1772237728821)：2026-02-28，AI 与软件 / 模型与研究。
 - [AI代理研究组织模拟实验揭示创意瓶颈](/ai-software/agents-tooling/ai-agent-research-organization-simulation-1772237022583)：2026-02-28，AI 与软件 / 代理与工具。
-- [M5芯片：AI硬件本地化拐点](/ai-software/models-research/m5-ai-1772150684171)：2026-02-27，AI 与软件 / 模型与研究。

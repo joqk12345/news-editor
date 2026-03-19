@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>96</strong>
+      <strong>97</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>50</strong>
+      <strong>51</strong>
       <span>高优先级，另有 33 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>38 篇文档</span>
+        <span>39 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-19</span>
       </div>
-      <p class="kb-home-card-note">代表文档：企业内部编码代理：构建、购买与实施策略</p>
+      <p class="kb-home-card-note">代表文档：构建高效协作的AI编程代理系统</p>
     </a>
     <a class="kb-home-section-card" href="/markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,10 +139,10 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="/ai-software/agents-tooling/report-1773935436772">
+    <a class="kb-home-highlight-card" href="/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333">
       <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>企业内部编码代理：构建、购买与实施策略</h3>
-      <p>企业内部编码代理：构建、购买与实施策略</p>
+      <h3>构建高效协作的AI编程代理系统</h3>
+      <p>Ramp通过Inspect代理实现沙盒环境下的代码自主验证，OpenCode优化性能与多用户协作，并构建Slack/Web/Chrome多客户端生态，共同形成高效、可复现的AI编程代理系统。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-19</span>
         <span>high / 14</span>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="/ai-software/agents-tooling/ai-agent-1773936648366">
+    <a class="kb-home-highlight-card" href="/ai-software/agents-tooling/report-1773935436772">
       <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>AI Agent沙盒平台比较与选型分析</h3>
-      <p>AI Agent沙盒平台比较与选型分析</p>
+      <h3>企业内部编码代理：构建、购买与实施策略</h3>
+      <p>企业内部编码代理：构建、购买与实施策略</p>
       <div class="kb-home-card-meta">
         <span>2026-03-19</span>
         <span>high / 14</span>
