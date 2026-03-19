@@ -1,6 +1,10 @@
 import { defineConfig } from 'vitepress'
 
+const repositoryName = process.env.GITHUB_REPOSITORY?.split('/')[1]
+const base = process.env.GITHUB_ACTIONS && repositoryName ? `/${repositoryName}/` : '/'
+
 export default defineConfig({
+  base,
   srcDir: 'content',
   title: 'Reports Knowledge Base',
   description: '基于 reports 素材库自动生成的 VitePress 知识网站',
