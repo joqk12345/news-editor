@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 100 篇文档</span>
+  <span class="kb-chip">共 101 篇文档</span>
   <span class="kb-chip">覆盖 16 个日期</span>
   <span class="kb-chip">高优先级 54 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-19</span>
@@ -136,6 +136,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">investing</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-19</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="/markets-wealth/wealth-psychology/happiness-and-money-relationship-1773963897728">金钱与幸福：满意度基线与比较陷阱</a></div>
+      <p>金钱增加不必然提升幸福感，因满意度基线及社会比较导致持续不满。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 财富心理</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">research</span>
       </div>
     </div>
   </div>
