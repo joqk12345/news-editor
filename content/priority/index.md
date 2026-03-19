@@ -7,7 +7,7 @@ generatedType: "index"
 
 # 优先级总览
 
-- 高优先级：51 篇
+- 高优先级：52 篇
 - 中优先级：33 篇
 - 低优先级：13 篇
 
@@ -32,6 +32,6 @@ generatedType: "index"
 | 15 | [Claude Code子代理配置与管理全解析](/ai-software/agents-tooling/subagent-system-1771485189230) | `ai-software/agents-tooling` | 2026-02-19 | high (14) |
 | 16 | [质疑XGo“白话文”比喻：设计哲学与生态兼容性探讨](/ai-software/agents-tooling/programming-language-design-metaphor-evaluation-1773930778073) | `ai-software/agents-tooling` | 2026-03-19 | high (13) |
 | 17 | [杨立昆蛋糕理论：自监督学习是AI智能基石](/ai-software/models-research/cake-analogy-1773929211750) | `ai-software/models-research` | 2026-03-19 | high (13) |
-| 18 | [何恺明：点石成金的赋能者魔力](/ai-software/models-research/scientific-leadership-and-personal-empowerment-1773834579813) | `ai-software/models-research` | 2026-03-18 | high (13) |
-| 19 | [何恺明研究特点深度剖析](/ai-software/models-research/research-characteristic-analysis-1773834351273) | `ai-software/models-research` | 2026-03-18 | high (13) |
-| 20 | [FAIR团队的“Excel老梗”与科研方法论](/ai-software/models-research/research-management-methodology-1773834741396) | `ai-software/models-research` | 2026-03-18 | high (13) |
+| 18 | [十倍之前要找到生活方向](/markets-wealth/investing-strategy/long-term-investment-and-life-purpose-1773962531815) | `markets-wealth/investing-strategy` | 2026-03-19 | high (13) |
+| 19 | [何恺明：点石成金的赋能者魔力](/ai-software/models-research/scientific-leadership-and-personal-empowerment-1773834579813) | `ai-software/models-research` | 2026-03-18 | high (13) |
+| 20 | [何恺明研究特点深度剖析](/ai-software/models-research/research-characteristic-analysis-1773834351273) | `ai-software/models-research` | 2026-03-18 | high (13) |

@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>97</strong>
+      <strong>98</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>51</strong>
+      <strong>52</strong>
       <span>高优先级，另有 33 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -93,11 +93,11 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>25 篇文档</span>
+        <span>26 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-13</span>
+        <span>最近更新 2026-03-19</span>
       </div>
-      <p class="kb-home-card-note">代表文档：数据中心建设首超办公楼，预示AI取代白领</p>
+      <p class="kb-home-card-note">代表文档：十倍之前要找到生活方向</p>
     </a>
     <a class="kb-home-section-card" href="/people-life/">
       <p class="kb-home-card-eyebrow">人与生活</p>
@@ -149,6 +149,16 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="/markets-wealth/investing-strategy/long-term-investment-and-life-purpose-1773962531815">
+      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
+      <h3>十倍之前要找到生活方向</h3>
+      <p>在追求长期投资回报的等待期，找到并专注于一生热爱的事业是培养淡定心态、抵御市场波动的关键。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-19</span>
+        <span>high / 13</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="/operations/systems-workflows/team-evaluation-methodology-1773875987060">
       <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
       <h3>草台班子分级论：避免以偏概全的团队评价</h3>
@@ -165,16 +175,6 @@ hero:
       <p>本文通过历史类比论证霍尔木兹海峡控制权是伊朗战争胜负决定性因素，并警示美国失败可能引发帝国衰落与秩序重塑。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-17</span>
-        <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="/markets-wealth/investing-strategy/ai-1773416742866">
-      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>数据中心建设首超办公楼，预示AI取代白领</h3>
-      <p>数据中心建设首超办公楼，预示AI取代白领</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-13</span>
         <span>high / 13</span>
         <span>news</span>
       </div>
