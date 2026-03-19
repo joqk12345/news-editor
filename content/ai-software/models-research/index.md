@@ -1,0 +1,34 @@
+---
+title: "模型与研究"
+description: "模型发布、推理基础设施、研究范式与科研方法。"
+generatedBy: "reports-pipeline"
+generatedType: "index"
+---
+
+# 模型与研究
+
+模型发布、推理基础设施、研究范式与科研方法。
+
+上级分类：[ AI 与软件 ](/ai-software/)
+
+共 15 篇文档。
+
+## 文档列表
+
+| 标题 | 日期 | 优先级 | 标签 |
+|------|------|--------|------|
+| [AI正重塑经济基础设施](./ai-1773418076847) | 2026-03-13 | high | ai-software, models-research, news, text-summary |
+| [开放共演与自我对弈驱动AI复杂性](./ai-1772237728821) | 2026-02-28 | high | ai-software, models-research, news, text-summary |
+| [M5芯片：AI硬件本地化拐点](./m5-ai-1772150684171) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
+| [杨立昆蛋糕理论：自监督学习是AI智能基石](./cake-analogy-1773929211750) | 2026-03-19 | high | ai-software, models-research, news, text-summary |
+| [何恺明：点石成金的赋能者魔力](./scientific-leadership-and-personal-empowerment-1773834579813) | 2026-03-18 | high | ai-software, models-research, news, text-summary |
+| [何恺明研究特点深度剖析](./research-characteristic-analysis-1773834351273) | 2026-03-18 | high | ai-software, models-research, news, text-summary |
+| [FAIR团队的“Excel老梗”与科研方法论](./research-management-methodology-1773834741396) | 2026-03-18 | high | ai-software, models-research, news, text-summary |
+| [AI研究范式从开放探索转向封闭竞争](./ai-research-ecosystem-shift-1773834664905) | 2026-03-18 | high | ai-software, models-research, news, text-summary |
+| [DualPath双路径架构破解大模型推理I/O瓶颈](./dualpathi-o-1772239986390) | 2026-02-28 | high | ai-software, models-research, news, link-summary |
+| [DualPath双路径技术突破大模型I/O瓶颈](./dualpath-dual-path-storage-optimization-1772201934355) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
+| [Gemini应用集成Lyria 3实现AI音乐生成](./ai-music-generation-1771483104064) | 2026-02-19 | high | ai-software, models-research, task, link-summary |
+| [裁员主因过度招聘，非AI替代](./analysis-of-layoffs-in-internet-industry-1772201034463) | 2026-02-27 | medium | ai-software, models-research, task, text-summary |
+| [Qwen3.5-397B-A17B发布：混合架构提升多模态能力](./ai-model-release-1772201752537) | 2026-02-27 | medium | ai-software, models-research, task, text-summary |
+| [Google DeepMind发布Lyria 3生成式音乐模型](./generative-music-model-1771483326968) | 2026-02-19 | medium | ai-software, models-research, task, link-summary |
+| [GLM-5实现agentic工程范式突破](./glm-5agentic-1771808152288) | 2026-02-23 | medium | ai-software, models-research, task, link-summary |

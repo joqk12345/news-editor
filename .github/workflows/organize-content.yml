@@ -1,0 +1,41 @@
+name: Organize Content
+
+on:
+  push:
+    paths:
+      - 'reports/**/*.md'
+      - 'scripts/**/*.py'
+      - 'package.json'
+      - '.github/workflows/organize-content.yml'
+  workflow_dispatch:
+  schedule:
+    - cron: '0 18 * * *'  # 每天北京时间 02:00（UTC 前一天 18:00）
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run organization scripts
+        run: |
+          python3 scripts/organize-reports.py
+          python3 scripts/generate-index.py
+          python3 scripts/validate-content.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add content/
+          git diff --cached --quiet || git commit -m "chore: auto organize content"
+          git push
