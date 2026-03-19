@@ -683,6 +683,8 @@ def build_graph_svg(documents: list[dict[str, object]]) -> str:
     selected_tags = select_graph_tags(featured_documents, limit=10)
     selected_tag_set = set(selected_tags)
     tag_counts = Counter(tag for document in featured_documents for tag in semantic_tags(document))
+    graph_width = 1460
+    graph_height = 980
 
     section_nodes = distribute_nodes(
         [
@@ -694,10 +696,10 @@ def build_graph_svg(documents: list[dict[str, object]]) -> str:
             for section in TAXONOMY
         ],
         x=60,
-        width=180,
-        top=40,
-        bottom=880,
-        height=54,
+        width=220,
+        top=48,
+        bottom=940,
+        height=58,
     )
 
     subcategory_nodes = distribute_nodes(
@@ -709,11 +711,11 @@ def build_graph_svg(documents: list[dict[str, object]]) -> str:
             }
             for category, meta in SUBCATEGORY_META.items()
         ],
-        x=320,
-        width=220,
-        top=40,
-        bottom=880,
-        height=54,
+        x=360,
+        width=260,
+        top=48,
+        bottom=940,
+        height=58,
     )
 
     document_nodes = distribute_nodes(
@@ -726,11 +728,11 @@ def build_graph_svg(documents: list[dict[str, object]]) -> str:
             }
             for document in featured_documents
         ],
-        x=650,
-        width=260,
-        top=40,
-        bottom=880,
-        height=54,
+        x=760,
+        width=320,
+        top=48,
+        bottom=940,
+        height=58,
     )
 
     tag_nodes = distribute_nodes(
@@ -742,11 +744,11 @@ def build_graph_svg(documents: list[dict[str, object]]) -> str:
             }
             for tag in selected_tags
         ],
-        x=1040,
-        width=180,
-        top=40,
-        bottom=880,
-        height=54,
+        x=1200,
+        width=220,
+        top=48,
+        bottom=940,
+        height=58,
     )
 
     section_lookup = {str(node["key"]): node for node in section_nodes}
@@ -857,12 +859,12 @@ def build_graph_svg(documents: list[dict[str, object]]) -> str:
 
     return "\n".join(
         [
-            '<svg viewBox="0 0 1260 920" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="kb-graph-title">',
+            f'<svg viewBox="0 0 {graph_width} {graph_height}" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="kb-graph-title">',
             '  <title id="kb-graph-title">知识库知识图谱</title>',
             '  <text x="60" y="24" font-size="12" fill="#64748b">一级分类</text>',
-            '  <text x="320" y="24" font-size="12" fill="#64748b">二级分类</text>',
-            '  <text x="650" y="24" font-size="12" fill="#64748b">重点文档</text>',
-            '  <text x="1040" y="24" font-size="12" fill="#64748b">主题标签</text>',
+            '  <text x="360" y="24" font-size="12" fill="#64748b">二级分类</text>',
+            '  <text x="760" y="24" font-size="12" fill="#64748b">重点文档</text>',
+            '  <text x="1200" y="24" font-size="12" fill="#64748b">主题标签</text>',
             *[f"  {edge}" for edge in edges],
             *[f"  {node}" for node in node_parts],
             "</svg>",
@@ -950,6 +952,11 @@ def build_graph_page(documents: list[dict[str, object]]) -> str:
         "知识图谱",
         "用静态图谱查看主题域、子分类、重点文档和主题标签之间的连接关系。",
         "\n".join(lines),
+        extra_frontmatter=[
+            'pageClass: "kb-graph-page"',
+            "aside: false",
+            "outline: false",
+        ],
     )
 
 

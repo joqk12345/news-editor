@@ -329,6 +329,107 @@
   border: 1px solid var(--vp-c-divider);
 }
 
+.vp-doc div.language-mermaid.kb-mermaid-block {
+  margin: 20px 0;
+  border-radius: 20px;
+  border: 1px solid var(--vp-c-divider);
+  background:
+    radial-gradient(circle at top, rgba(14, 165, 233, 0.08), transparent 34%),
+    linear-gradient(180deg, var(--vp-c-bg-soft), var(--vp-c-bg));
+  overflow: hidden;
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--vp-c-divider);
+  background: rgba(255, 255, 255, 0.38);
+}
+
+.dark .vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-toolbar {
+  background: rgba(15, 23, 42, 0.42);
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 34px;
+  height: 34px;
+  padding: 0 10px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 999px;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-text-1);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-action:hover {
+  border-color: var(--vp-c-brand-2);
+  color: var(--vp-c-brand-1);
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-action-text {
+  min-width: auto;
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-scale {
+  min-width: 56px;
+  font-size: 13px;
+  font-variant-numeric: tabular-nums;
+  color: var(--vp-c-text-2);
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-viewport {
+  overflow: auto;
+  padding: 18px;
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-canvas {
+  min-width: 100%;
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-render {
+  width: max-content;
+  min-width: fit-content;
+  transform-origin: top left;
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-render {
+  min-width: fit-content;
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block:fullscreen {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  max-width: none;
+  margin: 0;
+  border-radius: 0;
+  background: var(--vp-c-bg);
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block:fullscreen .kb-mermaid-toolbar {
+  padding: 14px 18px;
+}
+
+.vp-doc div.language-mermaid.kb-mermaid-block:fullscreen .kb-mermaid-viewport {
+  flex: 1;
+  padding: 20px;
+}
+
 .kb-graph-shell {
   margin: 24px 0;
   padding: 16px;
@@ -345,6 +446,39 @@
   min-width: 1180px;
   width: 100%;
   height: auto;
+}
+
+.kb-graph-page .VPDoc,
+.kb-graph-page.VPDoc {
+  --kb-graph-page-max-width: min(1600px, calc(100vw - 48px));
+}
+
+.kb-graph-page .VPDoc .container,
+.kb-graph-page .VPDoc .content,
+.kb-graph-page .VPDoc .content-container,
+.kb-graph-page.VPDoc .container,
+.kb-graph-page.VPDoc .content,
+.kb-graph-page.VPDoc .content-container {
+  max-width: none !important;
+}
+
+.kb-graph-page .VPDoc.has-aside .content-container,
+.kb-graph-page .VPDoc:not(.has-aside) .content-container,
+.kb-graph-page.VPDoc.has-aside .content-container,
+.kb-graph-page.VPDoc:not(.has-aside) .content-container {
+  max-width: var(--kb-graph-page-max-width) !important;
+}
+
+.kb-graph-page .kb-graph-shell,
+.kb-graph-page.VPDoc .kb-graph-shell {
+  margin: 28px 0 36px;
+  padding: clamp(18px, 2vw, 28px);
+  border-radius: 28px;
+}
+
+.kb-graph-page .kb-graph-shell svg,
+.kb-graph-page.VPDoc .kb-graph-shell svg {
+  min-width: 1380px;
 }
 
 .kb-graph-legend {
@@ -372,6 +506,27 @@
 }
 
 @media (max-width: 760px) {
+  .kb-graph-page .VPDoc,
+  .kb-graph-page.VPDoc {
+    --kb-graph-page-max-width: calc(100vw - 24px);
+  }
+
+  .kb-graph-page .kb-graph-shell,
+  .kb-graph-page.VPDoc .kb-graph-shell {
+    margin: 20px 0 28px;
+    padding: 14px;
+    border-radius: 20px;
+  }
+
+  .kb-graph-page .kb-graph-shell svg,
+  .kb-graph-page.VPDoc .kb-graph-shell svg {
+    min-width: 1080px;
+  }
+
+  .vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-toolbar {
+    flex-wrap: wrap;
+  }
+
   .VPHome .VPHero::before {
     inset: 12px 12px 0;
     border-radius: 28px;
