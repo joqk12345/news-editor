@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>98</strong>
+      <strong>99</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>52</strong>
+      <strong>53</strong>
       <span>高优先级，另有 33 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -93,11 +93,11 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>26 篇文档</span>
+        <span>27 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-19</span>
       </div>
-      <p class="kb-home-card-note">代表文档：十倍之前要找到生活方向</p>
+      <p class="kb-home-card-note">代表文档：投资中的参照系陷阱与定投策略</p>
     </a>
     <a class="kb-home-section-card" href="/people-life/">
       <p class="kb-home-card-eyebrow">人与生活</p>
@@ -149,10 +149,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="/markets-wealth/investing-strategy/long-term-investment-and-life-purpose-1773962531815">
+    <a class="kb-home-highlight-card" href="/markets-wealth/investing-strategy/investment-psychology-and-dollar-cost-averaging-1773963782873">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>十倍之前要找到生活方向</h3>
-      <p>在追求长期投资回报的等待期，找到并专注于一生热爱的事业是培养淡定心态、抵御市场波动的关键。</p>
+      <h3>投资中的参照系陷阱与定投策略</h3>
+      <p>投资者常因动态变化的价值参照系而陷入决策陷阱，定投执行者应锚定非价格指标以避免无限比较。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-19</span>
         <span>high / 13</span>

@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 98 篇文档</span>
+  <span class="kb-chip">共 99 篇文档</span>
   <span class="kb-chip">覆盖 16 个日期</span>
-  <span class="kb-chip">高优先级 52 篇</span>
+  <span class="kb-chip">高优先级 53 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-19</span>
 </div>
 
@@ -91,6 +91,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-19</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="/markets-wealth/investing-strategy/investment-psychology-and-dollar-cost-averaging-1773963782873">投资中的参照系陷阱与定投策略</a></div>
+      <p>投资者常因动态变化的价值参照系而陷入决策陷阱，定投执行者应锚定非价格指标以避免无限比较。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">investing</span>
       </div>
     </div>
   </div>
