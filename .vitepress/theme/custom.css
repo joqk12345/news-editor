@@ -5,6 +5,7 @@
   --vp-c-brand-soft: rgba(15, 118, 110, 0.14);
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: linear-gradient(120deg, #0f766e 10%, #0ea5e9 58%, #f59e0b 100%);
+  --kb-wide-doc-max-width: min(1480px, calc(100vw - 64px));
 }
 
 .VPHome {
@@ -430,6 +431,47 @@
   padding: 20px;
 }
 
+.kb-doc-toolbar {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 18px;
+}
+
+.kb-doc-toolbar-button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  padding: 0 14px;
+  border-radius: 999px;
+  border: 1px solid var(--vp-c-divider);
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-text-2);
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+  transition:
+    border-color 0.2s ease,
+    color 0.2s ease,
+    background 0.2s ease;
+}
+
+.kb-doc-toolbar-button:hover {
+  border-color: rgba(14, 165, 233, 0.35);
+  color: var(--vp-c-text-1);
+  background: rgba(14, 165, 233, 0.08);
+}
+
+.kb-wide-mode .VPDoc .container,
+.kb-wide-mode .VPDoc .content,
+.kb-wide-mode .VPDoc .content-container {
+  max-width: none !important;
+}
+
+.kb-wide-mode .VPDoc.has-aside .content-container,
+.kb-wide-mode .VPDoc:not(.has-aside) .content-container {
+  max-width: var(--kb-wide-doc-max-width) !important;
+}
+
 .kb-graph-shell {
   margin: 24px 0;
   padding: 16px;
@@ -506,6 +548,10 @@
 }
 
 @media (max-width: 760px) {
+  :root {
+    --kb-wide-doc-max-width: calc(100vw - 24px);
+  }
+
   .kb-graph-page .VPDoc,
   .kb-graph-page.VPDoc {
     --kb-graph-page-max-width: calc(100vw - 24px);
@@ -525,6 +571,10 @@
 
   .vp-doc div.language-mermaid.kb-mermaid-block .kb-mermaid-toolbar {
     flex-wrap: wrap;
+  }
+
+  .kb-doc-toolbar {
+    margin-bottom: 14px;
   }
 
   .VPHome .VPHero::before {

@@ -1,20 +1,47 @@
 <script setup lang="ts">
-import { useRoute } from 'vitepress'
+import { useData, useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-import { nextTick, onBeforeUnmount, onMounted, watch } from 'vue'
+import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 
 const Layout = DefaultTheme.Layout
 const route = useRoute()
+const { frontmatter } = useData()
 const MIN_SCALE = 0.6
 const MAX_SCALE = 3
 const SCALE_STEP = 0.2
+const WIDE_MODE_STORAGE_KEY = 'kb-wide-mode'
 
 let renderToken = 0
 let themeObserver: MutationObserver | null = null
 let fullscreenChangeHandler: (() => void) | null = null
+const isWideMode = ref(false)
+const showWideModeToggle = computed(() => frontmatter.value.layout !== 'home')
 
 function clampScale(scale: number) {
   return Math.min(MAX_SCALE, Math.max(MIN_SCALE, Math.round(scale * 10) / 10))
+}
+
+function refreshDiagramLayouts() {
+  const blocks = document.querySelectorAll<HTMLElement>('.kb-mermaid-block')
+  for (const block of blocks) {
+    updateFullscreenLabel(block)
+    applyMermaidScale(block, Number(block.dataset.mermaidScale || '1'))
+  }
+}
+
+function applyWideModeState() {
+  if (typeof document === 'undefined') {
+    return
+  }
+
+  document.documentElement.classList.toggle('kb-wide-mode', isWideMode.value)
+  window.requestAnimationFrame(() => {
+    refreshDiagramLayouts()
+  })
+}
+
+function toggleWideMode() {
+  isWideMode.value = !isWideMode.value
 }
 
 function updateFullscreenLabel(block: HTMLElement) {
@@ -200,15 +227,13 @@ async function renderMermaidDiagrams() {
 }
 
 onMounted(() => {
+  isWideMode.value = window.localStorage.getItem(WIDE_MODE_STORAGE_KEY) === 'true'
+  applyWideModeState()
   void renderMermaidDiagrams()
   document.addEventListener('click', handleMermaidToolbarClick)
 
   fullscreenChangeHandler = () => {
-    const blocks = document.querySelectorAll<HTMLElement>('.kb-mermaid-block')
-    for (const block of blocks) {
-      updateFullscreenLabel(block)
-      applyMermaidScale(block, Number(block.dataset.mermaidScale || '1'))
-    }
+    refreshDiagramLayouts()
   }
   document.addEventListener('fullscreenchange', fullscreenChangeHandler)
 
@@ -224,9 +249,19 @@ onMounted(() => {
 watch(
   () => route.path,
   () => {
+    applyWideModeState()
     void renderMermaidDiagrams()
   },
 )
+
+watch(isWideMode, (value) => {
+  if (typeof window === 'undefined') {
+    return
+  }
+
+  window.localStorage.setItem(WIDE_MODE_STORAGE_KEY, value ? 'true' : 'false')
+  applyWideModeState()
+})
 
 onBeforeUnmount(() => {
   themeObserver?.disconnect()
@@ -240,5 +275,13 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <Layout />
+  <Layout>
+    <template #doc-before>
+      <div v-if="showWideModeToggle" class="kb-doc-toolbar">
+        <button type="button" class="kb-doc-toolbar-button" @click="toggleWideMode">
+          {{ isWideMode ? '退出宽栏' : '宽栏模式' }}
+        </button>
+      </div>
+    </template>
+  </Layout>
 </template>
