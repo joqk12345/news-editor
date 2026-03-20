@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 38 篇文档。
+共 39 篇文档。
 
 ## 文档列表
 
@@ -54,4 +54,5 @@ generatedType: "index"
 | [裁员主因过度招聘，非AI替代](./analysis-of-layoffs-in-internet-industry-1772201034463) | 2026-02-27 | medium | ai-software, models-research, task, text-summary |
 | [Qwen3.5-397B-A17B发布：混合架构提升多模态能力](./ai-model-release-1772201752537) | 2026-02-27 | medium | ai-software, models-research, task, text-summary |
 | [Google DeepMind发布Lyria 3生成式音乐模型](./generative-music-model-1771483326968) | 2026-02-19 | medium | ai-software, models-research, task, link-summary |
+| [TPU基建攻坚：科研突破的隐形引擎](./tpu-1774021618911) | 2026-03-20 | medium | ai-software, models-research, news, text-summary |
 | [GLM-5实现agentic工程范式突破](./glm-5agentic-1771808152288) | 2026-02-23 | medium | ai-software, models-research, task, link-summary |
