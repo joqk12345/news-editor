@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 131 篇文档</span>
+  <span class="kb-chip">共 132 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
-  <span class="kb-chip">高优先级 78 篇</span>
+  <span class="kb-chip">高优先级 79 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
 </div>
 
@@ -54,6 +54,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/report-1774015352695">视觉即智能：谢赛宁论智能体基石</a></div>
       <p>视觉即智能：谢赛宁论智能体基石</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 14</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/the-equivalence-between-vision-and-agent-1774015501589">视觉即智能：谢赛宁论AI的物理世界基石</a></div>
+      <p>谢赛宁提出视觉与智能本质等价，视觉是驱动生物智能进化、构建AI世界模型并使其从虚拟走向物理世界的绝对基石。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 14</span>
@@ -1984,10 +1999,10 @@ generatedType: "index"
 - [霍尔木兹海峡控制权决定伊朗战争与帝国兴衰](/world-strategy/strategic-research/geopolitical-risk-and-empire-cycle-1773966044986)：2026-03-20，世界与战略 / 战略研究。
 - [谢赛宁：质疑精神是AI研究核心原则](/ai-software/models-research/research-methodology-1774012348710)：2026-03-20，AI 与软件 / 模型与研究。
 - [视觉即智能：谢赛宁论智能体基石](/ai-software/models-research/report-1774015352695)：2026-03-20，AI 与软件 / 模型与研究。
+- [视觉即智能：谢赛宁论AI的物理世界基石](/ai-software/models-research/the-equivalence-between-vision-and-agent-1774015501589)：2026-03-20，AI 与软件 / 模型与研究。
 - [终极对决与大周期：中东局势的深层逻辑](/world-strategy/strategic-research/geopolitical-conflict-and-historical-cycle-analysis-1773966111072)：2026-03-20，世界与战略 / 战略研究。
 - [构建高效协作的AI编程代理系统](/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333)：2026-03-19，AI 与软件 / 代理与工具。
 - [企业内部编码代理：构建、购买与实施策略](/ai-software/agents-tooling/report-1773935436772)：2026-03-19，AI 与软件 / 代理与工具。
 - [AI Agent沙盒平台比较与选型分析](/ai-software/agents-tooling/ai-agent-1773936648366)：2026-03-19，AI 与软件 / 代理与工具。
 - [子代理突破LLM上下文限制的工程实践](/ai-software/agents-tooling/subagents-in-llm-engineering-1773791412180)：2026-03-17，AI 与软件 / 代理与工具。
 - [AI正重塑经济基础设施](/ai-software/models-research/ai-1773418076847)：2026-03-13，AI 与软件 / 模型与研究。
-- [背景代理：实现自驱动代码库的路径与方法](/ai-software/agents-tooling/background-agents-and-self-driving-codebase-1772554684151)：2026-03-03，AI 与软件 / 代理与工具。
