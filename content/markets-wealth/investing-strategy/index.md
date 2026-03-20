@@ -11,13 +11,14 @@ generatedType: "index"
 
 上级分类：[ 市场与财富 ](/markets-wealth/)
 
-共 22 篇文档。
+共 23 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
 | [比特币：算法治理公司的股票通缩分红模型](./bitcoin-s-stock-attribute-and-algorithmic-dividend-mechanism-1771889914313) | 2026-02-23 | high | markets-wealth, investing-strategy, task, text-summary |
+| [价格决策幻觉与长期主义缺失](./price-decision-illusion-1773964967450) | 2026-03-20 | high | markets-wealth, investing-strategy, news, text-summary |
 | [投资中的参照系陷阱与定投策略](./investment-psychology-and-dollar-cost-averaging-1773963782873) | 2026-03-19 | high | markets-wealth, investing-strategy, news, text-summary |
 | [十倍之前要找到生活方向](./long-term-investment-and-life-purpose-1773962531815) | 2026-03-19 | high | markets-wealth, investing-strategy, news, text-summary |
 | [区块链市场操控幻觉解析](./blockchain-market-manipulation-illusion-1773963854553) | 2026-03-19 | high | markets-wealth, investing-strategy, news, text-summary |
