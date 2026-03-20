@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>108</strong>
+      <strong>109</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>59</strong>
+      <strong>60</strong>
       <span>高优先级，另有 36 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>39 篇文档</span>
+        <span>40 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-19</span>
+        <span>最近更新 2026-03-20</span>
       </div>
-      <p class="kb-home-card-note">代表文档：构建高效协作的AI编程代理系统</p>
+      <p class="kb-home-card-note">代表文档：何恺明研究哲学与工程极致融合的特点</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -149,13 +149,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>构建高效协作的AI编程代理系统</h3>
-      <p>Ramp通过Inspect代理实现沙盒环境下的代码自主验证，OpenCode优化性能与多用户协作，并构建Slack/Web/Chrome多客户端生态，共同形成高效、可复现的AI编程代理系统。</p>
+    <a class="kb-home-highlight-card" href="ai-software/models-research/research-style-analysis-1773965704962">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>何恺明研究哲学与工程极致融合的特点</h3>
+      <p>本文基于谢赛宁观察，系统阐述何恺明在专注力、工程能力、哲学思维等方面兼具极致的研究特点。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-19</span>
-        <span>high / 14</span>
+        <span>2026-03-20</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>

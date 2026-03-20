@@ -7,7 +7,7 @@ generatedType: "index"
 
 # 优先级总览
 
-- 高优先级：59 篇
+- 高优先级：60 篇
 - 中优先级：36 篇
 - 低优先级：13 篇
 
@@ -34,4 +34,4 @@ generatedType: "index"
 | 17 | [瞬间价格波动反映情绪，长期投资方为理智](/markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
 | 18 | [牛市入场者更易因损失厌恶放弃定投](/markets-wealth/investing-strategy/investment-dca-psychology-1773965092088) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
 | 19 | [消费幻觉的识别与应对](/markets-wealth/investing-strategy/consumption-illusion-1773965426631) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
-| 20 | [价格决策幻觉与长期主义缺失](/markets-wealth/investing-strategy/price-decision-illusion-1773964967450) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
+| 20 | [何恺明研究哲学与工程极致融合的特点](/ai-software/models-research/research-style-analysis-1773965704962) | `ai-software/models-research` | 2026-03-20 | high (13) |
