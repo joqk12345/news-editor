@@ -7,7 +7,7 @@ generatedType: "index"
 
 # 优先级总览
 
-- 高优先级：55 篇
+- 高优先级：56 篇
 - 中优先级：34 篇
 - 低优先级：13 篇
 
@@ -30,8 +30,8 @@ generatedType: "index"
 | 13 | [ZeroClaw：轻量级自主AI助手基础设施](/ai-software/agents-tooling/zeroclaw-ai-1771808496571) | `ai-software/agents-tooling` | 2026-02-23 | high (14) |
 | 14 | [个人AI基础设施 (PAI) 项目综合报告](/ai-software/agents-tooling/ai-pai-1771724329343) | `ai-software/agents-tooling` | 2026-02-22 | high (14) |
 | 15 | [Claude Code子代理配置与管理全解析](/ai-software/agents-tooling/subagent-system-1771485189230) | `ai-software/agents-tooling` | 2026-02-19 | high (14) |
-| 16 | [价格决策幻觉与长期主义缺失](/markets-wealth/investing-strategy/price-decision-illusion-1773964967450) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
-| 17 | [质疑XGo“白话文”比喻：设计哲学与生态兼容性探讨](/ai-software/agents-tooling/programming-language-design-metaphor-evaluation-1773930778073) | `ai-software/agents-tooling` | 2026-03-19 | high (13) |
-| 18 | [杨立昆蛋糕理论：自监督学习是AI智能基石](/ai-software/models-research/cake-analogy-1773929211750) | `ai-software/models-research` | 2026-03-19 | high (13) |
-| 19 | [投资中的参照系陷阱与定投策略](/markets-wealth/investing-strategy/investment-psychology-and-dollar-cost-averaging-1773963782873) | `markets-wealth/investing-strategy` | 2026-03-19 | high (13) |
-| 20 | [十倍之前要找到生活方向](/markets-wealth/investing-strategy/long-term-investment-and-life-purpose-1773962531815) | `markets-wealth/investing-strategy` | 2026-03-19 | high (13) |
+| 16 | [瞬间价格波动反映情绪，长期投资方为理智](/markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
+| 17 | [价格决策幻觉与长期主义缺失](/markets-wealth/investing-strategy/price-decision-illusion-1773964967450) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
+| 18 | [质疑XGo“白话文”比喻：设计哲学与生态兼容性探讨](/ai-software/agents-tooling/programming-language-design-metaphor-evaluation-1773930778073) | `ai-software/agents-tooling` | 2026-03-19 | high (13) |
+| 19 | [杨立昆蛋糕理论：自监督学习是AI智能基石](/ai-software/models-research/cake-analogy-1773929211750) | `ai-software/models-research` | 2026-03-19 | high (13) |
+| 20 | [投资中的参照系陷阱与定投策略](/markets-wealth/investing-strategy/investment-psychology-and-dollar-cost-averaging-1773963782873) | `markets-wealth/investing-strategy` | 2026-03-19 | high (13) |
