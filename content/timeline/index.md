@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 115 篇文档</span>
+  <span class="kb-chip">共 116 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
   <span class="kb-chip">高优先级 66 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
@@ -221,6 +221,21 @@ generatedType: "index"
       <p>本文基于赌博与交易市场的类比，阐述在金钱决策中应规避因“抽水”和频繁操作导致的负预期，转而践行定投等正预期行为，并通过心理建设与提升场外能力应对市场波动。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/research-methodology-1773966323440">研究如随机梯度下降：探索中捕捉灵感</a></div>
+      <p>研究本质是探索过程，依赖高密度实验产生的“信号”与“梯度”指引方向，而非线性规划或凭空想象。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">medium / 12</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>

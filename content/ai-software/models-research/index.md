@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 20 篇文档。
+共 21 篇文档。
 
 ## 文档列表
 
@@ -33,6 +33,7 @@ generatedType: "index"
 | [DualPath双路径架构破解大模型推理I/O瓶颈](./dualpathi-o-1772239986390) | 2026-02-28 | high | ai-software, models-research, news, link-summary |
 | [DualPath双路径技术突破大模型I/O瓶颈](./dualpath-dual-path-storage-optimization-1772201934355) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
 | [Gemini应用集成Lyria 3实现AI音乐生成](./ai-music-generation-1771483104064) | 2026-02-19 | high | ai-software, models-research, task, link-summary |
+| [研究如随机梯度下降：探索中捕捉灵感](./research-methodology-1773966323440) | 2026-03-20 | medium | ai-software, models-research, news, text-summary |
 | [裁员主因过度招聘，非AI替代](./analysis-of-layoffs-in-internet-industry-1772201034463) | 2026-02-27 | medium | ai-software, models-research, task, text-summary |
 | [Qwen3.5-397B-A17B发布：混合架构提升多模态能力](./ai-model-release-1772201752537) | 2026-02-27 | medium | ai-software, models-research, task, text-summary |
 | [Google DeepMind发布Lyria 3生成式音乐模型](./generative-music-model-1771483326968) | 2026-02-19 | medium | ai-software, models-research, task, link-summary |
