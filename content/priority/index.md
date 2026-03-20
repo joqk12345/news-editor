@@ -7,7 +7,7 @@ generatedType: "index"
 
 # 优先级总览
 
-- 高优先级：57 篇
+- 高优先级：58 篇
 - 中优先级：35 篇
 - 低优先级：13 篇
 
@@ -32,6 +32,6 @@ generatedType: "index"
 | 15 | [Claude Code子代理配置与管理全解析](/ai-software/agents-tooling/subagent-system-1771485189230) | `ai-software/agents-tooling` | 2026-02-19 | high (14) |
 | 16 | [瞬间价格波动反映情绪，长期投资方为理智](/markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
 | 17 | [牛市入场者更易因损失厌恶放弃定投](/markets-wealth/investing-strategy/investment-dca-psychology-1773965092088) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
-| 18 | [价格决策幻觉与长期主义缺失](/markets-wealth/investing-strategy/price-decision-illusion-1773964967450) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
-| 19 | [质疑XGo“白话文”比喻：设计哲学与生态兼容性探讨](/ai-software/agents-tooling/programming-language-design-metaphor-evaluation-1773930778073) | `ai-software/agents-tooling` | 2026-03-19 | high (13) |
-| 20 | [杨立昆蛋糕理论：自监督学习是AI智能基石](/ai-software/models-research/cake-analogy-1773929211750) | `ai-software/models-research` | 2026-03-19 | high (13) |
+| 18 | [消费幻觉的识别与应对](/markets-wealth/investing-strategy/consumption-illusion-1773965426631) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
+| 19 | [价格决策幻觉与长期主义缺失](/markets-wealth/investing-strategy/price-decision-illusion-1773964967450) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
+| 20 | [质疑XGo“白话文”比喻：设计哲学与生态兼容性探讨](/ai-software/agents-tooling/programming-language-design-metaphor-evaluation-1773930778073) | `ai-software/agents-tooling` | 2026-03-19 | high (13) |
