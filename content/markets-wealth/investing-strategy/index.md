@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ 市场与财富 ](/markets-wealth/)
 
-共 24 篇文档。
+共 25 篇文档。
 
 ## 文档列表
 
@@ -19,6 +19,7 @@ generatedType: "index"
 |------|------|--------|------|
 | [比特币：算法治理公司的股票通缩分红模型](./bitcoin-s-stock-attribute-and-algorithmic-dividend-mechanism-1771889914313) | 2026-02-23 | high | markets-wealth, investing-strategy, task, text-summary |
 | [瞬间价格波动反映情绪，长期投资方为理智](./dollar-cost-averaging-and-market-sentiment-1773965036084) | 2026-03-20 | high | markets-wealth, investing-strategy, news, text-summary |
+| [牛市入场者更易因损失厌恶放弃定投](./investment-dca-psychology-1773965092088) | 2026-03-20 | high | markets-wealth, investing-strategy, news, text-summary |
 | [价格决策幻觉与长期主义缺失](./price-decision-illusion-1773964967450) | 2026-03-20 | high | markets-wealth, investing-strategy, news, text-summary |
 | [投资中的参照系陷阱与定投策略](./investment-psychology-and-dollar-cost-averaging-1773963782873) | 2026-03-19 | high | markets-wealth, investing-strategy, news, text-summary |
 | [十倍之前要找到生活方向](./long-term-investment-and-life-purpose-1773962531815) | 2026-03-19 | high | markets-wealth, investing-strategy, news, text-summary |

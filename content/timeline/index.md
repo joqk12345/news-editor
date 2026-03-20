@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 103 篇文档</span>
+  <span class="kb-chip">共 104 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
-  <span class="kb-chip">高优先级 56 篇</span>
+  <span class="kb-chip">高优先级 57 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
 </div>
 
@@ -24,6 +24,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="/markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084">瞬间价格波动反映情绪，长期投资方为理智</a></div>
       <p>瞬间价格变化仅反映市场情绪波动，不代表真实价值变动，非长期投资者难以保持理智。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">investing</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="/markets-wealth/investing-strategy/investment-dca-psychology-1773965092088">牛市入场者更易因损失厌恶放弃定投</a></div>
+      <p>牛市入场者因快速获利产生的损失厌恶，比熊市入场者更容易放弃定投策略。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">市场与财富 / 投资策略</span>
         <span class="kb-chip">high / 13</span>

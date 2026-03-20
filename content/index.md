@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>103</strong>
+      <strong>104</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>56</strong>
+      <strong>57</strong>
       <span>高优先级，另有 34 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -93,7 +93,7 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>31 篇文档</span>
+        <span>32 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-20</span>
       </div>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="/markets-wealth/investing-strategy/price-decision-illusion-1773964967450">
+    <a class="kb-home-highlight-card" href="/markets-wealth/investing-strategy/investment-dca-psychology-1773965092088">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>价格决策幻觉与长期主义缺失</h3>
-      <p>文章列举价格上涨期间常见的8种决策幻觉，并指出其根源在于参与者缺乏长期主义思维。</p>
+      <h3>牛市入场者更易因损失厌恶放弃定投</h3>
+      <p>牛市入场者因快速获利产生的损失厌恶，比熊市入场者更容易放弃定投策略。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
         <span>high / 13</span>
