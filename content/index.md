@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>110</strong>
+      <strong>111</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>61</strong>
+      <strong>62</strong>
       <span>高优先级，另有 36 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>41 篇文档</span>
+        <span>42 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-20</span>
       </div>
-      <p class="kb-home-card-note">代表文档：科研非线性探索四阶段论</p>
+      <p class="kb-home-card-note">代表文档：非线性研究周期与无限游戏方法论</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,20 +139,20 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/long-term-investment-strategy-1773965526136">
-      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>长期投资：时间固化收益与场外能力</h3>
-      <p>社群强调长期持有使浮盈固化，普通人需依赖场外赚钱能力进行持续投入。</p>
+    <a class="kb-home-highlight-card" href="ai-software/models-research/report-1773965873995">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>非线性研究周期与无限游戏方法论</h3>
+      <p>阐述非线性研究周期的四个阶段及“无限游戏”的职业生涯观，强调动手基线、实验信号与反脆弱心态。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
         <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/research-methodology-1773965803838">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>科研非线性探索四阶段论</h3>
-      <p>本文基于谢赛宁经验，系统阐述在周期压缩环境下科研的非线性本质，并拆解为方向确立、理念成型、拓展验证、论文打磨四阶段，最终指向“无限游戏”的职业生涯观。</p>
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/long-term-investment-strategy-1773965526136">
+      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
+      <h3>长期投资：时间固化收益与场外能力</h3>
+      <p>社群强调长期持有使浮盈固化，普通人需依赖场外赚钱能力进行持续投入。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
         <span>high / 13</span>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084">
-      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>瞬间价格波动反映情绪，长期投资方为理智</h3>
-      <p>瞬间价格变化仅反映市场情绪波动，不代表真实价值变动，非长期投资者难以保持理智。</p>
+    <a class="kb-home-highlight-card" href="ai-software/models-research/research-methodology-1773965803838">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>科研非线性探索四阶段论</h3>
+      <p>本文基于谢赛宁经验，系统阐述在周期压缩环境下科研的非线性本质，并拆解为方向确立、理念成型、拓展验证、论文打磨四阶段，最终指向“无限游戏”的职业生涯观。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
         <span>high / 13</span>

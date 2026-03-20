@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 17 篇文档。
+共 18 篇文档。
 
 ## 文档列表
 
@@ -20,6 +20,7 @@ generatedType: "index"
 | [AI正重塑经济基础设施](./ai-1773418076847) | 2026-03-13 | high | ai-software, models-research, news, text-summary |
 | [开放共演与自我对弈驱动AI复杂性](./ai-1772237728821) | 2026-02-28 | high | ai-software, models-research, news, text-summary |
 | [M5芯片：AI硬件本地化拐点](./m5-ai-1772150684171) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
+| [非线性研究周期与无限游戏方法论](./report-1773965873995) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [科研非线性探索四阶段论](./research-methodology-1773965803838) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [何恺明研究哲学与工程极致融合的特点](./research-style-analysis-1773965704962) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [杨立昆蛋糕理论：自监督学习是AI智能基石](./cake-analogy-1773929211750) | 2026-03-19 | high | ai-software, models-research, news, text-summary |
