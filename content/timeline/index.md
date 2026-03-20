@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 111 篇文档</span>
+  <span class="kb-chip">共 112 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
-  <span class="kb-chip">高优先级 62 篇</span>
+  <span class="kb-chip">高优先级 63 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
 </div>
 
@@ -106,6 +106,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">investing</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/research-leadership-traits-1773965971131">何恺明：科研赋能者的四大魔力</a></div>
+      <p>何恺明通过无形管理、顶尖洞察、极致专注与严谨方法论，显著提升合作者效能与认知维度。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">infrastructure</span>
       </div>
     </div>
   </div>
