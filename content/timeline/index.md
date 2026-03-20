@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 104 篇文档</span>
+  <span class="kb-chip">共 105 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
   <span class="kb-chip">高优先级 57 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
@@ -57,6 +57,21 @@ generatedType: "index"
       <div class="kb-chip-row">
         <span class="kb-chip">市场与财富 / 投资策略</span>
         <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">investing</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="/markets-wealth/investing-strategy/investment-illusion-1773965355930">警惕投资幻觉：100%收益后的盲目自信</a></div>
+      <p>描述投资者在获得100%收益后产生的成就感、盲目自信及对利润的不珍惜心理，并倡导长期主义。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">medium / 12</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
