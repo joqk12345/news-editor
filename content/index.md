@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>113</strong>
+      <strong>114</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>64</strong>
+      <strong>65</strong>
       <span>高优先级，另有 36 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -113,7 +113,7 @@ hero:
       <p class="kb-home-card-eyebrow">世界与战略</p>
       <h3>聚焦战略研究、政策冲击、地缘事件与文化历史素材。</h3>
       <div class="kb-home-card-meta">
-        <span>7 篇文档</span>
+        <span>8 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-20</span>
       </div>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/research-methodology-1773965803838">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>科研非线性探索四阶段论</h3>
-      <p>本文基于谢赛宁经验，系统阐述在周期压缩环境下科研的非线性本质，并拆解为方向确立、理念成型、拓展验证、论文打磨四阶段，最终指向“无限游戏”的职业生涯观。</p>
+    <a class="kb-home-highlight-card" href="world-strategy/strategic-research/geopolitical-conflict-and-historical-cycle-analysis-1773966111072">
+      <p class="kb-home-card-eyebrow">世界与战略 / 战略研究</p>
+      <h3>终极对决与大周期：中东局势的深层逻辑</h3>
+      <p>本文认为当前中东关于霍尔木兹海峡的冲突是“大周期”的体现，将引发全球性影响，并建议通过监测五大力量来应对。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
-        <span>high / 13</span>
+        <span>high / 14</span>
         <span>news</span>
       </div>
     </a>
