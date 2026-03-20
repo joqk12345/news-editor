@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>130</strong>
+      <strong>131</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>77</strong>
+      <strong>78</strong>
       <span>高优先级，另有 40 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>58 篇文档</span>
+        <span>59 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-20</span>
       </div>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="world-strategy/strategic-research/geopolitical-conflict-and-historical-cycle-analysis-1773966111072">
-      <p class="kb-home-card-eyebrow">世界与战略 / 战略研究</p>
-      <h3>终极对决与大周期：中东局势的深层逻辑</h3>
-      <p>本文认为当前中东关于霍尔木兹海峡的冲突是“大周期”的体现，将引发全球性影响，并建议通过监测五大力量来应对。</p>
+    <a class="kb-home-highlight-card" href="ai-software/models-research/report-1774015352695">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>视觉即智能：谢赛宁论智能体基石</h3>
+      <p>视觉即智能：谢赛宁论智能体基石</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
         <span>high / 14</span>

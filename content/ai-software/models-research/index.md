@@ -11,13 +11,14 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 34 篇文档。
+共 35 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
 | [谢赛宁：质疑精神是AI研究核心原则](./research-methodology-1774012348710) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
+| [视觉即智能：谢赛宁论智能体基石](./report-1774015352695) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [AI正重塑经济基础设施](./ai-1773418076847) | 2026-03-13 | high | ai-software, models-research, news, text-summary |
 | [开放共演与自我对弈驱动AI复杂性](./ai-1772237728821) | 2026-02-28 | high | ai-software, models-research, news, text-summary |
 | [M5芯片：AI硬件本地化拐点](./m5-ai-1772150684171) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
