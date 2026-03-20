@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>106</strong>
+      <strong>107</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>58</strong>
+      <strong>59</strong>
       <span>高优先级，另有 35 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -93,11 +93,11 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>34 篇文档</span>
+        <span>35 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-20</span>
       </div>
-      <p class="kb-home-card-note">代表文档：瞬间价格波动反映情绪，长期投资方为理智</p>
+      <p class="kb-home-card-note">代表文档：长期投资：时间固化收益与场外能力</p>
     </a>
     <a class="kb-home-section-card" href="people-life/">
       <p class="kb-home-card-eyebrow">人与生活</p>
@@ -139,10 +139,10 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084">
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/long-term-investment-strategy-1773965526136">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>瞬间价格波动反映情绪，长期投资方为理智</h3>
-      <p>瞬间价格变化仅反映市场情绪波动，不代表真实价值变动，非长期投资者难以保持理智。</p>
+      <h3>长期投资：时间固化收益与场外能力</h3>
+      <p>社群强调长期持有使浮盈固化，普通人需依赖场外赚钱能力进行持续投入。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
         <span>high / 13</span>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/investment-dca-psychology-1773965092088">
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>牛市入场者更易因损失厌恶放弃定投</h3>
-      <p>牛市入场者因快速获利产生的损失厌恶，比熊市入场者更容易放弃定投策略。</p>
+      <h3>瞬间价格波动反映情绪，长期投资方为理智</h3>
+      <p>瞬间价格变化仅反映市场情绪波动，不代表真实价值变动，非长期投资者难以保持理智。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
         <span>high / 13</span>

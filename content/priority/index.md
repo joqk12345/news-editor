@@ -7,7 +7,7 @@ generatedType: "index"
 
 # 优先级总览
 
-- 高优先级：58 篇
+- 高优先级：59 篇
 - 中优先级：35 篇
 - 低优先级：13 篇
 
@@ -30,8 +30,8 @@ generatedType: "index"
 | 13 | [ZeroClaw：轻量级自主AI助手基础设施](/ai-software/agents-tooling/zeroclaw-ai-1771808496571) | `ai-software/agents-tooling` | 2026-02-23 | high (14) |
 | 14 | [个人AI基础设施 (PAI) 项目综合报告](/ai-software/agents-tooling/ai-pai-1771724329343) | `ai-software/agents-tooling` | 2026-02-22 | high (14) |
 | 15 | [Claude Code子代理配置与管理全解析](/ai-software/agents-tooling/subagent-system-1771485189230) | `ai-software/agents-tooling` | 2026-02-19 | high (14) |
-| 16 | [瞬间价格波动反映情绪，长期投资方为理智](/markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
-| 17 | [牛市入场者更易因损失厌恶放弃定投](/markets-wealth/investing-strategy/investment-dca-psychology-1773965092088) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
-| 18 | [消费幻觉的识别与应对](/markets-wealth/investing-strategy/consumption-illusion-1773965426631) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
-| 19 | [价格决策幻觉与长期主义缺失](/markets-wealth/investing-strategy/price-decision-illusion-1773964967450) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
-| 20 | [质疑XGo“白话文”比喻：设计哲学与生态兼容性探讨](/ai-software/agents-tooling/programming-language-design-metaphor-evaluation-1773930778073) | `ai-software/agents-tooling` | 2026-03-19 | high (13) |
+| 16 | [长期投资：时间固化收益与场外能力](/markets-wealth/investing-strategy/long-term-investment-strategy-1773965526136) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
+| 17 | [瞬间价格波动反映情绪，长期投资方为理智](/markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
+| 18 | [牛市入场者更易因损失厌恶放弃定投](/markets-wealth/investing-strategy/investment-dca-psychology-1773965092088) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
+| 19 | [消费幻觉的识别与应对](/markets-wealth/investing-strategy/consumption-illusion-1773965426631) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
+| 20 | [价格决策幻觉与长期主义缺失](/markets-wealth/investing-strategy/price-decision-illusion-1773964967450) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |

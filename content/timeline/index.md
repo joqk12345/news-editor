@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 106 篇文档</span>
+  <span class="kb-chip">共 107 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
-  <span class="kb-chip">高优先级 58 篇</span>
+  <span class="kb-chip">高优先级 59 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../markets-wealth/investing-strategy/long-term-investment-strategy-1773965526136">长期投资：时间固化收益与场外能力</a></div>
+      <p>社群强调长期持有使浮盈固化，普通人需依赖场外赚钱能力进行持续投入。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">investing</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-03-20</div>
     <div class="kb-timeline-card">
