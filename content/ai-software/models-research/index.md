@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 32 篇文档。
+共 33 篇文档。
 
 ## 文档列表
 
@@ -22,6 +22,7 @@ generatedType: "index"
 | [开放共演与自我对弈驱动AI复杂性](./ai-1772237728821) | 2026-02-28 | high | ai-software, models-research, news, text-summary |
 | [M5芯片：AI硬件本地化拐点](./m5-ai-1772150684171) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
 | [非线性研究周期与无限游戏方法论](./report-1773965873995) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
+| [谢赛宁：打造预测性大脑的三大追求](./artificial-intelligence-research-philosophy-1774014995524) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [视觉智能四维度：本质与核心问题](./the-essence-and-core-problems-of-visual-intelligence-1774014869256) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [科研非线性探索四阶段论](./research-methodology-1773965803838) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [研究如随机梯度下降：探索与信号的艺术](./research-methodology-1773966371120) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
