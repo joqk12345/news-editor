@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>117</strong>
+      <strong>118</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>67</strong>
+      <strong>68</strong>
       <span>高优先级，另有 37 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>12 篇文档</span>
+        <span>13 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-01</span>
+        <span>最近更新 2026-03-20</span>
       </div>
-      <p class="kb-home-card-note">代表文档：两次生育假期体验对比：从帮衬到共担</p>
+      <p class="kb-home-card-note">代表文档：谢赛宁：非线性研究是突破性科研的必经之路</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -169,22 +169,22 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/non-linear-research-1773966439876">
+      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
+      <h3>谢赛宁：非线性研究是突破性科研的必经之路</h3>
+      <p>谢赛宁基于自身科研经历，系统阐述追求非线性研究的四大核心理由，认为科研本质是探索未知的“无限游戏”，优化目标是职业生涯的“最大值”。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-20</span>
+        <span>high / 13</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="operations/systems-workflows/team-evaluation-methodology-1773875987060">
       <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
       <h3>草台班子分级论：避免以偏概全的团队评价</h3>
       <p>通过“草台班子”分级和反复事件分析，避免以单一事故片面评价团队。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-18</span>
-        <span>medium / 12</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="people-life/family-growth/report-1772326493501">
-      <p class="kb-home-card-eyebrow">人与生活 / 家庭与成长</p>
-      <h3>两次生育假期体验对比：从帮衬到共担</h3>
-      <p>两次生育假期体验对比：从帮衬到共担</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-01</span>
         <span>medium / 12</span>
         <span>news</span>
       </div>

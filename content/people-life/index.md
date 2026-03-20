@@ -11,11 +11,12 @@ generatedType: "index"
 
 ## 子分类
 
-- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 7 篇。
+- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 8 篇。
 - [家庭与成长](./family-growth/)：育儿、生育、成长转变、教育心态与家庭经验。 共 5 篇。
 
 ## 最近更新
 
+- [谢赛宁：非线性研究是突破性科研的必经之路](/people-life/relationships-trust/non-linear-research-1773966439876)
 - [家庭关系改善经典书单推荐](/people-life/family-growth/report-1771890779079)
 - [两次生育假期体验对比：从帮衬到共担](/people-life/family-growth/report-1772326493501)
 - [三胎育儿经历：月子中心体验与喂养请教](/people-life/family-growth/report-1772290103087)
@@ -23,4 +24,3 @@ generatedType: "index"
 - [多胎养育边际成本递减现象](/people-life/family-growth/multi-child-family-parenting-experience-1772325950111)
 - [守住道义与修养](/people-life/relationships-trust/moral-cultivation-and-desire-control-1772150231847)
 - [从家族往事看复利与借贷的财富启示](/people-life/relationships-trust/family-economic-lessons-1771635480764)
-- [个人借贷无凭证风险警示](/people-life/relationships-trust/report-1771635545693)

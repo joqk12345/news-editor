@@ -7,7 +7,7 @@ generatedType: "index"
 
 # 优先级总览
 
-- 高优先级：67 篇
+- 高优先级：68 篇
 - 中优先级：37 篇
 - 低优先级：13 篇
 
@@ -34,4 +34,4 @@ generatedType: "index"
 | 17 | [Claude Code子代理配置与管理全解析](/ai-software/agents-tooling/subagent-system-1771485189230) | `ai-software/agents-tooling` | 2026-02-19 | high (14) |
 | 18 | [非线性研究周期与无限游戏方法论](/ai-software/models-research/report-1773965873995) | `ai-software/models-research` | 2026-03-20 | high (13) |
 | 19 | [长期投资：时间固化收益与场外能力](/markets-wealth/investing-strategy/long-term-investment-strategy-1773965526136) | `markets-wealth/investing-strategy` | 2026-03-20 | high (13) |
-| 20 | [科研非线性探索四阶段论](/ai-software/models-research/research-methodology-1773965803838) | `ai-software/models-research` | 2026-03-20 | high (13) |
+| 20 | [谢赛宁：非线性研究是突破性科研的必经之路](/people-life/relationships-trust/non-linear-research-1773966439876) | `people-life/relationships-trust` | 2026-03-20 | high (13) |
