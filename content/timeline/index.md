@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 133 篇文档</span>
+  <span class="kb-chip">共 134 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
   <span class="kb-chip">高优先级 80 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
@@ -444,6 +444,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/research-methodology-1773966323440">研究如随机梯度下降：探索中捕捉灵感</a></div>
       <p>研究本质是探索过程，依赖高密度实验产生的“信号”与“梯度”指引方向，而非线性规划或凭空想象。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/fei-fei-li-s-research-philosophy-1774021413082">李飞飞“定义问题”能力如何塑造AI研究</a></div>
+      <p>李飞飞通过定义图像分类问题并构建ImageNet，为深度学习提供了关键试验场，其“定义问题”的能力启示研究者应成为议程设定者并深入真实世界发现价值。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">medium / 12</span>
