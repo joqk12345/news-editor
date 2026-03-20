@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 39 篇文档。
+共 40 篇文档。
 
 ## 文档列表
 
@@ -29,6 +29,7 @@ generatedType: "index"
 | [视觉智能四维度：本质与核心问题](./the-essence-and-core-problems-of-visual-intelligence-1774014869256) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [视觉与语言：智能系统中的根本分歧](./fundamental-differences-between-computer-vision-and-language-1774016109613) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [科研非线性探索四阶段论](./research-methodology-1773965803838) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
+| [科研系统必须反脆弱](./anti-fragility-in-research-systems-1774021796171) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [研究如随机梯度下降：探索与信号的艺术](./research-methodology-1773966371120) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [研究如拍电影：非线性探索与个人品味](./research-methodology-1774011972687) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [研究品味：五维度解析学术审美与哲学](./research-taste-1774011861664) | 2026-03-20 | high | ai-software, models-research, news, text-summary |

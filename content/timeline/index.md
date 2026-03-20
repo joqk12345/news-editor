@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 135 篇文档</span>
+  <span class="kb-chip">共 136 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
-  <span class="kb-chip">高优先级 80 篇</span>
+  <span class="kb-chip">高优先级 81 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
 </div>
 
@@ -211,6 +211,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">research</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/anti-fragility-in-research-systems-1774021796171">科研系统必须反脆弱</a></div>
+      <p>研究需构建反脆弱系统，从随机冲击与失败中获取大于损失的收益，以应对高度不确定性。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
       </div>
     </div>
   </div>
