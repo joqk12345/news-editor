@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>109</strong>
+      <strong>110</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>60</strong>
+      <strong>61</strong>
       <span>高优先级，另有 36 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>40 篇文档</span>
+        <span>41 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-20</span>
       </div>
-      <p class="kb-home-card-note">代表文档：何恺明研究哲学与工程极致融合的特点</p>
+      <p class="kb-home-card-note">代表文档：科研非线性探索四阶段论</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -149,10 +149,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/research-style-analysis-1773965704962">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/research-methodology-1773965803838">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>何恺明研究哲学与工程极致融合的特点</h3>
-      <p>本文基于谢赛宁观察，系统阐述何恺明在专注力、工程能力、哲学思维等方面兼具极致的研究特点。</p>
+      <h3>科研非线性探索四阶段论</h3>
+      <p>本文基于谢赛宁经验，系统阐述在周期压缩环境下科研的非线性本质，并拆解为方向确立、理念成型、拓展验证、论文打磨四阶段，最终指向“无限游戏”的职业生涯观。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
         <span>high / 13</span>
