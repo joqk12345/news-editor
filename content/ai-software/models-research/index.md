@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 24 篇文档。
+共 25 篇文档。
 
 ## 文档列表
 
@@ -23,6 +23,7 @@ generatedType: "index"
 | [非线性研究周期与无限游戏方法论](./report-1773965873995) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [科研非线性探索四阶段论](./research-methodology-1773965803838) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [研究如随机梯度下降：探索与信号的艺术](./research-methodology-1773966371120) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
+| [研究如拍电影：非线性探索与个人品味](./research-methodology-1774011972687) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [研究品味：五维度解析学术审美与哲学](./research-taste-1774011861664) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [残差注意力网络实现图像分类性能新突破](./report-1773966499350) | 2026-03-20 | high | ai-software, models-research, news, link-summary |
 | [强基线强工程：科研突破的基石](./research-methodology-1773966203304) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
