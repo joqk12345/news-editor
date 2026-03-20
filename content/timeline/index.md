@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 116 篇文档</span>
+  <span class="kb-chip">共 117 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
-  <span class="kb-chip">高优先级 66 篇</span>
+  <span class="kb-chip">高优先级 67 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
 </div>
 
@@ -91,6 +91,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">research</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/research-methodology-1773966371120">研究如随机梯度下降：探索与信号的艺术</a></div>
+      <p>研究本质是非线性探索过程，通过高密度实验捕捉信号与梯度，在试错中衍生真正灵感。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>
