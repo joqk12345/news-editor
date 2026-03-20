@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>124</strong>
+      <strong>125</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>73</strong>
+      <strong>74</strong>
       <span>高优先级，另有 38 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>52 篇文档</span>
+        <span>53 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-20</span>
       </div>
-      <p class="kb-home-card-note">代表文档：非线性研究周期与无限游戏方法论</p>
+      <p class="kb-home-card-note">代表文档：谢赛宁：质疑精神是AI研究核心原则</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -149,13 +149,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/report-1773965873995">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/research-methodology-1774012348710">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>非线性研究周期与无限游戏方法论</h3>
-      <p>阐述非线性研究周期的四个阶段及“无限游戏”的职业生涯观，强调动手基线、实验信号与反脆弱心态。</p>
+      <h3>谢赛宁：质疑精神是AI研究核心原则</h3>
+      <p>阐述谢赛宁科研方法论中质疑精神的核心地位，及其在抵抗盲从、打破共识、驱动深层理解与塑造研究品味四方面的具体体现。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
-        <span>high / 13</span>
+        <span>high / 14</span>
         <span>news</span>
       </div>
     </a>

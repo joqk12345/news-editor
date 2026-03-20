@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 124 篇文档</span>
+  <span class="kb-chip">共 125 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
-  <span class="kb-chip">高优先级 73 篇</span>
+  <span class="kb-chip">高优先级 74 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
 </div>
 
@@ -26,6 +26,21 @@ generatedType: "index"
       <p>文章通过历史类比论证，伊朗战争的胜负及美国主导的世界秩序稳定性，完全取决于霍尔木兹海峡的控制权归属。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">世界与战略 / 战略研究</span>
+        <span class="kb-chip">high / 14</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/research-methodology-1774012348710">谢赛宁：质疑精神是AI研究核心原则</a></div>
+      <p>阐述谢赛宁科研方法论中质疑精神的核心地位，及其在抵抗盲从、打破共识、驱动深层理解与塑造研究品味四方面的具体体现。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 14</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
@@ -1877,6 +1892,7 @@ generatedType: "index"
 ## 最近重点文档
 
 - [霍尔木兹海峡控制权决定伊朗战争与帝国兴衰](/world-strategy/strategic-research/geopolitical-risk-and-empire-cycle-1773966044986)：2026-03-20，世界与战略 / 战略研究。
+- [谢赛宁：质疑精神是AI研究核心原则](/ai-software/models-research/research-methodology-1774012348710)：2026-03-20，AI 与软件 / 模型与研究。
 - [终极对决与大周期：中东局势的深层逻辑](/world-strategy/strategic-research/geopolitical-conflict-and-historical-cycle-analysis-1773966111072)：2026-03-20，世界与战略 / 战略研究。
 - [构建高效协作的AI编程代理系统](/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333)：2026-03-19，AI 与软件 / 代理与工具。
 - [企业内部编码代理：构建、购买与实施策略](/ai-software/agents-tooling/report-1773935436772)：2026-03-19，AI 与软件 / 代理与工具。
@@ -1885,4 +1901,3 @@ generatedType: "index"
 - [AI正重塑经济基础设施](/ai-software/models-research/ai-1773418076847)：2026-03-13，AI 与软件 / 模型与研究。
 - [背景代理：实现自驱动代码库的路径与方法](/ai-software/agents-tooling/background-agents-and-self-driving-codebase-1772554684151)：2026-03-03，AI 与软件 / 代理与工具。
 - [异步编码代理：自动化代码研究新范式](/ai-software/agents-tooling/code-research-1772338428196)：2026-03-01，AI 与软件 / 代理与工具。
-- [Claude导入记忆功能：无缝切换AI服务](/ai-software/agents-tooling/claude-ai-1772409057881)：2026-03-01，AI 与软件 / 代理与工具。
