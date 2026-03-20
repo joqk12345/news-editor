@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 112 篇文档</span>
+  <span class="kb-chip">共 113 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
-  <span class="kb-chip">高优先级 63 篇</span>
+  <span class="kb-chip">高优先级 64 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../world-strategy/strategic-research/geopolitical-risk-and-empire-cycle-1773966044986">霍尔木兹海峡控制权决定伊朗战争与帝国兴衰</a></div>
+      <p>文章通过历史类比论证，伊朗战争的胜负及美国主导的世界秩序稳定性，完全取决于霍尔木兹海峡的控制权归属。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">世界与战略 / 战略研究</span>
+        <span class="kb-chip">high / 14</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-03-20</div>
     <div class="kb-timeline-card">
@@ -1696,6 +1711,7 @@ generatedType: "index"
 
 ## 最近重点文档
 
+- [霍尔木兹海峡控制权决定伊朗战争与帝国兴衰](/world-strategy/strategic-research/geopolitical-risk-and-empire-cycle-1773966044986)：2026-03-20，世界与战略 / 战略研究。
 - [构建高效协作的AI编程代理系统](/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333)：2026-03-19，AI 与软件 / 代理与工具。
 - [企业内部编码代理：构建、购买与实施策略](/ai-software/agents-tooling/report-1773935436772)：2026-03-19，AI 与软件 / 代理与工具。
 - [AI Agent沙盒平台比较与选型分析](/ai-software/agents-tooling/ai-agent-1773936648366)：2026-03-19，AI 与软件 / 代理与工具。
@@ -1705,4 +1721,3 @@ generatedType: "index"
 - [异步编码代理：自动化代码研究新范式](/ai-software/agents-tooling/code-research-1772338428196)：2026-03-01，AI 与软件 / 代理与工具。
 - [Claude导入记忆功能：无缝切换AI服务](/ai-software/agents-tooling/claude-ai-1772409057881)：2026-03-01，AI 与软件 / 代理与工具。
 - [开放共演与自我对弈驱动AI复杂性](/ai-software/models-research/ai-1772237728821)：2026-02-28，AI 与软件 / 模型与研究。
-- [AI代理研究组织模拟实验揭示创意瓶颈](/ai-software/agents-tooling/ai-agent-research-organization-simulation-1772237022583)：2026-02-28，AI 与软件 / 代理与工具。

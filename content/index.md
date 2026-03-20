@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>112</strong>
+      <strong>113</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>63</strong>
+      <strong>64</strong>
       <span>高优先级，另有 36 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -113,11 +113,11 @@ hero:
       <p class="kb-home-card-eyebrow">世界与战略</p>
       <h3>聚焦战略研究、政策冲击、地缘事件与文化历史素材。</h3>
       <div class="kb-home-card-meta">
-        <span>6 篇文档</span>
+        <span>7 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-17</span>
+        <span>最近更新 2026-03-20</span>
       </div>
-      <p class="kb-home-card-note">代表文档：霍尔木兹海峡控制权定伊朗战争胜负</p>
+      <p class="kb-home-card-note">代表文档：霍尔木兹海峡控制权决定伊朗战争与帝国兴衰</p>
     </a>
     <a class="kb-home-section-card" href="operations/">
       <p class="kb-home-card-eyebrow">流程与系统</p>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="world-strategy/strategic-research/geopolitical-risk-and-empire-cycle-1773966044986">
+      <p class="kb-home-card-eyebrow">世界与战略 / 战略研究</p>
+      <h3>霍尔木兹海峡控制权决定伊朗战争与帝国兴衰</h3>
+      <p>文章通过历史类比论证，伊朗战争的胜负及美国主导的世界秩序稳定性，完全取决于霍尔木兹海峡的控制权归属。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-20</span>
+        <span>high / 14</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="ai-software/models-research/report-1773965873995">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
       <h3>非线性研究周期与无限游戏方法论</h3>
@@ -166,16 +176,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-18</span>
         <span>medium / 12</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="world-strategy/strategic-research/iran-war-strategy-analysis-1773755948113">
-      <p class="kb-home-card-eyebrow">世界与战略 / 战略研究</p>
-      <h3>霍尔木兹海峡控制权定伊朗战争胜负</h3>
-      <p>本文通过历史类比论证霍尔木兹海峡控制权是伊朗战争胜负决定性因素，并警示美国失败可能引发帝国衰落与秩序重塑。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-17</span>
-        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
