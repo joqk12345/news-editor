@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 25 篇文档。
+共 26 篇文档。
 
 ## 文档列表
 
@@ -27,6 +27,7 @@ generatedType: "index"
 | [研究品味：五维度解析学术审美与哲学](./research-taste-1774011861664) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [残差注意力网络实现图像分类性能新突破](./report-1773966499350) | 2026-03-20 | high | ai-software, models-research, news, link-summary |
 | [强基线强工程：科研突破的基石](./research-methodology-1773966203304) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
+| [决策：科研叙事与人生变量的核心](./report-1774012066399) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [何恺明：科研赋能者的四大魔力](./research-leadership-traits-1773965971131) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [何恺明研究哲学与工程极致融合的特点](./research-style-analysis-1773965704962) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [杨立昆蛋糕理论：自监督学习是AI智能基石](./cake-analogy-1773929211750) | 2026-03-19 | high | ai-software, models-research, news, text-summary |
