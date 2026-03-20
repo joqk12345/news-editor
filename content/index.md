@@ -49,22 +49,22 @@ hero:
       <p>如果你还不确定怎么浏览，这四个入口分别对应结构、时间、连接关系和优先级。</p>
     </div>
     <div class="kb-home-entry-grid">
-      <a class="kb-home-entry-card" href="/taxonomy/">
+      <a class="kb-home-entry-card" href="taxonomy/">
         <p class="kb-home-card-eyebrow">Structure</p>
         <h3>分类体系</h3>
         <p>从一级主题域和二级分类切入，先建立整体认知框架。</p>
       </a>
-      <a class="kb-home-entry-card" href="/timeline/">
+      <a class="kb-home-entry-card" href="timeline/">
         <p class="kb-home-card-eyebrow">Chronology</p>
         <h3>时间轴</h3>
         <p>按日期回看新近内容，适合跟踪素材流入节奏。</p>
       </a>
-      <a class="kb-home-entry-card" href="/graph/">
+      <a class="kb-home-entry-card" href="graph/">
         <p class="kb-home-card-eyebrow">Connections</p>
         <h3>知识图谱</h3>
         <p>从主题标签和代表性文档之间的连接关系开始探索。</p>
       </a>
-      <a class="kb-home-entry-card" href="/priority/">
+      <a class="kb-home-entry-card" href="priority/">
         <p class="kb-home-card-eyebrow">Prioritization</p>
         <h3>优先级</h3>
         <p>直接查看高价值文档和当前最值得先读的部分。</p>
@@ -79,7 +79,7 @@ hero:
       <p>每个主题域都包含自己的子分类和代表性文档，适合按领域沉浸式阅读。</p>
     </div>
     <div class="kb-home-section-grid">
-    <a class="kb-home-section-card" href="/ai-software/">
+    <a class="kb-home-section-card" href="ai-software/">
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
@@ -89,7 +89,7 @@ hero:
       </div>
       <p class="kb-home-card-note">代表文档：构建高效协作的AI编程代理系统</p>
     </a>
-    <a class="kb-home-section-card" href="/markets-wealth/">
+    <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
@@ -99,7 +99,7 @@ hero:
       </div>
       <p class="kb-home-card-note">代表文档：瞬间价格波动反映情绪，长期投资方为理智</p>
     </a>
-    <a class="kb-home-section-card" href="/people-life/">
+    <a class="kb-home-section-card" href="people-life/">
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
@@ -109,7 +109,7 @@ hero:
       </div>
       <p class="kb-home-card-note">代表文档：两次生育假期体验对比：从帮衬到共担</p>
     </a>
-    <a class="kb-home-section-card" href="/world-strategy/">
+    <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
       <h3>聚焦战略研究、政策冲击、地缘事件与文化历史素材。</h3>
       <div class="kb-home-card-meta">
@@ -119,7 +119,7 @@ hero:
       </div>
       <p class="kb-home-card-note">代表文档：霍尔木兹海峡控制权定伊朗战争胜负</p>
     </a>
-    <a class="kb-home-section-card" href="/operations/">
+    <a class="kb-home-section-card" href="operations/">
       <p class="kb-home-card-eyebrow">流程与系统</p>
       <h3>聚焦流程产物、系统框架、工作流设计与抓取异常。</h3>
       <div class="kb-home-card-meta">
@@ -139,7 +139,7 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="/markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084">
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/dollar-cost-averaging-and-market-sentiment-1773965036084">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
       <h3>瞬间价格波动反映情绪，长期投资方为理智</h3>
       <p>瞬间价格变化仅反映市场情绪波动，不代表真实价值变动，非长期投资者难以保持理智。</p>
@@ -149,7 +149,7 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333">
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333">
       <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
       <h3>构建高效协作的AI编程代理系统</h3>
       <p>Ramp通过Inspect代理实现沙盒环境下的代码自主验证，OpenCode优化性能与多用户协作，并构建Slack/Web/Chrome多客户端生态，共同形成高效、可复现的AI编程代理系统。</p>
@@ -159,7 +159,7 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="/operations/systems-workflows/team-evaluation-methodology-1773875987060">
+    <a class="kb-home-highlight-card" href="operations/systems-workflows/team-evaluation-methodology-1773875987060">
       <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
       <h3>草台班子分级论：避免以偏概全的团队评价</h3>
       <p>通过“草台班子”分级和反复事件分析，避免以单一事故片面评价团队。</p>
@@ -169,7 +169,7 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="/world-strategy/strategic-research/iran-war-strategy-analysis-1773755948113">
+    <a class="kb-home-highlight-card" href="world-strategy/strategic-research/iran-war-strategy-analysis-1773755948113">
       <p class="kb-home-card-eyebrow">世界与战略 / 战略研究</p>
       <h3>霍尔木兹海峡控制权定伊朗战争胜负</h3>
       <p>本文通过历史类比论证霍尔木兹海峡控制权是伊朗战争胜负决定性因素，并警示美国失败可能引发帝国衰落与秩序重塑。</p>
@@ -179,7 +179,7 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="/people-life/family-growth/report-1772326493501">
+    <a class="kb-home-highlight-card" href="people-life/family-growth/report-1772326493501">
       <p class="kb-home-card-eyebrow">人与生活 / 家庭与成长</p>
       <h3>两次生育假期体验对比：从帮衬到共担</h3>
       <p>两次生育假期体验对比：从帮衬到共担</p>
@@ -189,7 +189,7 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="/markets-wealth/investing-strategy/investment-dca-psychology-1773965092088">
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/investment-dca-psychology-1773965092088">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
       <h3>牛市入场者更易因损失厌恶放弃定投</h3>
       <p>牛市入场者因快速获利产生的损失厌恶，比熊市入场者更容易放弃定投策略。</p>

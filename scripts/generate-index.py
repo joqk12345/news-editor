@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import posixpath
 from collections import Counter, defaultdict
 from html import escape
 from pathlib import Path
@@ -49,6 +50,21 @@ GRAPH_COLORS = {
 
 def parse_tags(raw_tags: str) -> list[str]:
     return [tag.strip() for tag in raw_tags.strip("[]").split(",") if tag.strip()]
+
+
+def relative_url(current_url: str, target_url: str) -> str:
+    current_dir = current_url.strip("/")
+    target_path = target_url.strip("/")
+
+    if not current_url.endswith("/"):
+        current_dir = posixpath.dirname(current_dir)
+
+    relative = posixpath.relpath(target_path or ".", start=current_dir or ".")
+    if target_url.endswith("/") and relative != "." and not relative.endswith("/"):
+        relative += "/"
+    if relative == ".":
+        return "./"
+    return relative
 
 
 def wrap_generated_page(title: str, description: str, body: str, extra_frontmatter: list[str] | None = None) -> str:
@@ -210,6 +226,7 @@ def select_home_highlights(documents: list[dict[str, object]], limit: int = 6) -
 
 
 def build_home_page(documents: list[dict[str, object]]) -> str:
+    page_url = "/"
     ordered_by_date = sort_documents_by_date(documents)
     known_dates = [str(document["date"]) for document in ordered_by_date if str(document["date"]) != "unknown"]
     latest_date = known_dates[0] if known_dates else "unknown"
@@ -250,9 +267,10 @@ def build_home_page(documents: list[dict[str, object]]) -> str:
         section_slug = section["slug"]
         section_docs = [document for document in documents if str(document["section_slug"]) == section_slug]
         section_latest = sort_documents_by_date(section_docs)[0] if section_docs else None
+        section_link = relative_url(page_url, f"/{section_slug}/")
         section_cards.extend(
             [
-                f'    <a class="kb-home-section-card" href="/{section_slug}/">',
+                f'    <a class="kb-home-section-card" href="{section_link}">',
                 f'      <p class="kb-home-card-eyebrow">{escape(section["title"])}</p>',
                 f'      <h3>{escape(section["description"])}</h3>',
                 "      <div class=\"kb-home-card-meta\">",
@@ -277,7 +295,10 @@ def build_home_page(documents: list[dict[str, object]]) -> str:
     for document in latest_highlights:
         highlight_cards.extend(
             [
-                f'    <a class="kb-home-highlight-card" href="{escape(str(document["url"]), quote=True)}">',
+                (
+                    '    <a class="kb-home-highlight-card" '
+                    f'href="{escape(relative_url(page_url, str(document["url"])), quote=True)}">'
+                ),
                 f'      <p class="kb-home-card-eyebrow">{escape(category_label(document))}</p>',
                 f'      <h3>{escape(str(document["title"]))}</h3>',
                 f'      <p>{escape(str(document["description"]))}</p>',
@@ -347,7 +368,7 @@ def build_home_page(documents: list[dict[str, object]]) -> str:
                 line
                 for card in entry_cards
                 for line in [
-                    f'      <a class="kb-home-entry-card" href="{card["link"]}">',
+                    f'      <a class="kb-home-entry-card" href="{relative_url(page_url, str(card["link"]))}">',
                     f'        <p class="kb-home-card-eyebrow">{escape(card["eyebrow"])}</p>',
                     f'        <h3>{escape(card["title"])}</h3>',
                     f'        <p>{escape(card["description"])}</p>',
@@ -445,6 +466,7 @@ def build_priority_page(documents: list[dict[str, object]]) -> str:
 
 
 def build_timeline_page(documents: list[dict[str, object]]) -> str:
+    page_url = "/timeline/"
     ordered = sort_documents_by_date(documents)
     known_dates = [str(document["date"]) for document in ordered if str(document["date"]) != "unknown"]
     date_counter = Counter(str(document["date"]) for document in ordered if str(document["date"]) != "unknown")
@@ -485,7 +507,7 @@ def build_timeline_page(documents: list[dict[str, object]]) -> str:
                 '    <div class="kb-timeline-card">',
                 (
                     '      <div class="kb-timeline-title">'
-                    f'<a href="{escape(str(document["url"]), quote=True)}">{escape(str(document["title"]))}</a>'
+                    f'<a href="{escape(relative_url(page_url, str(document["url"])), quote=True)}">{escape(str(document["title"]))}</a>'
                     "</div>"
                 ),
                 f'      <p>{escape(str(document["description"]))}</p>',
@@ -676,7 +698,7 @@ def svg_node(
     return "".join(parts)
 
 
-def build_graph_svg(documents: list[dict[str, object]]) -> str:
+def build_graph_svg(documents: list[dict[str, object]], page_url: str) -> str:
     section_counts = Counter(str(document["section_slug"]) for document in documents if document["section_slug"])
     category_counts = Counter(str(document["category"]) for document in documents if document["category"])
     featured_documents = select_featured_documents(documents, limit=12)
@@ -724,7 +746,7 @@ def build_graph_svg(documents: list[dict[str, object]]) -> str:
                 "key": str(document["url"]),
                 "label": truncate_label(str(document["title"]), 24),
                 "subtitle": f'{document["priority"]} / {document["date"]}',
-                "href": str(document["url"]),
+                "href": relative_url(page_url, str(document["url"])),
             }
             for document in featured_documents
         ],
@@ -873,6 +895,7 @@ def build_graph_svg(documents: list[dict[str, object]]) -> str:
 
 
 def build_graph_page(documents: list[dict[str, object]]) -> str:
+    page_url = "/graph/"
     section_counts = Counter(str(document["section_slug"]) for document in documents if document["section_slug"])
     category_counts = Counter(str(document["category"]) for document in documents if document["category"])
     featured_documents = select_featured_documents(documents, limit=12)
@@ -913,7 +936,7 @@ def build_graph_page(documents: list[dict[str, object]]) -> str:
         "## 图谱",
         "",
         '<div class="kb-graph-shell">',
-        build_graph_svg(documents),
+        build_graph_svg(documents, page_url),
         "</div>",
         "",
         "## 关键连接",
