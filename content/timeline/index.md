@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 129 篇文档</span>
+  <span class="kb-chip">共 130 篇文档</span>
   <span class="kb-chip">覆盖 17 个日期</span>
-  <span class="kb-chip">高优先级 76 篇</span>
+  <span class="kb-chip">高优先级 77 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-20</span>
 </div>
 
@@ -114,6 +114,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/artificial-intelligence-research-philosophy-1774014995524">谢赛宁：打造预测性大脑的三大追求</a></div>
       <p>谢赛宁主张通过构建通用世界模型和认知架构，提升物理智能，最终以理解本质来增加地球智能总量。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-20</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/the-essence-and-core-dimensions-of-visual-intelligence-1774015073456">视觉智能：理解智能本质的核心视角</a></div>
+      <p>谢赛宁提出视觉智能不仅是研究领域，更是理解智能本质的视角，并从生物演化、技术建模、应用终局三个维度定义其核心内涵。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
