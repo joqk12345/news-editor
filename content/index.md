@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>159</strong>
+      <strong>160</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>100</strong>
+      <strong>101</strong>
       <span>高优先级，另有 46 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -93,11 +93,11 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>37 篇文档</span>
+        <span>38 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-21</span>
       </div>
-      <p class="kb-home-card-note">代表文档：投资幻觉：每日最优标的的致命陷阱</p>
+      <p class="kb-home-card-note">代表文档：定投策略有效性跨越制度限制</p>
     </a>
     <a class="kb-home-section-card" href="people-life/">
       <p class="kb-home-card-eyebrow">人与生活</p>
@@ -149,13 +149,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/report-1774079774489">
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/dollar-cost-averaging-s-institutional-irrelevance-1774102795974">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>投资幻觉：每日最优标的的致命陷阱</h3>
-      <p>投资幻觉：每日最优标的的致命陷阱</p>
+      <h3>定投策略有效性跨越制度限制</h3>
+      <p>定投策略通过应对普遍人性弱点和跨越制度的风险，实现有效性。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-21</span>
-        <span>medium / 12</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
