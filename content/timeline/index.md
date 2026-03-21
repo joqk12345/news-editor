@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 153 篇文档</span>
+  <span class="kb-chip">共 154 篇文档</span>
   <span class="kb-chip">覆盖 18 个日期</span>
-  <span class="kb-chip">高优先级 96 篇</span>
+  <span class="kb-chip">高优先级 97 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
 </div>
 
@@ -24,6 +24,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/llm-1774052013977">谢赛宁：LLM非世界模型，需连续信号架构</a></div>
       <p>谢赛宁：LLM非世界模型，需连续信号架构</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 14</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-21</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/high-dimensional-abstract-representation-theory-1774077599300">智能体高维表征：超越Token与像素的物理世界密码</a></div>
+      <p>谢赛宁提出，智能体内部存在一个超越人类视角的Token与像素的高维实体，它是物理世界的全局状态，通过层次化抽象形成，是机器理解世界本质的认知密码。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 14</span>
@@ -2312,6 +2327,7 @@ generatedType: "index"
 ## 最近重点文档
 
 - [谢赛宁：LLM非世界模型，需连续信号架构](/ai-software/models-research/llm-1774052013977)：2026-03-21，AI 与软件 / 模型与研究。
+- [智能体高维表征：超越Token与像素的物理世界密码](/ai-software/models-research/high-dimensional-abstract-representation-theory-1774077599300)：2026-03-21，AI 与软件 / 模型与研究。
 - [世界模型：AI的预测性大脑与认知底座](/ai-software/models-research/world-model-1774058507847)：2026-03-21，AI 与软件 / 模型与研究。
 - [霍尔木兹海峡控制权决定伊朗战争与帝国兴衰](/world-strategy/strategic-research/geopolitical-risk-and-empire-cycle-1773966044986)：2026-03-20，世界与战略 / 战略研究。
 - [谢赛宁：质疑精神是AI研究核心原则](/ai-software/models-research/research-methodology-1774012348710)：2026-03-20，AI 与软件 / 模型与研究。
@@ -2320,4 +2336,3 @@ generatedType: "index"
 - [终极对决与大周期：中东局势的深层逻辑](/world-strategy/strategic-research/geopolitical-conflict-and-historical-cycle-analysis-1773966111072)：2026-03-20，世界与战略 / 战略研究。
 - [构建高效协作的AI编程代理系统](/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333)：2026-03-19，AI 与软件 / 代理与工具。
 - [企业内部编码代理：构建、购买与实施策略](/ai-software/agents-tooling/report-1773935436772)：2026-03-19，AI 与软件 / 代理与工具。
-- [AI Agent沙盒平台比较与选型分析](/ai-software/agents-tooling/ai-agent-1773936648366)：2026-03-19，AI 与软件 / 代理与工具。

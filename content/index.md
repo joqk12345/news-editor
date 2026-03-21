@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>153</strong>
+      <strong>154</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>96</strong>
+      <strong>97</strong>
       <span>高优先级，另有 44 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>81 篇文档</span>
+        <span>82 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-21</span>
       </div>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/world-model-1774058507847">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/high-dimensional-abstract-representation-theory-1774077599300">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>世界模型：AI的预测性大脑与认知底座</h3>
-      <p>世界模型是通过预测环境状态变化来指导决策的底层架构，强调原生安全与机器认知，区别于大语言模型和视频生成器。</p>
+      <h3>智能体高维表征：超越Token与像素的物理世界密码</h3>
+      <p>谢赛宁提出，智能体内部存在一个超越人类视角的Token与像素的高维实体，它是物理世界的全局状态，通过层次化抽象形成，是机器理解世界本质的认知密码。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-21</span>
         <span>high / 14</span>
