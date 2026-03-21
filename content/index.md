@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>139</strong>
+      <strong>140</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>84</strong>
+      <strong>85</strong>
       <span>高优先级，另有 42 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>67 篇文档</span>
+        <span>68 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-21</span>
       </div>
-      <p class="kb-home-card-note">代表文档：视觉与语言模型Scaling Law本质差异论</p>
+      <p class="kb-home-card-note">代表文档：谢赛宁：LLM非世界模型，需连续信号架构</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,13 +139,13 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="ai-software/models-research/scaling-law-1774051782112">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/llm-1774052013977">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>视觉与语言模型Scaling Law本质差异论</h3>
-      <p>谢赛宁认为CV与LLM的Scaling Law不同源于视觉与语言处理信号本质差异，视觉核心是过滤信息而非记忆知识。</p>
+      <h3>谢赛宁：LLM非世界模型，需连续信号架构</h3>
+      <p>谢赛宁：LLM非世界模型，需连续信号架构</p>
       <div class="kb-home-card-meta">
         <span>2026-03-21</span>
-        <span>high / 13</span>
+        <span>high / 14</span>
         <span>news</span>
       </div>
     </a>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/research-methodology-1774012348710">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/scaling-law-1774051782112">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>谢赛宁：质疑精神是AI研究核心原则</h3>
-      <p>阐述谢赛宁科研方法论中质疑精神的核心地位，及其在抵抗盲从、打破共识、驱动深层理解与塑造研究品味四方面的具体体现。</p>
+      <h3>视觉与语言模型Scaling Law本质差异论</h3>
+      <p>谢赛宁认为CV与LLM的Scaling Law不同源于视觉与语言处理信号本质差异，视觉核心是过滤信息而非记忆知识。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-20</span>
-        <span>high / 14</span>
+        <span>2026-03-21</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
