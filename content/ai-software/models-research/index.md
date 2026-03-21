@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 44 篇文档。
+共 45 篇文档。
 
 ## 文档列表
 
@@ -51,6 +51,7 @@ generatedType: "index"
 | [DualPath双路径架构破解大模型推理I/O瓶颈](./dualpathi-o-1772239986390) | 2026-02-28 | high | ai-software, models-research, news, link-summary |
 | [DualPath双路径技术突破大模型I/O瓶颈](./dualpath-dual-path-storage-optimization-1772201934355) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
 | [Gemini应用集成Lyria 3实现AI音乐生成](./ai-music-generation-1771483104064) | 2026-02-19 | high | ai-software, models-research, task, link-summary |
+| [莫拉维克悖论揭示AI物理智能短板](./moravec-s-paradox-and-ai-development-path-1774053173802) | 2026-03-21 | medium | ai-software, models-research, news, text-summary |
 | [研究如随机梯度下降：探索中捕捉灵感](./research-methodology-1773966323440) | 2026-03-20 | medium | ai-software, models-research, news, text-summary |
 | [李飞飞“定义问题”能力如何塑造AI研究](./fei-fei-li-s-research-philosophy-1774021413082) | 2026-03-20 | medium | ai-software, models-research, news, text-summary |
 | [决策：科研启发与人生路径的核心](./report-1774012134705) | 2026-03-20 | medium | ai-software, models-research, news, text-summary |
