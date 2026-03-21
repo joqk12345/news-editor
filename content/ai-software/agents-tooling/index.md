@@ -11,7 +11,7 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 24 篇文档。
+共 25 篇文档。
 
 ## 文档列表
 
@@ -28,6 +28,7 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 | [ZeroClaw：轻量级自主AI助手基础设施](./zeroclaw-ai-1771808496571) | 2026-02-23 | high | ai-software, agents-tooling, task, link-summary |
 | [个人AI基础设施 (PAI) 项目综合报告](./ai-pai-1771724329343) | 2026-02-22 | high | ai-software, agents-tooling, task, link-summary |
 | [Claude Code子代理配置与管理全解析](./subagent-system-1771485189230) | 2026-02-19 | high | ai-software, agents-tooling, task, link-summary |
+| [大语言模型物理认知局限解析](./llm-physical-world-understanding-1774078095210) | 2026-03-21 | high | ai-software, agents-tooling, news, text-summary |
 | [质疑XGo“白话文”比喻：设计哲学与生态兼容性探讨](./programming-language-design-metaphor-evaluation-1773930778073) | 2026-03-19 | high | ai-software, agents-tooling, news, text-summary |
 | [编码代理中子代理的应用与优势](./subagent-mechanism-1773791496353) | 2026-03-17 | high | ai-software, agents-tooling, news, text-summary |
 | [智能体定义困境：实用与术语风险](./agent-definition-problem-1773791813157) | 2026-03-17 | high | ai-software, agents-tooling, news, text-summary |
