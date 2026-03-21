@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 161 篇文档</span>
+  <span class="kb-chip">共 162 篇文档</span>
   <span class="kb-chip">覆盖 18 个日期</span>
   <span class="kb-chip">高优先级 102 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
@@ -341,6 +341,21 @@ generatedType: "index"
       <p>谢赛宁指出学术界依赖“贡献归因”机制驱动研究，但大模型时代工业界封闭与军备竞赛打破了该机制，导致研究者可见度下降。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-21</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../markets-wealth/investing-strategy/decentralized-ai-alliance-and-world-model-building-1774103678117">去中心化联盟构建世界模型破局AI垄断</a></div>
+      <p>谢赛宁借万事达卡发源故事，阐述AMI Labs联合实体产业构建去中心化“世界模型”以打破AI巨头垄断的愿景。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 投资策略</span>
         <span class="kb-chip">medium / 12</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>

@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ 市场与财富 ](/markets-wealth/)
 
-共 31 篇文档。
+共 32 篇文档。
 
 ## 文档列表
 
@@ -41,6 +41,7 @@ generatedType: "index"
 | [改变策略即背叛自己](./investment-strategy-and-psychological-construction-1771467603591) | 2026-02-19 | high | markets-wealth, investing-strategy, task, text-summary |
 | [微笑曲线：投资标的质量的长期验证](./smile-curve-in-investment-1771468645854) | 2026-02-19 | high | markets-wealth, investing-strategy, task, text-summary |
 | [投资幻觉：每日最优标的的致命陷阱](./report-1774079774489) | 2026-03-21 | medium | markets-wealth, investing-strategy, news, text-summary |
+| [去中心化联盟构建世界模型破局AI垄断](./decentralized-ai-alliance-and-world-model-building-1774103678117) | 2026-03-21 | medium | markets-wealth, investing-strategy, news, text-summary |
 | [警惕投资幻觉：100%收益后的盲目自信](./investment-illusion-1773965355930) | 2026-03-20 | medium | markets-wealth, investing-strategy, news, text-summary |
 | [规避负预期，选择正预期行为](./investment-behavior-expectation-management-1773965617502) | 2026-03-20 | medium | markets-wealth, investing-strategy, news, text-summary |
 | [避免负预期，选择正预期行为](./report-1773015647528) | 2026-03-09 | medium | markets-wealth, investing-strategy, news, text-summary |
