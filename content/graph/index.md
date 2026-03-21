@@ -13,7 +13,7 @@ outline: false
 把分类结构、重点文档和高频主题标签放到同一张图里，便于从主题域快速跳到代表性材料，再顺着标签回看相关脉络。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 145 篇文档</span>
+  <span class="kb-chip">共 146 篇文档</span>
   <span class="kb-chip">展示 12 篇重点文档</span>
   <span class="kb-chip">10 个高频主题标签</span>
 </div>
@@ -37,7 +37,7 @@ outline: false
   <text x="760" y="24" font-size="12" fill="#64748b">重点文档</text>
   <text x="1200" y="24" font-size="12" fill="#64748b">主题标签</text>
   <path d="M 280.0 77.0 C 340.0 77.0, 300.0 77.0, 360.0 77.0" fill="none" stroke="#93c5fd" stroke-width="4.0" opacity="0.65" />
-  <path d="M 280.0 77.0 C 340.0 77.0, 300.0 160.4, 360.0 160.4" fill="none" stroke="#93c5fd" stroke-width="6.5" opacity="0.65" />
+  <path d="M 280.0 77.0 C 340.0 77.0, 300.0 160.4, 360.0 160.4" fill="none" stroke="#93c5fd" stroke-width="6.6" opacity="0.65" />
   <path d="M 280.0 285.5 C 340.0 285.5, 300.0 243.8, 360.0 243.8" fill="none" stroke="#93c5fd" stroke-width="4.5" opacity="0.65" />
   <path d="M 280.0 285.5 C 340.0 285.5, 300.0 327.2, 360.0 327.2" fill="none" stroke="#93c5fd" stroke-width="2.3" opacity="0.65" />
   <path d="M 280.0 494.0 C 340.0 494.0, 300.0 410.6, 360.0 410.6" fill="none" stroke="#93c5fd" stroke-width="2.4" opacity="0.65" />
@@ -83,13 +83,13 @@ outline: false
   <path d="M 620.0 160.4 C 680.0 160.4, 700.0 911.0, 760.0 911.0" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
   <path d="M 1080.0 911.0 C 1140.0 911.0, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
   <path d="M 1080.0 911.0 C 1140.0 911.0, 1140.0 169.7, 1200.0 169.7" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <g><title>AI 与软件</title><rect x="60.0" y="48.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">AI 与软件</text><text x="76.0" y="88.0" font-size="11.5" fill="#475569">73 篇文档</text></g>
+  <g><title>AI 与软件</title><rect x="60.0" y="48.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">AI 与软件</text><text x="76.0" y="88.0" font-size="11.5" fill="#475569">74 篇文档</text></g>
   <g><title>市场与财富</title><rect x="60.0" y="256.5" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="280.5" font-size="14" font-weight="700" fill="#0f172a">市场与财富</text><text x="76.0" y="296.5" font-size="11.5" fill="#475569">36 篇文档</text></g>
   <g><title>人与生活</title><rect x="60.0" y="465.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="489.0" font-size="14" font-weight="700" fill="#0f172a">人与生活</text><text x="76.0" y="505.0" font-size="11.5" fill="#475569">13 篇文档</text></g>
   <g><title>世界与战略</title><rect x="60.0" y="673.5" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="697.5" font-size="14" font-weight="700" fill="#0f172a">世界与战略</text><text x="76.0" y="713.5" font-size="11.5" fill="#475569">8 篇文档</text></g>
   <g><title>流程与系统</title><rect x="60.0" y="882.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="906.0" font-size="14" font-weight="700" fill="#0f172a">流程与系统</text><text x="76.0" y="922.0" font-size="11.5" fill="#475569">15 篇文档</text></g>
   <g><title>代理与工具</title><rect x="360.0" y="48.0" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">代理与工具</text><text x="376.0" y="88.0" font-size="11.5" fill="#475569">24 篇文档</text></g>
-  <g><title>模型与研究</title><rect x="360.0" y="131.4" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="155.4" font-size="14" font-weight="700" fill="#0f172a">模型与研究</text><text x="376.0" y="171.4" font-size="11.5" fill="#475569">49 篇文档</text></g>
+  <g><title>模型与研究</title><rect x="360.0" y="131.4" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="155.4" font-size="14" font-weight="700" fill="#0f172a">模型与研究</text><text x="376.0" y="171.4" font-size="11.5" fill="#475569">50 篇文档</text></g>
   <g><title>投资策略</title><rect x="360.0" y="214.8" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="238.8" font-size="14" font-weight="700" fill="#0f172a">投资策略</text><text x="376.0" y="254.8" font-size="11.5" fill="#475569">29 篇文档</text></g>
   <g><title>财富心理</title><rect x="360.0" y="298.2" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="322.2" font-size="14" font-weight="700" fill="#0f172a">财富心理</text><text x="376.0" y="338.2" font-size="11.5" fill="#475569">7 篇文档</text></g>
   <g><title>关系与信任</title><rect x="360.0" y="381.6" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="405.6" font-size="14" font-weight="700" fill="#0f172a">关系与信任</text><text x="376.0" y="421.6" font-size="11.5" fill="#475569">8 篇文档</text></g>
@@ -126,8 +126,8 @@ outline: false
 
 ## 关键连接
 
-- 最活跃一级分类：`AI 与软件`，共 73 篇文档。
-- 最密集二级分类：`AI 与软件 / 模型与研究`，共 49 篇文档。
+- 最活跃一级分类：`AI 与软件`，共 74 篇文档。
+- 最密集二级分类：`AI 与软件 / 模型与研究`，共 50 篇文档。
 - 图谱中最密集的主题标签：`models`，连接 8 篇重点文档。
 
 ## 重点文档入口

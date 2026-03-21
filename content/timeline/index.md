@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 145 篇文档</span>
+  <span class="kb-chip">共 146 篇文档</span>
   <span class="kb-chip">覆盖 18 个日期</span>
-  <span class="kb-chip">高优先级 88 篇</span>
+  <span class="kb-chip">高优先级 89 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
 </div>
 
@@ -76,6 +76,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-21</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/world-model-1774058639449">世界模型：智能体的预测性大脑</a></div>
+      <p>世界模型是通过预测环境状态指导决策的底层架构，具备物理理解、联想记忆、推理规划等五大核心特征，与大语言模型和视频生成器存在本质区别。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>
