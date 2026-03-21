@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 51 篇文档。
+共 52 篇文档。
 
 ## 文档列表
 
@@ -29,6 +29,7 @@ generatedType: "index"
 | [世界模拟器与预测性大脑：智能本质的分歧](./world-model-architecture-divergence-1774058360412) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [世界模型：智能体的预测性大脑](./world-model-1774058639449) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [世界模型：从生理假想到AI终局的演进史](./world-model-1774058788850) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
+| [世界模型中的State：决策导向的抽象表征](./state-concept-in-world-models-1774058838945) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [Vision Thinking：AI视觉推理的先行探索](./vision-thinking-ai-1774055798585) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [非线性研究周期与无限游戏方法论](./report-1773965873995) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [谢赛宁：打造预测性大脑的三大追求](./artificial-intelligence-research-philosophy-1774014995524) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
