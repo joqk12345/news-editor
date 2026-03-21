@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 158 篇文档</span>
+  <span class="kb-chip">共 159 篇文档</span>
   <span class="kb-chip">覆盖 18 个日期</span>
   <span class="kb-chip">高优先级 100 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
@@ -286,6 +286,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-21</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../markets-wealth/investing-strategy/report-1774079774489">投资幻觉：每日最优标的的致命陷阱</a></div>
+      <p>投资幻觉：每日最优标的的致命陷阱</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">investing</span>
       </div>
     </div>
   </div>

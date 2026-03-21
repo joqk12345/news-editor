@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>158</strong>
+      <strong>159</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>100</strong>
-      <span>高优先级，另有 45 篇中优先级</span>
+      <span>高优先级，另有 46 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -93,11 +93,11 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>36 篇文档</span>
+        <span>37 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-20</span>
+        <span>最近更新 2026-03-21</span>
       </div>
-      <p class="kb-home-card-note">代表文档：长期投资：时间固化收益与场外能力</p>
+      <p class="kb-home-card-note">代表文档：投资幻觉：每日最优标的的致命陷阱</p>
     </a>
     <a class="kb-home-section-card" href="people-life/">
       <p class="kb-home-card-eyebrow">人与生活</p>
@@ -149,6 +149,16 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/report-1774079774489">
+      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
+      <h3>投资幻觉：每日最优标的的致命陷阱</h3>
+      <p>投资幻觉：每日最优标的的致命陷阱</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-21</span>
+        <span>medium / 12</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="people-life/relationships-trust/not-mentioned-1774077941250">
       <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
       <h3>为什么说LLM在物理世界中会表现得很“傻”？</h3>
@@ -166,16 +176,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-20</span>
         <span>high / 14</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/long-term-investment-strategy-1773965526136">
-      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>长期投资：时间固化收益与场外能力</h3>
-      <p>社群强调长期持有使浮盈固化，普通人需依赖场外赚钱能力进行持续投入。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-20</span>
-        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
