@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 154 篇文档</span>
+  <span class="kb-chip">共 155 篇文档</span>
   <span class="kb-chip">覆盖 18 个日期</span>
-  <span class="kb-chip">高优先级 97 篇</span>
+  <span class="kb-chip">高优先级 98 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
 </div>
 
@@ -211,6 +211,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-21</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/ami-labs-vision-1774077813612">AMI Labs：打造物理世界模型，探索AI新范式</a></div>
+      <p>AMI Labs旨在通过构建物理世界模型、联合实体产业形成草根联盟、建立纯粹探索文化，突破大语言模型局限，推动AI科学革命。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>
