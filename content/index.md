@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>144</strong>
+      <strong>145</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>87</strong>
+      <strong>88</strong>
       <span>高优先级，另有 44 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>72 篇文档</span>
+        <span>73 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-21</span>
       </div>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/scaling-law-1774051782112">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/world-model-1774058507847">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>视觉与语言模型Scaling Law本质差异论</h3>
-      <p>谢赛宁认为CV与LLM的Scaling Law不同源于视觉与语言处理信号本质差异，视觉核心是过滤信息而非记忆知识。</p>
+      <h3>世界模型：AI的预测性大脑与认知底座</h3>
+      <p>世界模型是通过预测环境状态变化来指导决策的底层架构，强调原生安全与机器认知，区别于大语言模型和视频生成器。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-21</span>
-        <span>high / 13</span>
+        <span>high / 14</span>
         <span>news</span>
       </div>
     </a>

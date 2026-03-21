@@ -11,13 +11,14 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 48 篇文档。
+共 49 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
 | [谢赛宁：LLM非世界模型，需连续信号架构](./llm-1774052013977) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
+| [世界模型：AI的预测性大脑与认知底座](./world-model-1774058507847) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [谢赛宁：质疑精神是AI研究核心原则](./research-methodology-1774012348710) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [视觉即智能：谢赛宁论智能体基石](./report-1774015352695) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [视觉即智能：谢赛宁论AI的物理世界基石](./the-equivalence-between-vision-and-agent-1774015501589) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
