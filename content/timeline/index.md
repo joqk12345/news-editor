@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 143 篇文档</span>
+  <span class="kb-chip">共 144 篇文档</span>
   <span class="kb-chip">覆盖 18 个日期</span>
-  <span class="kb-chip">高优先级 86 篇</span>
+  <span class="kb-chip">高优先级 87 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
 </div>
 
@@ -39,6 +39,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/scaling-law-1774051782112">视觉与语言模型Scaling Law本质差异论</a></div>
       <p>谢赛宁认为CV与LLM的Scaling Law不同源于视觉与语言处理信号本质差异，视觉核心是过滤信息而非记忆知识。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-21</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/world-model-architecture-divergence-1774058360412">世界模拟器与预测性大脑：智能本质的分歧</a></div>
+      <p>谢赛宁指出Sora代表的“世界模拟器”与“预测性大脑”在核心目标、受众及智能本质上存在根本区别，前者服务于人类视觉，后者构建机器智能认知底座。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
