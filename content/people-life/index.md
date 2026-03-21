@@ -11,7 +11,7 @@ generatedType: "index"
 
 ## 子分类
 
-- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 8 篇。
+- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 9 篇。
 - [家庭与成长](./family-growth/)：育儿、生育、成长转变、教育心态与家庭经验。 共 5 篇。
 
 ## 最近更新
@@ -21,6 +21,6 @@ generatedType: "index"
 - [两次生育假期体验对比：从帮衬到共担](/people-life/family-growth/report-1772326493501)
 - [三胎育儿经历：月子中心体验与喂养请教](/people-life/family-growth/report-1772290103087)
 - [信任的韧性：在伤害后重建善意](/people-life/relationships-trust/trust-and-risk-management-1771635978813)
+- [为什么说LLM在物理世界中会表现得很“傻”？](/people-life/relationships-trust/not-mentioned-1774077941250)
 - [多胎养育边际成本递减现象](/people-life/family-growth/multi-child-family-parenting-experience-1772325950111)
 - [守住道义与修养](/people-life/relationships-trust/moral-cultivation-and-desire-control-1772150231847)
-- [从家族往事看复利与借贷的财富启示](/people-life/relationships-trust/family-economic-lessons-1771635480764)
