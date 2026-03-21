@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 150 篇文档</span>
+  <span class="kb-chip">共 151 篇文档</span>
   <span class="kb-chip">覆盖 18 个日期</span>
-  <span class="kb-chip">高优先级 93 篇</span>
+  <span class="kb-chip">高优先级 94 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
 </div>
 
@@ -129,6 +129,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/world-model-1774058788850">世界模型：从生理假想到AI终局的演进史</a></div>
       <p>访谈追溯“世界模型”概念自1943年Craik提出后，在生理学、控制理论、强化学习及深度学习中的跨学科演进，强调其作为AI长期核心目标的持续性。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-21</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/world-model-1774077047236">世界模型：AI发展的终极目的</a></div>
+      <p>谢赛宁提出世界模型是AI发展的终极目的而非具体算法，强调当前技术路线争论是暂时的，最终殊途同归，目标是打造预测性认知架构。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
