@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>164</strong>
+      <strong>165</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>104</strong>
-      <span>高优先级，另有 47 篇中优先级</span>
+      <span>高优先级，另有 48 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>14 篇文档</span>
+        <span>15 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-21</span>
       </div>
-      <p class="kb-home-card-note">代表文档：为什么说LLM在物理世界中会表现得很“傻”？</p>
+      <p class="kb-home-card-note">代表文档：印刷术与生成式AI的知识传播模式对比</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -159,13 +159,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="people-life/relationships-trust/not-mentioned-1774077941250">
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/evolution-of-knowledge-dissemination-models-1774109293009">
       <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
-      <h3>为什么说LLM在物理世界中会表现得很“傻”？</h3>
-      <p>未提及</p>
+      <h3>印刷术与生成式AI的知识传播模式对比</h3>
+      <p>文本对比了启蒙时代印刷术促进的渐进式知识积累与生成式AI基于海量数据的瞬时信息处理模式。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-21</span>
-        <span>medium / 11</span>
+        <span>medium / 12</span>
         <span>news</span>
       </div>
     </a>

@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 164 篇文档</span>
+  <span class="kb-chip">共 165 篇文档</span>
   <span class="kb-chip">覆盖 18 个日期</span>
   <span class="kb-chip">高优先级 104 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
@@ -386,6 +386,21 @@ generatedType: "index"
       <p>谢赛宁借万事达卡发源故事，阐述AMI Labs联合实体产业构建去中心化“世界模型”以打破AI巨头垄断的愿景。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-21</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../people-life/relationships-trust/evolution-of-knowledge-dissemination-models-1774109293009">印刷术与生成式AI的知识传播模式对比</a></div>
+      <p>文本对比了启蒙时代印刷术促进的渐进式知识积累与生成式AI基于海量数据的瞬时信息处理模式。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">人与生活 / 关系与信任</span>
         <span class="kb-chip">medium / 12</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
