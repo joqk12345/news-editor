@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 56 篇文档。
+共 57 篇文档。
 
 ## 文档列表
 
@@ -35,6 +35,7 @@ generatedType: "index"
 | [世界模型五特征协同机制解析](./report-1774077304753) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [世界模型中的State：决策导向的抽象表征](./state-concept-in-world-models-1774058838945) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [Vision Thinking：AI视觉推理的先行探索](./vision-thinking-ai-1774055798585) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
+| [AI眼镜：世界模型构建的关键数据枢纽](./ai-glasses-and-world-model-construction-1774077435566) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [非线性研究周期与无限游戏方法论](./report-1773965873995) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [谢赛宁：打造预测性大脑的三大追求](./artificial-intelligence-research-philosophy-1774014995524) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
 | [谢赛宁的“反脆弱”科研哲学](./research-mindset-and-publication-1774021945998) | 2026-03-20 | high | ai-software, models-research, news, text-summary |
