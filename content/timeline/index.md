@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 163 篇文档</span>
+  <span class="kb-chip">共 164 篇文档</span>
   <span class="kb-chip">覆盖 18 个日期</span>
-  <span class="kb-chip">高优先级 103 篇</span>
+  <span class="kb-chip">高优先级 104 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
 </div>
 
@@ -144,6 +144,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/agents-tooling/llm-physical-world-understanding-1774078095210">大语言模型物理认知局限解析</a></div>
       <p>学者指出大语言模型因处理机制与物理世界特性根本错位，在物理交互中表现不足，需构建世界模型。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 代理与工具</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-21</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/agents-tooling/kaiming-he-s-academic-contributions-and-paper-writing-philosophy-1774103929358">何恺明：AI里程碑塑造者与论文美学大师</a></div>
+      <p>访谈通过谢赛宁视角，展现何恺明在计算机视觉领域的里程碑工作及其对论文写作极致审美的追求。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 代理与工具</span>
         <span class="kb-chip">high / 13</span>
