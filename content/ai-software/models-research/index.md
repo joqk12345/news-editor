@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 53 篇文档。
+共 54 篇文档。
 
 ## 文档列表
 
@@ -27,6 +27,7 @@ generatedType: "index"
 | [M5芯片：AI硬件本地化拐点](./m5-ai-1772150684171) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
 | [视觉与语言模型Scaling Law本质差异论](./scaling-law-1774051782112) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [状态与表征学习的内在联系](./relationship-between-state-and-representation-learning-1774058896338) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
+| [流体力学类比揭示AI世界模型抽象本质](./ai-world-model-construction-methodology-1774076074449) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [世界模拟器与预测性大脑：智能本质的分歧](./world-model-architecture-divergence-1774058360412) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [世界模型：智能体的预测性大脑](./world-model-1774058639449) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [世界模型：从生理假想到AI终局的演进史](./world-model-1774058788850) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
