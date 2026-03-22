@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 178 篇文档</span>
+  <span class="kb-chip">共 179 篇文档</span>
   <span class="kb-chip">覆盖 19 个日期</span>
   <span class="kb-chip">高优先级 114 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-22</span>
@@ -176,6 +176,21 @@ generatedType: "index"
       <p>伊朗可能利用霍尔木兹海峡地理优势封锁航道，导致石油、肥料和半导体供应链中断，并重演类似苏伊士运河危机的霸权转移。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">世界与战略 / 战略研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-22</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/book-recommendations-and-cognitive-shaping-1774198894841">九本书塑造的科研认知与人生启示</a></div>
+      <p>本文通过推荐九本涵盖数学、科研、智能、哲学等领域的书籍，阐述阅读如何深化对科研本质、智能边界及人生意义的理解。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">medium / 12</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
