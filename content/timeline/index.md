@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 176 篇文档</span>
+  <span class="kb-chip">共 177 篇文档</span>
   <span class="kb-chip">覆盖 19 个日期</span>
-  <span class="kb-chip">高优先级 112 篇</span>
+  <span class="kb-chip">高优先级 113 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-22</span>
 </div>
 
@@ -84,6 +84,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/international-strategy-and-resource-security-1774198498164">中国多领域战略布局与“沉默赢家”策略分析</a></div>
       <p>中国通过提前布局工业氮气、调控化肥市场及利用地缘局势收集情报，实现多领域战略优势。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-22</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/financial-ethics-and-crisis-management-1774198608996">《Margin Call》：次贷危机前夜的华尔街抉择</a></div>
+      <p>华尔街投行在2008年次贷危机爆发前夜，面临将有害资产抛售给客户以自保的冷酷抉择。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
