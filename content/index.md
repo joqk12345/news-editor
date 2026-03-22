@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>177</strong>
+      <strong>178</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>113</strong>
+      <strong>114</strong>
       <span>高优先级，另有 51 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>97 篇文档</span>
+        <span>98 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-22</span>
       </div>
-      <p class="kb-home-card-note">代表文档：基于Claude与Obsidian的AI员工系统构建方案</p>
+      <p class="kb-home-card-note">代表文档：对‘Token经济学’概念的批判性分析</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -149,10 +149,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-powered-business-automation-1774140701317">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>基于Claude与Obsidian的AI员工系统构建方案</h3>
-      <p>通过Claude AI、Obsidian笔记、Fathom转录、Zapier自动化和Google Drive存储，构建低成本、自记忆的AI员工系统，实现业务操作自动化。</p>
+    <a class="kb-home-highlight-card" href="ai-software/models-research/token-economics-1774198688137">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>对‘Token经济学’概念的批判性分析</h3>
+      <p>本文批判‘Token经济学’为英伟达的营销叙事，指出其命名荒谬、按Token计费是过渡形态，并预测AI算力终将沦为廉价公共基础设施。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-22</span>
         <span>high / 13</span>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/software-development-workflow-transformation-1774140997318">
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-powered-business-automation-1774140701317">
       <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>倡导以AI代理为中心的软件开发新范式</h3>
-      <p>为应对AI代理将主导软件开发的未来趋势，团队应优先通过代理处理任务，减少直接IDE编码。</p>
+      <h3>基于Claude与Obsidian的AI员工系统构建方案</h3>
+      <p>通过Claude AI、Obsidian笔记、Fathom转录、Zapier自动化和Google Drive存储，构建低成本、自记忆的AI员工系统，实现业务操作自动化。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-22</span>
         <span>high / 13</span>
