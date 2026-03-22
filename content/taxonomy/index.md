@@ -11,7 +11,7 @@ generatedType: "index"
 
 ## 一级分类
 
-- [AI 与软件](/ai-software/)：聚焦 AI 代理、模型系统、研究方法与软件工具链。 共 89 篇。
+- [AI 与软件](/ai-software/)：聚焦 AI 代理、模型系统、研究方法与软件工具链。 共 90 篇。
 - [市场与财富](/markets-wealth/)：聚焦投资判断、资产配置、财富观念与行为偏差。 共 39 篇。
 - [人与生活](/people-life/)：聚焦关系、家庭、成长、教育与自我管理。 共 15 篇。
 - [世界与战略](/world-strategy/)：聚焦战略研究、政策冲击、地缘事件与文化历史素材。 共 8 篇。
@@ -19,7 +19,7 @@ generatedType: "index"
 
 ## 二级分类
 
-- [AI 与软件 / 代理与工具](/ai-software/agents-tooling/)：AI 代理、编码助手、开发工作流与工具使用经验。 共 27 篇。
+- [AI 与软件 / 代理与工具](/ai-software/agents-tooling/)：AI 代理、编码助手、开发工作流与工具使用经验。 共 28 篇。
 - [AI 与软件 / 模型与研究](/ai-software/models-research/)：模型发布、推理基础设施、研究范式与科研方法。 共 62 篇。
 - [市场与财富 / 投资策略](/markets-wealth/investing-strategy/)：投资方法、市场分析、资本配置与可执行策略。 共 32 篇。
 - [市场与财富 / 财富心理](/markets-wealth/wealth-psychology/)：财富感知、消费偏差、风险偏好与借贷决策。 共 7 篇。

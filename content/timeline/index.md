@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 166 篇文档</span>
-  <span class="kb-chip">覆盖 18 个日期</span>
-  <span class="kb-chip">高优先级 104 篇</span>
-  <span class="kb-chip">时间范围 2026-02-19 至 2026-03-21</span>
+  <span class="kb-chip">共 167 篇文档</span>
+  <span class="kb-chip">覆盖 19 个日期</span>
+  <span class="kb-chip">高优先级 105 篇</span>
+  <span class="kb-chip">时间范围 2026-02-19 至 2026-03-22</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-22</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/agents-tooling/software-development-model-transformation-1774138678277">AI时代软件开发：从执行工单到拥有结果</a></div>
+      <p>AI工具使代码实现不再是瓶颈，工程师需转向选择问题、构建系统和决策，从执行工单转向拥有业务成果。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 代理与工具</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-03-21</div>
     <div class="kb-timeline-card">

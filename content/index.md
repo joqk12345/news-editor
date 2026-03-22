@@ -22,17 +22,17 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>166</strong>
+      <strong>167</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>104</strong>
+      <strong>105</strong>
       <span>高优先级，另有 49 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
-      <strong>2026-03-21</strong>
+      <strong>2026-03-22</strong>
       <span>最早可追溯至 2026-02-19</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>89 篇文档</span>
+        <span>90 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-21</span>
+        <span>最近更新 2026-03-22</span>
       </div>
-      <p class="kb-home-card-note">代表文档：谢赛宁：LLM非世界模型，需连续信号架构</p>
+      <p class="kb-home-card-note">代表文档：AI时代软件开发：从执行工单到拥有结果</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,13 +139,13 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="ai-software/models-research/llm-1774052013977">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>谢赛宁：LLM非世界模型，需连续信号架构</h3>
-      <p>谢赛宁：LLM非世界模型，需连续信号架构</p>
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/software-development-model-transformation-1774138678277">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
+      <h3>AI时代软件开发：从执行工单到拥有结果</h3>
+      <p>AI工具使代码实现不再是瓶颈，工程师需转向选择问题、构建系统和决策，从执行工单转向拥有业务成果。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-21</span>
-        <span>high / 14</span>
+        <span>2026-03-22</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/high-dimensional-abstract-representation-theory-1774077599300">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/llm-1774052013977">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>智能体高维表征：超越Token与像素的物理世界密码</h3>
-      <p>谢赛宁提出，智能体内部存在一个超越人类视角的Token与像素的高维实体，它是物理世界的全局状态，通过层次化抽象形成，是机器理解世界本质的认知密码。</p>
+      <h3>谢赛宁：LLM非世界模型，需连续信号架构</h3>
+      <p>谢赛宁：LLM非世界模型，需连续信号架构</p>
       <div class="kb-home-card-meta">
         <span>2026-03-21</span>
         <span>high / 14</span>
