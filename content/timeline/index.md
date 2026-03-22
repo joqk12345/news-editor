@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 174 篇文档</span>
+  <span class="kb-chip">共 175 篇文档</span>
   <span class="kb-chip">覆盖 19 个日期</span>
   <span class="kb-chip">高优先级 111 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-22</span>
@@ -121,6 +121,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-22</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../world-strategy/strategic-research/us-iran-tensions-and-strait-of-hormuz-1774198399537">霍尔木兹海峡封锁引发三大全球供应链风险</a></div>
+      <p>伊朗可能利用霍尔木兹海峡地理优势封锁航道，导致石油、肥料和半导体供应链中断，并重演类似苏伊士运河危机的霸权转移。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">世界与战略 / 战略研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
       </div>
     </div>
   </div>
