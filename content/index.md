@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>169</strong>
+      <strong>170</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>107</strong>
+      <strong>108</strong>
       <span>高优先级，另有 49 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>92 篇文档</span>
+        <span>93 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-22</span>
       </div>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-driven-software-development-1774140499761">
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/software-development-workflow-transformation-1774140997318">
       <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>Coinbase AI驱动开发流程案例</h3>
-      <p>Coinbase通过AI自动化将用户反馈直接转化为代码修复，实现从反馈到发布的周期压缩。</p>
+      <h3>倡导以AI代理为中心的软件开发新范式</h3>
+      <p>为应对AI代理将主导软件开发的未来趋势，团队应优先通过代理处理任务，减少直接IDE编码。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-22</span>
         <span>high / 13</span>
