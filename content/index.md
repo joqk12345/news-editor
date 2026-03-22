@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>171</strong>
+      <strong>172</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>109</strong>
-      <span>高优先级，另有 49 篇中优先级</span>
+      <span>高优先级，另有 50 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>15 篇文档</span>
+        <span>16 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-21</span>
+        <span>最近更新 2026-03-22</span>
       </div>
-      <p class="kb-home-card-note">代表文档：印刷术与生成式AI的知识传播模式对比</p>
+      <p class="kb-home-card-note">代表文档：笑来老师自建EPUB阅读器Vmark</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -149,6 +149,16 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/personal-software-customization-1774182716190">
+      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
+      <h3>笑来老师自建EPUB阅读器Vmark</h3>
+      <p>笑来老师于2025年11月基于foliate.js开发了完全符合个人偏好的EPUB阅读器Vmark。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-22</span>
+        <span>medium / 11</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/dollar-cost-averaging-s-institutional-irrelevance-1774102795974">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
       <h3>定投策略有效性跨越制度限制</h3>
@@ -156,16 +166,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-21</span>
         <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="people-life/relationships-trust/evolution-of-knowledge-dissemination-models-1774109293009">
-      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
-      <h3>印刷术与生成式AI的知识传播模式对比</h3>
-      <p>文本对比了启蒙时代印刷术促进的渐进式知识积累与生成式AI基于海量数据的瞬时信息处理模式。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-21</span>
-        <span>medium / 12</span>
         <span>news</span>
       </div>
     </a>
