@@ -13,7 +13,7 @@ generatedType: "index"
 
 - [AI 与软件](/ai-software/)：聚焦 AI 代理、模型系统、研究方法与软件工具链。 共 99 篇。
 - [市场与财富](/markets-wealth/)：聚焦投资判断、资产配置、财富观念与行为偏差。 共 39 篇。
-- [人与生活](/people-life/)：聚焦关系、家庭、成长、教育与自我管理。 共 17 篇。
+- [人与生活](/people-life/)：聚焦关系、家庭、成长、教育与自我管理。 共 18 篇。
 - [世界与战略](/world-strategy/)：聚焦战略研究、政策冲击、地缘事件与文化历史素材。 共 10 篇。
 - [流程与系统](/operations/)：聚焦流程产物、系统框架、工作流设计与抓取异常。 共 15 篇。
 
@@ -23,7 +23,7 @@ generatedType: "index"
 - [AI 与软件 / 模型与研究](/ai-software/models-research/)：模型发布、推理基础设施、研究范式与科研方法。 共 67 篇。
 - [市场与财富 / 投资策略](/markets-wealth/investing-strategy/)：投资方法、市场分析、资本配置与可执行策略。 共 32 篇。
 - [市场与财富 / 财富心理](/markets-wealth/wealth-psychology/)：财富感知、消费偏差、风险偏好与借贷决策。 共 7 篇。
-- [人与生活 / 关系与信任](/people-life/relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 12 篇。
+- [人与生活 / 关系与信任](/people-life/relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 13 篇。
 - [人与生活 / 家庭与成长](/people-life/family-growth/)：育儿、生育、成长转变、教育心态与家庭经验。 共 5 篇。
 - [世界与战略 / 战略研究](/world-strategy/strategic-research/)：情景推演、政策风险、市场结构与地缘分析。 共 9 篇。
 - [世界与战略 / 文化与历史](/world-strategy/culture-history/)：文化事件、历史语境与跨领域观察。 共 1 篇。

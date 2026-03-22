@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 180 篇文档</span>
+  <span class="kb-chip">共 181 篇文档</span>
   <span class="kb-chip">覆盖 19 个日期</span>
   <span class="kb-chip">高优先级 114 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-22</span>
@@ -226,6 +226,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">psychology</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-22</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../people-life/relationships-trust/analysis-of-personal-traits-1774221448730">杨立昆：科研愿景与管理哲学解读</a></div>
+      <p>本文阐述了杨立昆在AI科研愿景、科学家正直、管理哲学及个人爱好方面的核心特质。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">人与生活 / 关系与信任</span>
+        <span class="kb-chip">medium / 11</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
       </div>
     </div>
   </div>
