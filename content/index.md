@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>179</strong>
+      <strong>180</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>114</strong>
-      <span>高优先级，另有 52 篇中优先级</span>
+      <span>高优先级，另有 53 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>16 篇文档</span>
+        <span>17 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-22</span>
       </div>
-      <p class="kb-home-card-note">代表文档：笑来老师自建EPUB阅读器Vmark</p>
+      <p class="kb-home-card-note">代表文档：顶尖人才因共同使命聚集做前沿研究</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -159,10 +159,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="people-life/relationships-trust/personal-software-customization-1774182716190">
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/scientific-collaboration-and-talent-aggregation-1774199099383">
       <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
-      <h3>笑来老师自建EPUB阅读器Vmark</h3>
-      <p>笑来老师于2025年11月基于foliate.js开发了完全符合个人偏好的EPUB阅读器Vmark。</p>
+      <h3>顶尖人才因共同使命聚集做前沿研究</h3>
+      <p>顶尖人才因共同探索前沿研究的使命感而聚集，而非财务回报。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-22</span>
         <span>medium / 11</span>

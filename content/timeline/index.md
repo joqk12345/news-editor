@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 179 篇文档</span>
+  <span class="kb-chip">共 180 篇文档</span>
   <span class="kb-chip">覆盖 19 个日期</span>
   <span class="kb-chip">高优先级 114 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-22</span>
@@ -192,6 +192,21 @@ generatedType: "index"
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-22</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../people-life/relationships-trust/scientific-collaboration-and-talent-aggregation-1774199099383">顶尖人才因共同使命聚集做前沿研究</a></div>
+      <p>顶尖人才因共同探索前沿研究的使命感而聚集，而非财务回报。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">人与生活 / 关系与信任</span>
+        <span class="kb-chip">medium / 11</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>

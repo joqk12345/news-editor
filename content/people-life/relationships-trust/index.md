@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ 人与生活 ](/people-life/)
 
-共 11 篇文档。
+共 12 篇文档。
 
 ## 文档列表
 
@@ -20,6 +20,7 @@ generatedType: "index"
 | [谢赛宁：非线性研究是突破性科研的必经之路](./non-linear-research-1773966439876) | 2026-03-20 | high | people-life, relationships-trust, news, text-summary |
 | [印刷术与生成式AI的知识传播模式对比](./evolution-of-knowledge-dissemination-models-1774109293009) | 2026-03-21 | medium | people-life, relationships-trust, news, text-summary |
 | [信任的韧性：在伤害后重建善意](./trust-and-risk-management-1771635978813) | 2026-02-21 | medium | people-life, relationships-trust, task, text-summary |
+| [顶尖人才因共同使命聚集做前沿研究](./scientific-collaboration-and-talent-aggregation-1774199099383) | 2026-03-22 | medium | people-life, relationships-trust, news, text-summary |
 | [笑来老师自建EPUB阅读器Vmark](./personal-software-customization-1774182716190) | 2026-03-22 | medium | people-life, relationships-trust, news, text-summary |
 | [为什么说LLM在物理世界中会表现得很“傻”？](./not-mentioned-1774077941250) | 2026-03-21 | medium | people-life, relationships-trust, news, text-summary |
 | [守住道义与修养](./moral-cultivation-and-desire-control-1772150231847) | 2026-02-26 | medium | people-life, relationships-trust, task, text-summary |
