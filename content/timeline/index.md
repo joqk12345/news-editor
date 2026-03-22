@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 170 篇文档</span>
+  <span class="kb-chip">共 171 篇文档</span>
   <span class="kb-chip">覆盖 19 个日期</span>
-  <span class="kb-chip">高优先级 108 篇</span>
+  <span class="kb-chip">高优先级 109 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-22</span>
 </div>
 
@@ -39,6 +39,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/agents-tooling/software-development-workflow-transformation-1774140997318">倡导以AI代理为中心的软件开发新范式</a></div>
       <p>为应对AI代理将主导软件开发的未来趋势，团队应优先通过代理处理任务，减少直接IDE编码。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 代理与工具</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-22</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/agents-tooling/ai-agents-in-software-development-1774141437703">代理驱动工程：用AI代理重塑开发流程</a></div>
+      <p>团队通过全面采用AI代理替代传统编码，在数周内大幅提升效率并完成长期项目，标志着工程思维向意图与验证的转变。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 代理与工具</span>
         <span class="kb-chip">high / 13</span>

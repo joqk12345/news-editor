@@ -11,7 +11,7 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 31 篇文档。
+共 32 篇文档。
 
 ## 文档列表
 
@@ -30,6 +30,7 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 | [Claude Code子代理配置与管理全解析](./subagent-system-1771485189230) | 2026-02-19 | high | ai-software, agents-tooling, task, link-summary |
 | [基于Claude与Obsidian的AI员工系统构建方案](./ai-powered-business-automation-1774140701317) | 2026-03-22 | high | ai-software, agents-tooling, news, link-summary |
 | [倡导以AI代理为中心的软件开发新范式](./software-development-workflow-transformation-1774140997318) | 2026-03-22 | high | ai-software, agents-tooling, news, text-summary |
+| [代理驱动工程：用AI代理重塑开发流程](./ai-agents-in-software-development-1774141437703) | 2026-03-22 | high | ai-software, agents-tooling, news, text-summary |
 | [Coinbase AI驱动开发流程案例](./ai-driven-software-development-1774140499761) | 2026-03-22 | high | ai-software, agents-tooling, news, text-summary |
 | [AI时代软件开发：从执行工单到拥有结果](./software-development-model-transformation-1774138678277) | 2026-03-22 | high | ai-software, agents-tooling, news, text-summary |
 | [大语言模型物理认知局限解析](./llm-physical-world-understanding-1774078095210) | 2026-03-21 | high | ai-software, agents-tooling, news, text-summary |
