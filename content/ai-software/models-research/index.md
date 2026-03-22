@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 62 篇文档。
+共 63 篇文档。
 
 ## 文档列表
 
@@ -26,6 +26,7 @@ generatedType: "index"
 | [AI正重塑经济基础设施](./ai-1773418076847) | 2026-03-13 | high | ai-software, models-research, news, text-summary |
 | [开放共演与自我对弈驱动AI复杂性](./ai-1772237728821) | 2026-02-28 | high | ai-software, models-research, news, text-summary |
 | [M5芯片：AI硬件本地化拐点](./m5-ai-1772150684171) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
+| [AI术语鉴伪：批判流行营销词汇](./ai-terminology-critique-1774198262492) | 2026-03-22 | high | ai-software, models-research, news, text-summary |
 | [谢赛宁：拒稿“免疫”与科研“反脆弱”哲学](./research-mindset-and-paper-publication-1774103820665) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [视觉与语言模型Scaling Law本质差异论](./scaling-law-1774051782112) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
 | [状态与表征学习的内在联系](./relationship-between-state-and-representation-learning-1774058896338) | 2026-03-21 | high | ai-software, models-research, news, text-summary |
