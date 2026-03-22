@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 172 篇文档</span>
+  <span class="kb-chip">共 173 篇文档</span>
   <span class="kb-chip">覆盖 19 个日期</span>
-  <span class="kb-chip">高优先级 109 篇</span>
+  <span class="kb-chip">高优先级 110 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-22</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-22</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../world-strategy/strategic-research/us-iran-geopolitical-conflict-over-strait-of-hormuz-1774198182381">美伊霍尔木兹海峡危机被比作国运之战</a></div>
+      <p>美国在霍尔木兹海峡的困境使其陷入类似英国失去苏伊士运河的霸权存亡考验。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">世界与战略 / 战略研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-03-22</div>
     <div class="kb-timeline-card">

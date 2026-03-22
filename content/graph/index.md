@@ -13,7 +13,7 @@ outline: false
 把分类结构、重点文档和高频主题标签放到同一张图里，便于从主题域快速跳到代表性材料，再顺着标签回看相关脉络。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 172 篇文档</span>
+  <span class="kb-chip">共 173 篇文档</span>
   <span class="kb-chip">展示 12 篇重点文档</span>
   <span class="kb-chip">10 个高频主题标签</span>
 </div>
@@ -42,7 +42,7 @@ outline: false
   <path d="M 280.0 285.5 C 340.0 285.5, 300.0 327.2, 360.0 327.2" fill="none" stroke="#93c5fd" stroke-width="2.3" opacity="0.65" />
   <path d="M 280.0 494.0 C 340.0 494.0, 300.0 410.6, 360.0 410.6" fill="none" stroke="#93c5fd" stroke-width="2.7" opacity="0.65" />
   <path d="M 280.0 494.0 C 340.0 494.0, 300.0 494.0, 360.0 494.0" fill="none" stroke="#93c5fd" stroke-width="2.1" opacity="0.65" />
-  <path d="M 280.0 702.5 C 340.0 702.5, 300.0 577.4, 360.0 577.4" fill="none" stroke="#93c5fd" stroke-width="2.3" opacity="0.65" />
+  <path d="M 280.0 702.5 C 340.0 702.5, 300.0 577.4, 360.0 577.4" fill="none" stroke="#93c5fd" stroke-width="2.4" opacity="0.65" />
   <path d="M 280.0 702.5 C 340.0 702.5, 300.0 660.8, 360.0 660.8" fill="none" stroke="#93c5fd" stroke-width="1.7" opacity="0.65" />
   <path d="M 280.0 911.0 C 340.0 911.0, 300.0 744.2, 360.0 744.2" fill="none" stroke="#93c5fd" stroke-width="2.6" opacity="0.65" />
   <path d="M 280.0 911.0 C 340.0 911.0, 300.0 827.6, 360.0 827.6" fill="none" stroke="#93c5fd" stroke-width="2.1" opacity="0.65" />
@@ -86,7 +86,7 @@ outline: false
   <g><title>AI 与软件</title><rect x="60.0" y="48.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">AI 与软件</text><text x="76.0" y="88.0" font-size="11.5" fill="#475569">94 篇文档</text></g>
   <g><title>市场与财富</title><rect x="60.0" y="256.5" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="280.5" font-size="14" font-weight="700" fill="#0f172a">市场与财富</text><text x="76.0" y="296.5" font-size="11.5" fill="#475569">39 篇文档</text></g>
   <g><title>人与生活</title><rect x="60.0" y="465.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="489.0" font-size="14" font-weight="700" fill="#0f172a">人与生活</text><text x="76.0" y="505.0" font-size="11.5" fill="#475569">16 篇文档</text></g>
-  <g><title>世界与战略</title><rect x="60.0" y="673.5" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="697.5" font-size="14" font-weight="700" fill="#0f172a">世界与战略</text><text x="76.0" y="713.5" font-size="11.5" fill="#475569">8 篇文档</text></g>
+  <g><title>世界与战略</title><rect x="60.0" y="673.5" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="697.5" font-size="14" font-weight="700" fill="#0f172a">世界与战略</text><text x="76.0" y="713.5" font-size="11.5" fill="#475569">9 篇文档</text></g>
   <g><title>流程与系统</title><rect x="60.0" y="882.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="906.0" font-size="14" font-weight="700" fill="#0f172a">流程与系统</text><text x="76.0" y="922.0" font-size="11.5" fill="#475569">15 篇文档</text></g>
   <g><title>代理与工具</title><rect x="360.0" y="48.0" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">代理与工具</text><text x="376.0" y="88.0" font-size="11.5" fill="#475569">32 篇文档</text></g>
   <g><title>模型与研究</title><rect x="360.0" y="131.4" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="155.4" font-size="14" font-weight="700" fill="#0f172a">模型与研究</text><text x="376.0" y="171.4" font-size="11.5" fill="#475569">62 篇文档</text></g>
@@ -94,7 +94,7 @@ outline: false
   <g><title>财富心理</title><rect x="360.0" y="298.2" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="322.2" font-size="14" font-weight="700" fill="#0f172a">财富心理</text><text x="376.0" y="338.2" font-size="11.5" fill="#475569">7 篇文档</text></g>
   <g><title>关系与信任</title><rect x="360.0" y="381.6" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="405.6" font-size="14" font-weight="700" fill="#0f172a">关系与信任</text><text x="376.0" y="421.6" font-size="11.5" fill="#475569">11 篇文档</text></g>
   <g><title>家庭与成长</title><rect x="360.0" y="465.0" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="489.0" font-size="14" font-weight="700" fill="#0f172a">家庭与成长</text><text x="376.0" y="505.0" font-size="11.5" fill="#475569">5 篇文档</text></g>
-  <g><title>战略研究</title><rect x="360.0" y="548.4" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="572.4" font-size="14" font-weight="700" fill="#0f172a">战略研究</text><text x="376.0" y="588.4" font-size="11.5" fill="#475569">7 篇文档</text></g>
+  <g><title>战略研究</title><rect x="360.0" y="548.4" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="572.4" font-size="14" font-weight="700" fill="#0f172a">战略研究</text><text x="376.0" y="588.4" font-size="11.5" fill="#475569">8 篇文档</text></g>
   <g><title>文化与历史</title><rect x="360.0" y="631.8" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="655.8" font-size="14" font-weight="700" fill="#0f172a">文化与历史</text><text x="376.0" y="671.8" font-size="11.5" fill="#475569">1 篇文档</text></g>
   <g><title>系统与工作流</title><rect x="360.0" y="715.2" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="739.2" font-size="14" font-weight="700" fill="#0f172a">系统与工作流</text><text x="376.0" y="755.2" font-size="11.5" fill="#475569">10 篇文档</text></g>
   <g><title>抓取异常</title><rect x="360.0" y="798.6" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="822.6" font-size="14" font-weight="700" fill="#0f172a">抓取异常</text><text x="376.0" y="838.6" font-size="11.5" fill="#475569">5 篇文档</text></g>
