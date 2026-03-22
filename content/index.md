@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>167</strong>
+      <strong>168</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>105</strong>
+      <strong>106</strong>
       <span>高优先级，另有 49 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>90 篇文档</span>
+        <span>91 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-22</span>
       </div>
-      <p class="kb-home-card-note">代表文档：AI时代软件开发：从执行工单到拥有结果</p>
+      <p class="kb-home-card-note">代表文档：Coinbase AI驱动开发流程案例</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,10 +139,10 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/software-development-model-transformation-1774138678277">
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-driven-software-development-1774140499761">
       <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>AI时代软件开发：从执行工单到拥有结果</h3>
-      <p>AI工具使代码实现不再是瓶颈，工程师需转向选择问题、构建系统和决策，从执行工单转向拥有业务成果。</p>
+      <h3>Coinbase AI驱动开发流程案例</h3>
+      <p>Coinbase通过AI自动化将用户反馈直接转化为代码修复，实现从反馈到发布的周期压缩。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-22</span>
         <span>high / 13</span>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/llm-1774052013977">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>谢赛宁：LLM非世界模型，需连续信号架构</h3>
-      <p>谢赛宁：LLM非世界模型，需连续信号架构</p>
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/software-development-model-transformation-1774138678277">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
+      <h3>AI时代软件开发：从执行工单到拥有结果</h3>
+      <p>AI工具使代码实现不再是瓶颈，工程师需转向选择问题、构建系统和决策，从执行工单转向拥有业务成果。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-21</span>
-        <span>high / 14</span>
+        <span>2026-03-22</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
