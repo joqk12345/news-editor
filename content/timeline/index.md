@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 182 篇文档</span>
+  <span class="kb-chip">共 183 篇文档</span>
   <span class="kb-chip">覆盖 20 个日期</span>
   <span class="kb-chip">高优先级 114 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-23</span>
@@ -27,6 +27,21 @@ generatedType: "index"
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-23</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../people-life/relationships-trust/team-role-positioning-and-empowerment-1774225298808">谢赛宁以‘电池’自喻的团队角色观</a></div>
+      <p>谢赛宁借克洛普‘电池’隐喻，表达在团队中甘当能量输出者、赋能他人的角色定位。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">人与生活 / 关系与信任</span>
+        <span class="kb-chip">medium / 11</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>

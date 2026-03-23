@@ -11,7 +11,7 @@ generatedType: "index"
 
 ## 子分类
 
-- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 13 篇。
+- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 14 篇。
 - [家庭与成长](./family-growth/)：育儿、生育、成长转变、教育心态与家庭经验。 共 5 篇。
 
 ## 最近更新
@@ -22,5 +22,5 @@ generatedType: "index"
 - [两次生育假期体验对比：从帮衬到共担](/people-life/family-growth/report-1772326493501)
 - [三胎育儿经历：月子中心体验与喂养请教](/people-life/family-growth/report-1772290103087)
 - [信任的韧性：在伤害后重建善意](/people-life/relationships-trust/trust-and-risk-management-1771635978813)
+- [谢赛宁以‘电池’自喻的团队角色观](/people-life/relationships-trust/team-role-positioning-and-empowerment-1774225298808)
 - [顶尖人才因共同使命聚集做前沿研究](/people-life/relationships-trust/scientific-collaboration-and-talent-aggregation-1774199099383)
-- [笑来老师自建EPUB阅读器Vmark](/people-life/relationships-trust/personal-software-customization-1774182716190)
