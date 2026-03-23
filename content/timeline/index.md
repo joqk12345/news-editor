@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 188 篇文档</span>
+  <span class="kb-chip">共 189 篇文档</span>
   <span class="kb-chip">覆盖 20 个日期</span>
-  <span class="kb-chip">高优先级 116 篇</span>
+  <span class="kb-chip">高优先级 117 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-23</span>
 </div>
 
@@ -31,6 +31,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-23</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../markets-wealth/investing-strategy/real-estate-investment-strategy-1774276073893">Indigo房产投资策略：自住为核，抵押加杠杆</a></div>
+      <p>Indigo通过将自住房产抵押套现获取低息贷款，再投资高收益市场以实现财富增值，而非直接炒房。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>

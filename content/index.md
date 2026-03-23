@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>188</strong>
+      <strong>189</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>116</strong>
+      <strong>117</strong>
       <span>高优先级，另有 59 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -93,7 +93,7 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>40 篇文档</span>
+        <span>41 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-23</span>
       </div>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/agi-critique-1774225451183">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>谢赛宁批AGI为伪命题：智能无通用性</h3>
-      <p>谢赛宁论证AGI为伪命题，主张智能无通用性，AI应聚焦物理世界模型而非虚幻通用智能。</p>
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/real-estate-investment-strategy-1774276073893">
+      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
+      <h3>Indigo房产投资策略：自住为核，抵押加杠杆</h3>
+      <p>Indigo通过将自住房产抵押套现获取低息贷款，再投资高收益市场以实现财富增值，而非直接炒房。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-23</span>
-        <span>medium / 12</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
