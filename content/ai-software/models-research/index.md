@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 71 篇文档。
+共 72 篇文档。
 
 ## 文档列表
 
@@ -75,6 +75,7 @@ generatedType: "index"
 | [谢赛宁批AGI为伪命题：智能无通用性](./agi-critique-1774225451183) | 2026-03-23 | medium | ai-software, models-research, news, text-summary |
 | [杨立昆乐观源于AI寒冬经历与科技洞察自信](./yann-lecun-s-optimism-and-technological-insight-1774225266355) | 2026-03-23 | medium | ai-software, models-research, news, text-summary |
 | [Sutton论智能：松鼠生存挑战高于LLM成就](./philosophy-of-intelligence-1774225346129) | 2026-03-23 | medium | ai-software, models-research, news, text-summary |
+| [2026商业物种：AI驱动的“一人公司”崛起](./commercial-species-evolution-in-2026-1774276807110) | 2026-03-23 | medium | ai-software, models-research, news, text-summary |
 | [九本书塑造的科研认知与人生启示](./book-recommendations-and-cognitive-shaping-1774198894841) | 2026-03-22 | medium | ai-software, models-research, news, text-summary |
 | [莫拉维克悖论揭示AI物理智能短板](./moravec-s-paradox-and-ai-development-path-1774053173802) | 2026-03-21 | medium | ai-software, models-research, news, text-summary |
 | [学术贡献归因机制在LLM时代被商业竞争打破](./academic-credit-assignment-mechanism-and-commercial-competition-1774056690234) | 2026-03-21 | medium | ai-software, models-research, news, text-summary |
