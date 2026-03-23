@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>183</strong>
+      <strong>184</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>114</strong>
-      <span>高优先级，另有 56 篇中优先级</span>
+      <span>高优先级，另有 57 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>100 篇文档</span>
+        <span>101 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-23</span>
       </div>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/token-economics-1774198688137">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/philosophy-of-intelligence-1774225346129">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>对‘Token经济学’概念的批判性分析</h3>
-      <p>本文批判‘Token经济学’为英伟达的营销叙事，指出其命名荒谬、按Token计费是过渡形态，并预测AI算力终将沦为廉价公共基础设施。</p>
+      <h3>Sutton论智能：松鼠生存挑战高于LLM成就</h3>
+      <p>Sutton认为，能在物理世界存活的‘松鼠智能’比LLM在数字空间的成就更本质、更困难。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-22</span>
-        <span>high / 13</span>
+        <span>2026-03-23</span>
+        <span>medium / 12</span>
         <span>news</span>
       </div>
     </a>

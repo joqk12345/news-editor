@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 183 篇文档</span>
+  <span class="kb-chip">共 184 篇文档</span>
   <span class="kb-chip">覆盖 20 个日期</span>
   <span class="kb-chip">高优先级 114 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-23</span>
@@ -24,6 +24,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/yann-lecun-s-optimism-and-technological-insight-1774225266355">杨立昆乐观源于AI寒冬经历与科技洞察自信</a></div>
       <p>杨立昆的乐观源于其亲历AI寒冬并坚信自己洞察了通往未来智能的清晰路径。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-23</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/philosophy-of-intelligence-1774225346129">Sutton论智能：松鼠生存挑战高于LLM成就</a></div>
+      <p>Sutton认为，能在物理世界存活的‘松鼠智能’比LLM在数字空间的成就更本质、更困难。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">medium / 12</span>
