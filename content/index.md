@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>185</strong>
+      <strong>186</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>114</strong>
+      <strong>115</strong>
       <span>高优先级，另有 58 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -93,11 +93,11 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>39 篇文档</span>
+        <span>40 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-21</span>
+        <span>最近更新 2026-03-23</span>
       </div>
-      <p class="kb-home-card-note">代表文档：定投策略有效性跨越制度限制</p>
+      <p class="kb-home-card-note">代表文档：学习、做工、稀缺与钱的逻辑链条</p>
     </a>
     <a class="kb-home-section-card" href="people-life/">
       <p class="kb-home-card-eyebrow">人与生活</p>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="markets-wealth/wealth-psychology/analysis-of-the-relationship-between-learning-work-scarcity-and-money-1774274196706">
+      <p class="kb-home-card-eyebrow">市场与财富 / 财富心理</p>
+      <h3>学习、做工、稀缺与钱的逻辑链条</h3>
+      <p>钱作为稀缺资源需通过做工创造价值获取，而学习旨在提升做工效率以最终赢得财富。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-23</span>
+        <span>high / 13</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="ai-software/models-research/agi-critique-1774225451183">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
       <h3>谢赛宁批AGI为伪命题：智能无通用性</h3>
@@ -165,16 +175,6 @@ hero:
       <p>美国在霍尔木兹海峡的困境使其陷入类似英国失去苏伊士运河的霸权存亡考验。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-22</span>
-        <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/dollar-cost-averaging-s-institutional-irrelevance-1774102795974">
-      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>定投策略有效性跨越制度限制</h3>
-      <p>定投策略通过应对普遍人性弱点和跨越制度的风险，实现有效性。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-21</span>
         <span>high / 13</span>
         <span>news</span>
       </div>

@@ -11,12 +11,13 @@ generatedType: "index"
 
 上级分类：[ 市场与财富 ](/markets-wealth/)
 
-共 7 篇文档。
+共 8 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
+| [学习、做工、稀缺与钱的逻辑链条](./analysis-of-the-relationship-between-learning-work-scarcity-and-money-1774274196706) | 2026-03-23 | high | markets-wealth, wealth-psychology, news, text-summary |
 | [长期主义与财富管理实践要点](./personal-wealth-management-and-long-termism-practice-1772152773599) | 2026-02-27 | high | markets-wealth, wealth-psychology, task, text-summary |
 | [心理定义如何重塑财富感知](./wealth-psychology-1772152805084) | 2026-02-27 | high | markets-wealth, wealth-psychology, task, text-summary |
 | [极少数人的孤独、风险与开放策略](./survival-strategies-for-the-minority-1771890022195) | 2026-02-23 | high | markets-wealth, wealth-psychology, task, text-summary |

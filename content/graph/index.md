@@ -13,9 +13,9 @@ outline: false
 把分类结构、重点文档和高频主题标签放到同一张图里，便于从主题域快速跳到代表性材料，再顺着标签回看相关脉络。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 185 篇文档</span>
+  <span class="kb-chip">共 186 篇文档</span>
   <span class="kb-chip">展示 12 篇重点文档</span>
-  <span class="kb-chip">10 个高频主题标签</span>
+  <span class="kb-chip">8 个高频主题标签</span>
 </div>
 
 ## 图例
@@ -39,7 +39,7 @@ outline: false
   <path d="M 280.0 77.0 C 340.0 77.0, 300.0 77.0, 360.0 77.0" fill="none" stroke="#93c5fd" stroke-width="4.8" opacity="0.65" />
   <path d="M 280.0 77.0 C 340.0 77.0, 300.0 160.4, 360.0 160.4" fill="none" stroke="#93c5fd" stroke-width="8.6" opacity="0.65" />
   <path d="M 280.0 285.5 C 340.0 285.5, 300.0 243.8, 360.0 243.8" fill="none" stroke="#93c5fd" stroke-width="4.8" opacity="0.65" />
-  <path d="M 280.0 285.5 C 340.0 285.5, 300.0 327.2, 360.0 327.2" fill="none" stroke="#93c5fd" stroke-width="2.3" opacity="0.65" />
+  <path d="M 280.0 285.5 C 340.0 285.5, 300.0 327.2, 360.0 327.2" fill="none" stroke="#93c5fd" stroke-width="2.4" opacity="0.65" />
   <path d="M 280.0 494.0 C 340.0 494.0, 300.0 410.6, 360.0 410.6" fill="none" stroke="#93c5fd" stroke-width="3.0" opacity="0.65" />
   <path d="M 280.0 494.0 C 340.0 494.0, 300.0 494.0, 360.0 494.0" fill="none" stroke="#93c5fd" stroke-width="2.1" opacity="0.65" />
   <path d="M 280.0 702.5 C 340.0 702.5, 300.0 577.4, 360.0 577.4" fill="none" stroke="#93c5fd" stroke-width="2.5" opacity="0.65" />
@@ -48,50 +48,43 @@ outline: false
   <path d="M 280.0 911.0 C 340.0 911.0, 300.0 827.6, 360.0 827.6" fill="none" stroke="#93c5fd" stroke-width="2.1" opacity="0.65" />
   <path d="M 280.0 911.0 C 340.0 911.0, 300.0 911.0, 360.0 911.0" fill="none" stroke="#93c5fd" stroke-width="1.6" opacity="0.65" />
   <path d="M 620.0 77.0 C 680.0 77.0, 700.0 77.0, 760.0 77.0" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 77.0 C 1140.0 77.0, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 77.0 C 1140.0 77.0, 1140.0 262.3, 1200.0 262.3" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
+  <path d="M 1080.0 77.0 C 1140.0 77.0, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
   <path d="M 620.0 160.4 C 680.0 160.4, 700.0 152.8, 760.0 152.8" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 152.8 C 1140.0 152.8, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 152.8 C 1140.0 152.8, 1140.0 262.3, 1200.0 262.3" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
+  <path d="M 1080.0 152.8 C 1140.0 152.8, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
   <path d="M 620.0 243.8 C 680.0 243.8, 700.0 228.6, 760.0 228.6" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 228.6 C 1140.0 228.6, 1140.0 169.7, 1200.0 169.7" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 228.6 C 1140.0 228.6, 1140.0 447.7, 1200.0 447.7" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
+  <path d="M 1080.0 228.6 C 1140.0 228.6, 1140.0 672.7, 1200.0 672.7" fill="none" stroke="#fca5a5" stroke-width="1.6" opacity="0.75" />
+  <path d="M 1080.0 228.6 C 1140.0 228.6, 1140.0 315.3, 1200.0 315.3" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
   <path d="M 620.0 327.2 C 680.0 327.2, 700.0 304.5, 760.0 304.5" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 304.5 C 1140.0 304.5, 1140.0 447.7, 1200.0 447.7" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
-  <path d="M 1080.0 304.5 C 1140.0 304.5, 1140.0 540.3, 1200.0 540.3" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
+  <path d="M 1080.0 304.5 C 1140.0 304.5, 1140.0 315.3, 1200.0 315.3" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
   <path d="M 620.0 410.6 C 680.0 410.6, 700.0 380.3, 760.0 380.3" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 380.3 C 1140.0 380.3, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 380.3 C 1140.0 380.3, 1140.0 355.0, 1200.0 355.0" fill="none" stroke="#fca5a5" stroke-width="1.9" opacity="0.75" />
+  <path d="M 1080.0 380.3 C 1140.0 380.3, 1140.0 196.1, 1200.0 196.1" fill="none" stroke="#fca5a5" stroke-width="1.9" opacity="0.75" />
+  <path d="M 1080.0 380.3 C 1140.0 380.3, 1140.0 434.4, 1200.0 434.4" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
   <path d="M 620.0 494.0 C 680.0 494.0, 700.0 456.1, 760.0 456.1" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 456.1 C 1140.0 456.1, 1140.0 169.7, 1200.0 169.7" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 456.1 C 1140.0 456.1, 1140.0 355.0, 1200.0 355.0" fill="none" stroke="#fca5a5" stroke-width="1.9" opacity="0.75" />
+  <path d="M 1080.0 456.1 C 1140.0 456.1, 1140.0 196.1, 1200.0 196.1" fill="none" stroke="#fca5a5" stroke-width="1.9" opacity="0.75" />
+  <path d="M 1080.0 456.1 C 1140.0 456.1, 1140.0 791.9, 1200.0 791.9" fill="none" stroke="#fca5a5" stroke-width="1.6" opacity="0.75" />
   <path d="M 620.0 577.4 C 680.0 577.4, 700.0 531.9, 760.0 531.9" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 531.9 C 1140.0 531.9, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 531.9 C 1140.0 531.9, 1140.0 169.7, 1200.0 169.7" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
+  <path d="M 1080.0 531.9 C 1140.0 531.9, 1140.0 434.4, 1200.0 434.4" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
   <path d="M 620.0 660.8 C 680.0 660.8, 700.0 607.7, 760.0 607.7" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 607.7 C 1140.0 607.7, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 607.7 C 1140.0 607.7, 1140.0 725.7, 1200.0 725.7" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
+  <path d="M 1080.0 607.7 C 1140.0 607.7, 1140.0 553.6, 1200.0 553.6" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
+  <path d="M 1080.0 607.7 C 1140.0 607.7, 1140.0 911.0, 1200.0 911.0" fill="none" stroke="#fca5a5" stroke-width="1.6" opacity="0.75" />
   <path d="M 620.0 744.2 C 680.0 744.2, 700.0 683.5, 760.0 683.5" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 683.5 C 1140.0 683.5, 1140.0 262.3, 1200.0 262.3" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
-  <path d="M 1080.0 683.5 C 1140.0 683.5, 1140.0 169.7, 1200.0 169.7" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
+  <path d="M 1080.0 683.5 C 1140.0 683.5, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
+  <path d="M 1080.0 683.5 C 1140.0 683.5, 1140.0 196.1, 1200.0 196.1" fill="none" stroke="#fca5a5" stroke-width="1.9" opacity="0.75" />
   <path d="M 620.0 827.6 C 680.0 827.6, 700.0 759.4, 760.0 759.4" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 759.4 C 1140.0 759.4, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 759.4 C 1140.0 759.4, 1140.0 725.7, 1200.0 725.7" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
+  <path d="M 1080.0 759.4 C 1140.0 759.4, 1140.0 553.6, 1200.0 553.6" fill="none" stroke="#fca5a5" stroke-width="1.7" opacity="0.75" />
   <path d="M 620.0 160.4 C 680.0 160.4, 700.0 835.2, 760.0 835.2" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 835.2 C 1140.0 835.2, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 835.2 C 1140.0 835.2, 1140.0 262.3, 1200.0 262.3" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
+  <path d="M 1080.0 835.2 C 1140.0 835.2, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
   <path d="M 620.0 160.4 C 680.0 160.4, 700.0 911.0, 760.0 911.0" fill="none" stroke="#fdba74" stroke-width="2.0" opacity="0.70" />
-  <path d="M 1080.0 911.0 C 1140.0 911.0, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.7" opacity="0.75" />
-  <path d="M 1080.0 911.0 C 1140.0 911.0, 1140.0 262.3, 1200.0 262.3" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
+  <path d="M 1080.0 911.0 C 1140.0 911.0, 1140.0 77.0, 1200.0 77.0" fill="none" stroke="#fca5a5" stroke-width="2.2" opacity="0.75" />
   <g><title>AI 与软件</title><rect x="60.0" y="48.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">AI 与软件</text><text x="76.0" y="88.0" font-size="11.5" fill="#475569">102 篇文档</text></g>
-  <g><title>市场与财富</title><rect x="60.0" y="256.5" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="280.5" font-size="14" font-weight="700" fill="#0f172a">市场与财富</text><text x="76.0" y="296.5" font-size="11.5" fill="#475569">39 篇文档</text></g>
+  <g><title>市场与财富</title><rect x="60.0" y="256.5" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="280.5" font-size="14" font-weight="700" fill="#0f172a">市场与财富</text><text x="76.0" y="296.5" font-size="11.5" fill="#475569">40 篇文档</text></g>
   <g><title>人与生活</title><rect x="60.0" y="465.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="489.0" font-size="14" font-weight="700" fill="#0f172a">人与生活</text><text x="76.0" y="505.0" font-size="11.5" fill="#475569">19 篇文档</text></g>
   <g><title>世界与战略</title><rect x="60.0" y="673.5" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="697.5" font-size="14" font-weight="700" fill="#0f172a">世界与战略</text><text x="76.0" y="713.5" font-size="11.5" fill="#475569">10 篇文档</text></g>
   <g><title>流程与系统</title><rect x="60.0" y="882.0" width="220.0" height="58.0" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="2" /><text x="76.0" y="906.0" font-size="14" font-weight="700" fill="#0f172a">流程与系统</text><text x="76.0" y="922.0" font-size="11.5" fill="#475569">15 篇文档</text></g>
   <g><title>代理与工具</title><rect x="360.0" y="48.0" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">代理与工具</text><text x="376.0" y="88.0" font-size="11.5" fill="#475569">32 篇文档</text></g>
   <g><title>模型与研究</title><rect x="360.0" y="131.4" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="155.4" font-size="14" font-weight="700" fill="#0f172a">模型与研究</text><text x="376.0" y="171.4" font-size="11.5" fill="#475569">70 篇文档</text></g>
   <g><title>投资策略</title><rect x="360.0" y="214.8" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="238.8" font-size="14" font-weight="700" fill="#0f172a">投资策略</text><text x="376.0" y="254.8" font-size="11.5" fill="#475569">32 篇文档</text></g>
-  <g><title>财富心理</title><rect x="360.0" y="298.2" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="322.2" font-size="14" font-weight="700" fill="#0f172a">财富心理</text><text x="376.0" y="338.2" font-size="11.5" fill="#475569">7 篇文档</text></g>
+  <g><title>财富心理</title><rect x="360.0" y="298.2" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="322.2" font-size="14" font-weight="700" fill="#0f172a">财富心理</text><text x="376.0" y="338.2" font-size="11.5" fill="#475569">8 篇文档</text></g>
   <g><title>关系与信任</title><rect x="360.0" y="381.6" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="405.6" font-size="14" font-weight="700" fill="#0f172a">关系与信任</text><text x="376.0" y="421.6" font-size="11.5" fill="#475569">14 篇文档</text></g>
   <g><title>家庭与成长</title><rect x="360.0" y="465.0" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="489.0" font-size="14" font-weight="700" fill="#0f172a">家庭与成长</text><text x="376.0" y="505.0" font-size="11.5" fill="#475569">5 篇文档</text></g>
   <g><title>战略研究</title><rect x="360.0" y="548.4" width="260.0" height="58.0" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="2" /><text x="376.0" y="572.4" font-size="14" font-weight="700" fill="#0f172a">战略研究</text><text x="376.0" y="588.4" font-size="11.5" fill="#475569">9 篇文档</text></g>
@@ -102,7 +95,7 @@ outline: false
   <a href="../ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333"><title>构建高效协作的AI编程代理系统</title><rect x="760.0" y="48.0" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">构建高效协作的AI编程代理系统</text><text x="776.0" y="88.0" font-size="11.5" fill="#475569">high / 2026-03-19</text></a>
   <a href="../ai-software/models-research/llm-1774052013977"><title>谢赛宁：LLM非世界模型，需连续信号架构</title><rect x="760.0" y="123.8" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="147.8" font-size="14" font-weight="700" fill="#0f172a">谢赛宁：LLM非世界模型，需连续信号架构</text><text x="776.0" y="163.8" font-size="11.5" fill="#475569">high / 2026-03-21</text></a>
   <a href="../markets-wealth/investing-strategy/bitcoin-s-stock-attribute-and-algorithmic-dividend-mechanism-1771889914313"><title>比特币：算法治理公司的股票通缩分红模型</title><rect x="760.0" y="199.6" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="223.6" font-size="14" font-weight="700" fill="#0f172a">比特币：算法治理公司的股票通缩分红模型</text><text x="776.0" y="239.6" font-size="11.5" fill="#475569">high / 2026-02-23</text></a>
-  <a href="../markets-wealth/wealth-psychology/personal-wealth-management-and-long-termism-practice-1772152773599"><title>长期主义与财富管理实践要点</title><rect x="760.0" y="275.5" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="299.5" font-size="14" font-weight="700" fill="#0f172a">长期主义与财富管理实践要点</text><text x="776.0" y="315.5" font-size="11.5" fill="#475569">high / 2026-02-27</text></a>
+  <a href="../markets-wealth/wealth-psychology/analysis-of-the-relationship-between-learning-work-scarcity-and-money-1774274196706"><title>学习、做工、稀缺与钱的逻辑链条</title><rect x="760.0" y="275.5" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="299.5" font-size="14" font-weight="700" fill="#0f172a">学习、做工、稀缺与钱的逻辑链条</text><text x="776.0" y="315.5" font-size="11.5" fill="#475569">high / 2026-03-23</text></a>
   <a href="../people-life/relationships-trust/non-linear-research-1773966439876"><title>谢赛宁：非线性研究是突破性科研的必经之路</title><rect x="760.0" y="351.3" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="375.3" font-size="14" font-weight="700" fill="#0f172a">谢赛宁：非线性研究是突破性科研的必经之路</text><text x="776.0" y="391.3" font-size="11.5" fill="#475569">high / 2026-03-20</text></a>
   <a href="../people-life/family-growth/report-1771890779079"><title>家庭关系改善经典书单推荐</title><rect x="760.0" y="427.1" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="451.1" font-size="14" font-weight="700" fill="#0f172a">家庭关系改善经典书单推荐</text><text x="776.0" y="467.1" font-size="11.5" fill="#475569">high / 2026-02-23</text></a>
   <a href="../world-strategy/strategic-research/geopolitical-risk-and-empire-cycle-1773966044986"><title>霍尔木兹海峡控制权决定伊朗战争与帝国兴衰</title><rect x="760.0" y="502.9" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="526.9" font-size="14" font-weight="700" fill="#0f172a">霍尔木兹海峡控制权决定伊朗战争与帝国兴衰</text><text x="776.0" y="542.9" font-size="11.5" fill="#475569">high / 2026-03-20</text></a>
@@ -111,16 +104,14 @@ outline: false
   <a href="../operations/fetch-failures/environmental-anomaly-1772291107907"><title>环境异常致内容无法获取</title><rect x="760.0" y="730.4" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="754.4" font-size="14" font-weight="700" fill="#0f172a">环境异常致内容无法获取</text><text x="776.0" y="770.4" font-size="11.5" fill="#475569">low / 2026-02-28</text></a>
   <a href="../ai-software/models-research/high-dimensional-abstract-representation-theory-1774077599300"><title>智能体高维表征：超越Token与像素的物理世界…</title><rect x="760.0" y="806.2" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="830.2" font-size="14" font-weight="700" fill="#0f172a">智能体高维表征：超越Token与像素的物理世界…</text><text x="776.0" y="846.2" font-size="11.5" fill="#475569">high / 2026-03-21</text></a>
   <a href="../ai-software/models-research/world-model-1774058507847"><title>世界模型：AI的预测性大脑与认知底座</title><rect x="760.0" y="882.0" width="320.0" height="58.0" rx="16" fill="#ffedd5" stroke="#ea580c" stroke-width="2" /><text x="776.0" y="906.0" font-size="14" font-weight="700" fill="#0f172a">世界模型：AI的预测性大脑与认知底座</text><text x="776.0" y="922.0" font-size="11.5" fill="#475569">high / 2026-03-21</text></a>
-  <g><title>agents</title><rect x="1200.0" y="48.0" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">agents</text><text x="1216.0" y="88.0" font-size="11.5" fill="#475569">8 篇重点文档</text></g>
-  <g><title>models</title><rect x="1200.0" y="140.7" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="164.7" font-size="14" font-weight="700" fill="#0f172a">models</text><text x="1216.0" y="180.7" font-size="11.5" fill="#475569">8 篇重点文档</text></g>
-  <g><title>tooling</title><rect x="1200.0" y="233.3" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="257.3" font-size="14" font-weight="700" fill="#0f172a">tooling</text><text x="1216.0" y="273.3" font-size="11.5" fill="#475569">5 篇重点文档</text></g>
-  <g><title>research</title><rect x="1200.0" y="326.0" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="350.0" font-size="14" font-weight="700" fill="#0f172a">research</text><text x="1216.0" y="366.0" font-size="11.5" fill="#475569">3 篇重点文档</text></g>
-  <g><title>investing</title><rect x="1200.0" y="418.7" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="442.7" font-size="14" font-weight="700" fill="#0f172a">investing</text><text x="1216.0" y="458.7" font-size="11.5" fill="#475569">2 篇重点文档</text></g>
-  <g><title>wealth</title><rect x="1200.0" y="511.3" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="535.3" font-size="14" font-weight="700" fill="#0f172a">wealth</text><text x="1216.0" y="551.3" font-size="11.5" fill="#475569">2 篇重点文档</text></g>
-  <g><title>strategy</title><rect x="1200.0" y="604.0" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="628.0" font-size="14" font-weight="700" fill="#0f172a">strategy</text><text x="1216.0" y="644.0" font-size="11.5" fill="#475569">2 篇重点文档</text></g>
-  <g><title>relationships</title><rect x="1200.0" y="696.7" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="720.7" font-size="14" font-weight="700" fill="#0f172a">relationships</text><text x="1216.0" y="736.7" font-size="11.5" fill="#475569">2 篇重点文档</text></g>
-  <g><title>family</title><rect x="1200.0" y="789.3" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="813.3" font-size="14" font-weight="700" fill="#0f172a">family</text><text x="1216.0" y="829.3" font-size="11.5" fill="#475569">1 篇重点文档</text></g>
-  <g><title>psychology</title><rect x="1200.0" y="882.0" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="906.0" font-size="14" font-weight="700" fill="#0f172a">psychology</text><text x="1216.0" y="922.0" font-size="11.5" fill="#475569">1 篇重点文档</text></g>
+  <g><title>tooling</title><rect x="1200.0" y="48.0" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="72.0" font-size="14" font-weight="700" fill="#0f172a">tooling</text><text x="1216.0" y="88.0" font-size="11.5" fill="#475569">5 篇重点文档</text></g>
+  <g><title>research</title><rect x="1200.0" y="167.1" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="191.1" font-size="14" font-weight="700" fill="#0f172a">research</text><text x="1216.0" y="207.1" font-size="11.5" fill="#475569">3 篇重点文档</text></g>
+  <g><title>wealth</title><rect x="1200.0" y="286.3" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="310.3" font-size="14" font-weight="700" fill="#0f172a">wealth</text><text x="1216.0" y="326.3" font-size="11.5" fill="#475569">2 篇重点文档</text></g>
+  <g><title>strategy</title><rect x="1200.0" y="405.4" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="429.4" font-size="14" font-weight="700" fill="#0f172a">strategy</text><text x="1216.0" y="445.4" font-size="11.5" fill="#475569">2 篇重点文档</text></g>
+  <g><title>relationships</title><rect x="1200.0" y="524.6" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="548.6" font-size="14" font-weight="700" fill="#0f172a">relationships</text><text x="1216.0" y="564.6" font-size="11.5" fill="#475569">2 篇重点文档</text></g>
+  <g><title>investing</title><rect x="1200.0" y="643.7" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="667.7" font-size="14" font-weight="700" fill="#0f172a">investing</text><text x="1216.0" y="683.7" font-size="11.5" fill="#475569">1 篇重点文档</text></g>
+  <g><title>psychology</title><rect x="1200.0" y="762.9" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="786.9" font-size="14" font-weight="700" fill="#0f172a">psychology</text><text x="1216.0" y="802.9" font-size="11.5" fill="#475569">1 篇重点文档</text></g>
+  <g><title>history</title><rect x="1200.0" y="882.0" width="220.0" height="58.0" rx="16" fill="#fee2e2" stroke="#dc2626" stroke-width="2" /><text x="1216.0" y="906.0" font-size="14" font-weight="700" fill="#0f172a">history</text><text x="1216.0" y="922.0" font-size="11.5" fill="#475569">1 篇重点文档</text></g>
 </svg>
 </div>
 
@@ -128,19 +119,19 @@ outline: false
 
 - 最活跃一级分类：`AI 与软件`，共 102 篇文档。
 - 最密集二级分类：`AI 与软件 / 模型与研究`，共 70 篇文档。
-- 图谱中最密集的主题标签：`models`，连接 8 篇重点文档。
+- 图谱中最密集的主题标签：`tooling`，连接 5 篇重点文档。
 
 ## 重点文档入口
 
-- [构建高效协作的AI编程代理系统](/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333)：AI 与软件 / 代理与工具，2026-03-19，标签 agents, tooling, models。
-- [谢赛宁：LLM非世界模型，需连续信号架构](/ai-software/models-research/llm-1774052013977)：AI 与软件 / 模型与研究，2026-03-21，标签 agents, tooling, models。
-- [比特币：算法治理公司的股票通缩分红模型](/markets-wealth/investing-strategy/bitcoin-s-stock-attribute-and-algorithmic-dividend-mechanism-1771889914313)：市场与财富 / 投资策略，2026-02-23，标签 models, investing, wealth。
-- [长期主义与财富管理实践要点](/markets-wealth/wealth-psychology/personal-wealth-management-and-long-termism-practice-1772152773599)：市场与财富 / 财富心理，2026-02-27，标签 investing, wealth, family。
-- [谢赛宁：非线性研究是突破性科研的必经之路](/people-life/relationships-trust/non-linear-research-1773966439876)：人与生活 / 关系与信任，2026-03-20，标签 agents, research, strategy。
-- [家庭关系改善经典书单推荐](/people-life/family-growth/report-1771890779079)：人与生活 / 家庭与成长，2026-02-23，标签 models, research, psychology。
-- [霍尔木兹海峡控制权决定伊朗战争与帝国兴衰](/world-strategy/strategic-research/geopolitical-risk-and-empire-cycle-1773966044986)：世界与战略 / 战略研究，2026-03-20，标签 agents, models, strategy。
-- [圣家堂封顶 纪念高迪百年忌辰](/world-strategy/culture-history/sagrada-familia-completion-event-1772203952795)：世界与战略 / 文化与历史，2026-02-27，标签 agents, relationships。
-- [MCE框架：任务处理与自我进化机制](/operations/systems-workflows/task-processing-framework-1771854635319)：流程与系统 / 系统与工作流，2026-02-23，标签 tooling, models, research。
-- [环境异常致内容无法获取](/operations/fetch-failures/environmental-anomaly-1772291107907)：流程与系统 / 抓取异常，2026-02-28，标签 agents, relationships。
-- [智能体高维表征：超越Token与像素的物理世界密码](/ai-software/models-research/high-dimensional-abstract-representation-theory-1774077599300)：AI 与软件 / 模型与研究，2026-03-21，标签 agents, tooling, models。
-- [世界模型：AI的预测性大脑与认知底座](/ai-software/models-research/world-model-1774058507847)：AI 与软件 / 模型与研究，2026-03-21，标签 agents, tooling, models。
+- [构建高效协作的AI编程代理系统](/ai-software/agents-tooling/ai-coding-agent-system-construction-1773962197333)：AI 与软件 / 代理与工具，2026-03-19，标签 tooling。
+- [谢赛宁：LLM非世界模型，需连续信号架构](/ai-software/models-research/llm-1774052013977)：AI 与软件 / 模型与研究，2026-03-21，标签 tooling。
+- [比特币：算法治理公司的股票通缩分红模型](/markets-wealth/investing-strategy/bitcoin-s-stock-attribute-and-algorithmic-dividend-mechanism-1771889914313)：市场与财富 / 投资策略，2026-02-23，标签 investing, wealth。
+- [学习、做工、稀缺与钱的逻辑链条](/markets-wealth/wealth-psychology/analysis-of-the-relationship-between-learning-work-scarcity-and-money-1774274196706)：市场与财富 / 财富心理，2026-03-23，标签 wealth。
+- [谢赛宁：非线性研究是突破性科研的必经之路](/people-life/relationships-trust/non-linear-research-1773966439876)：人与生活 / 关系与信任，2026-03-20，标签 research, strategy。
+- [家庭关系改善经典书单推荐](/people-life/family-growth/report-1771890779079)：人与生活 / 家庭与成长，2026-02-23，标签 research, psychology。
+- [霍尔木兹海峡控制权决定伊朗战争与帝国兴衰](/world-strategy/strategic-research/geopolitical-risk-and-empire-cycle-1773966044986)：世界与战略 / 战略研究，2026-03-20，标签 strategy。
+- [圣家堂封顶 纪念高迪百年忌辰](/world-strategy/culture-history/sagrada-familia-completion-event-1772203952795)：世界与战略 / 文化与历史，2026-02-27，标签 relationships, history。
+- [MCE框架：任务处理与自我进化机制](/operations/systems-workflows/task-processing-framework-1771854635319)：流程与系统 / 系统与工作流，2026-02-23，标签 tooling, research。
+- [环境异常致内容无法获取](/operations/fetch-failures/environmental-anomaly-1772291107907)：流程与系统 / 抓取异常，2026-02-28，标签 relationships。
+- [智能体高维表征：超越Token与像素的物理世界密码](/ai-software/models-research/high-dimensional-abstract-representation-theory-1774077599300)：AI 与软件 / 模型与研究，2026-03-21，标签 tooling。
+- [世界模型：AI的预测性大脑与认知底座](/ai-software/models-research/world-model-1774058507847)：AI 与软件 / 模型与研究，2026-03-21，标签 tooling。

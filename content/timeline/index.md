@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 185 篇文档</span>
+  <span class="kb-chip">共 186 篇文档</span>
   <span class="kb-chip">覆盖 20 个日期</span>
-  <span class="kb-chip">高优先级 114 篇</span>
+  <span class="kb-chip">高优先级 115 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-23</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-23</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../markets-wealth/wealth-psychology/analysis-of-the-relationship-between-learning-work-scarcity-and-money-1774274196706">学习、做工、稀缺与钱的逻辑链条</a></div>
+      <p>钱作为稀缺资源需通过做工创造价值获取，而学习旨在提升做工效率以最终赢得财富。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 财富心理</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-03-23</div>
     <div class="kb-timeline-card">
