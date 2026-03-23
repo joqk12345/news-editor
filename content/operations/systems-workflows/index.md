@@ -11,13 +11,14 @@ generatedType: "index"
 
 上级分类：[ 流程与系统 ](/operations/)
 
-共 10 篇文档。
+共 11 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
 | [MCE框架：任务处理与自我进化机制](./task-processing-framework-1771854635319) | 2026-02-23 | high | operations, systems-workflows, task, link-summary |
+| [AI时代学习与教育重构的核心路径](./ai-era-educational-transformation-1774274458821) | 2026-03-23 | medium | operations, systems-workflows, news, text-summary |
 | [草台班子分级论：避免以偏概全的团队评价](./team-evaluation-methodology-1773875987060) | 2026-03-18 | medium | operations, systems-workflows, news, text-summary |
 | [数据导出请求分析](./data-export-request-1772407333092) | 2026-03-01 | medium | operations, systems-workflows, news, text-summary |
 | [Mercury：专注阅读体验的内容应用](./content-application-segments-and-mercury-s-positioning-1772201171725) | 2026-02-27 | medium | operations, systems-workflows, task, hn-analysis |

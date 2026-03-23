@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>187</strong>
+      <strong>188</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>116</strong>
-      <span>高优先级，另有 58 篇中优先级</span>
+      <span>高优先级，另有 59 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -123,11 +123,11 @@ hero:
       <p class="kb-home-card-eyebrow">流程与系统</p>
       <h3>聚焦流程产物、系统框架、工作流设计与抓取异常。</h3>
       <div class="kb-home-card-meta">
-        <span>15 篇文档</span>
+        <span>16 篇文档</span>
         <span>3 个子分类</span>
-        <span>最近更新 2026-03-18</span>
+        <span>最近更新 2026-03-23</span>
       </div>
-      <p class="kb-home-card-note">代表文档：草台班子分级论：避免以偏概全的团队评价</p>
+      <p class="kb-home-card-note">代表文档：AI时代学习与教育重构的核心路径</p>
     </a>
     </div>
   </section>
@@ -159,6 +159,16 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="operations/systems-workflows/ai-era-educational-transformation-1774274458821">
+      <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
+      <h3>AI时代学习与教育重构的核心路径</h3>
+      <p>AI时代需重构学习系统，抵御信息垃圾，培养机器无法替代的特质，并利用闲暇自我强化。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-23</span>
+        <span>medium / 12</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="people-life/relationships-trust/team-role-positioning-and-empowerment-1774225298808">
       <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
       <h3>谢赛宁以‘电池’自喻的团队角色观</h3>
@@ -176,16 +186,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-22</span>
         <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="operations/systems-workflows/team-evaluation-methodology-1773875987060">
-      <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
-      <h3>草台班子分级论：避免以偏概全的团队评价</h3>
-      <p>通过“草台班子”分级和反复事件分析，避免以单一事故片面评价团队。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-18</span>
-        <span>medium / 12</span>
         <span>news</span>
       </div>
     </a>
