@@ -11,7 +11,7 @@ generatedType: "index"
 
 ## 子分类
 
-- [投资策略](./investing-strategy/)：投资方法、市场分析、资本配置与可执行策略。 共 33 篇。
+- [投资策略](./investing-strategy/)：投资方法、市场分析、资本配置与可执行策略。 共 34 篇。
 - [财富心理](./wealth-psychology/)：财富感知、消费偏差、风险偏好与借贷决策。 共 8 篇。
 
 ## 最近更新

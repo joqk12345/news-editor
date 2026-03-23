@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 189 篇文档</span>
+  <span class="kb-chip">共 190 篇文档</span>
   <span class="kb-chip">覆盖 20 个日期</span>
   <span class="kb-chip">高优先级 117 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-23</span>
@@ -91,6 +91,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-23</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../markets-wealth/investing-strategy/data-center-and-real-estate-shift-1774276475395">数据中心投资超越写字楼：AI驱动地产逻辑转变</a></div>
+      <p>AI作为新质生产力推动资本从传统写字楼转向数据中心，重塑地产投资逻辑。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>
