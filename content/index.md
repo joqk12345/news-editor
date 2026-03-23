@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>186</strong>
+      <strong>187</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>115</strong>
+      <strong>116</strong>
       <span>高优先级，另有 58 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>102 篇文档</span>
+        <span>103 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-23</span>
       </div>
-      <p class="kb-home-card-note">代表文档：谢赛宁批AGI为伪命题：智能无通用性</p>
+      <p class="kb-home-card-note">代表文档：AI将导致职场工作模式向决策与验收两端集中</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -149,13 +149,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/agi-critique-1774225451183">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/artificial-intelligence-and-workplace-structure-transformation-1774274327743">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>谢赛宁批AGI为伪命题：智能无通用性</h3>
-      <p>谢赛宁论证AGI为伪命题，主张智能无通用性，AI应聚焦物理世界模型而非虚幻通用智能。</p>
+      <h3>AI将导致职场工作模式向决策与验收两端集中</h3>
+      <p>大模型将消灭职场中间层，工作模式向决策与验收两端集中，中层管理者面临最大危机且是AI应用的主要阻力。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-23</span>
-        <span>medium / 12</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/yann-lecun-s-optimism-and-technological-insight-1774225266355">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/agi-critique-1774225451183">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>杨立昆乐观源于AI寒冬经历与科技洞察自信</h3>
-      <p>杨立昆的乐观源于其亲历AI寒冬并坚信自己洞察了通往未来智能的清晰路径。</p>
+      <h3>谢赛宁批AGI为伪命题：智能无通用性</h3>
+      <p>谢赛宁论证AGI为伪命题，主张智能无通用性，AI应聚焦物理世界模型而非虚幻通用智能。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-23</span>
         <span>medium / 12</span>

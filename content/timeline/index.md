@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 186 篇文档</span>
+  <span class="kb-chip">共 187 篇文档</span>
   <span class="kb-chip">覆盖 20 个日期</span>
-  <span class="kb-chip">高优先级 115 篇</span>
+  <span class="kb-chip">高优先级 116 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-23</span>
 </div>
 
@@ -31,6 +31,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-23</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/artificial-intelligence-and-workplace-structure-transformation-1774274327743">AI将导致职场工作模式向决策与验收两端集中</a></div>
+      <p>大模型将消灭职场中间层，工作模式向决策与验收两端集中，中层管理者面临最大危机且是AI应用的主要阻力。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>
