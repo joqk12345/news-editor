@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>193</strong>
+      <strong>194</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>117</strong>
+      <strong>118</strong>
       <span>高优先级，另有 63 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>105 篇文档</span>
+        <span>106 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-24</span>
       </div>
-      <p class="kb-home-card-note">代表文档：AI驱动游戏将成人类第二生活</p>
+      <p class="kb-home-card-note">代表文档：AI热词“打假”：营销噱头与技术本质</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,13 +139,13 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-driven-gaming-1774312518651">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-buzzword-analysis-1774312541681">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>AI驱动游戏将成人类第二生活</h3>
-      <p>AI驱动的游戏将成为融合虚拟经济、实时交互和无限算力的新型数字空间，超越电影成为人类未来主要生活方式。</p>
+      <h3>AI热词“打假”：营销噱头与技术本质</h3>
+      <p>剖析AI时代流行词汇的真实含义与技术本质</p>
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
-        <span>medium / 12</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/real-estate-investment-strategy-1774276073893">
-      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>Indigo房产投资策略：自住为核，抵押加杠杆</h3>
-      <p>Indigo通过将自住房产抵押套现获取低息贷款，再投资高收益市场以实现财富增值，而非直接炒房。</p>
+    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-driven-gaming-1774312518651">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>AI驱动游戏将成人类第二生活</h3>
+      <p>AI驱动的游戏将成为融合虚拟经济、实时交互和无限算力的新型数字空间，超越电影成为人类未来主要生活方式。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-23</span>
-        <span>high / 13</span>
+        <span>2026-03-24</span>
+        <span>medium / 12</span>
         <span>news</span>
       </div>
     </a>
