@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 199 篇文档</span>
+  <span class="kb-chip">共 200 篇文档</span>
   <span class="kb-chip">覆盖 21 个日期</span>
-  <span class="kb-chip">高优先级 120 篇</span>
+  <span class="kb-chip">高优先级 121 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-24</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-24</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/extreme-co-design-and-ai-computing-breakthroughs-1774395200551">极限协同设计与AI计算的突破</a></div>
+      <p>极限协同设计解决单一GPU无法处理的超大规模计算问题，阿姆达尔定律揭示数据传输和网络成为分布式计算瓶颈，缩放定律描述AI能力随变量增长的规律，CUDA是NVIDIA走向通用计算的关键一步，安装基数是定义架构生存的核心元素，智能体系统利用大语言模型进行自主行动，Token工厂重新…</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-03-24</div>
     <div class="kb-timeline-card">

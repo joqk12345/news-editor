@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>199</strong>
+      <strong>200</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>120</strong>
+      <strong>121</strong>
       <span>高优先级，另有 66 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>108 篇文档</span>
+        <span>109 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-24</span>
       </div>
-      <p class="kb-home-card-note">代表文档：NVIDIA的堡垒与计算未来</p>
+      <p class="kb-home-card-note">代表文档：极限协同设计与AI计算的突破</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,20 +139,20 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/margin-call-1774312708476">
-      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>《Margin Call》：华尔街24小时道德困局</h3>
-      <p>影片以24小时内华尔街投行面临次贷危机为背景，展现金融从业者在道德与生存间的极致抉择。</p>
+    <a class="kb-home-highlight-card" href="ai-software/models-research/extreme-co-design-and-ai-computing-breakthroughs-1774395200551">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>极限协同设计与AI计算的突破</h3>
+      <p>极限协同设计解决单一GPU无法处理的超大规模计算问题，阿姆达尔定律揭示数据传输和网络成为分布式计算瓶颈，缩放定律描述AI能力随变量增长的规律，CUDA是NVIDIA走向通用计算的关键一步，安装基数是定义架构生存的核心元素，智能体系统利用大语言模型进行自主行动，Token工厂重新…</p>
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
         <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/nvidia-s-fortress-and-computing-future-1774363344803">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>NVIDIA的堡垒与计算未来</h3>
-      <p>NVIDIA是由GeForce一手建立起来的堡垒，安装基数是计算架构中最重要的一部分，推理才是真正的思考，而预训练仅仅是死记硬背，基于检索的计算系统已经跨越到了基于生成的计算系统，预测未来最好的方法就是去发明它。</p>
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/margin-call-1774312708476">
+      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
+      <h3>《Margin Call》：华尔街24小时道德困局</h3>
+      <p>影片以24小时内华尔街投行面临次贷危机为背景，展现金融从业者在道德与生存间的极致抉择。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
         <span>high / 13</span>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-buzzword-analysis-1774312541681">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/nvidia-s-fortress-and-computing-future-1774363344803">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>AI热词“打假”：营销噱头与技术本质</h3>
-      <p>剖析AI时代流行词汇的真实含义与技术本质</p>
+      <h3>NVIDIA的堡垒与计算未来</h3>
+      <p>NVIDIA是由GeForce一手建立起来的堡垒，安装基数是计算架构中最重要的一部分，推理才是真正的思考，而预训练仅仅是死记硬背，基于检索的计算系统已经跨越到了基于生成的计算系统，预测未来最好的方法就是去发明它。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
         <span>high / 13</span>
