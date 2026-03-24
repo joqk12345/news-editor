@@ -11,13 +11,14 @@ generatedType: "index"
 
 上级分类：[ 人与生活 ](/people-life/)
 
-共 14 篇文档。
+共 15 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
 | [谢赛宁：非线性研究是突破性科研的必经之路](./non-linear-research-1773966439876) | 2026-03-20 | high | people-life, relationships-trust, news, text-summary |
+| [AI时代闲暇时间流向分析](./ai-era-leisure-time-allocation-1774312235737) | 2026-03-24 | medium | people-life, relationships-trust, news, text-summary |
 | [印刷术与生成式AI的知识传播模式对比](./evolution-of-knowledge-dissemination-models-1774109293009) | 2026-03-21 | medium | people-life, relationships-trust, news, text-summary |
 | [信任的韧性：在伤害后重建善意](./trust-and-risk-management-1771635978813) | 2026-02-21 | medium | people-life, relationships-trust, task, text-summary |
 | [谢赛宁以‘电池’自喻的团队角色观](./team-role-positioning-and-empowerment-1774225298808) | 2026-03-23 | medium | people-life, relationships-trust, news, text-summary |

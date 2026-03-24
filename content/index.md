@@ -22,17 +22,17 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>191</strong>
+      <strong>192</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>117</strong>
-      <span>高优先级，另有 61 篇中优先级</span>
+      <span>高优先级，另有 62 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
-      <strong>2026-03-23</strong>
+      <strong>2026-03-24</strong>
       <span>最早可追溯至 2026-02-19</span>
     </article>
     <article class="kb-home-stat">
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>19 篇文档</span>
+        <span>20 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-23</span>
+        <span>最近更新 2026-03-24</span>
       </div>
-      <p class="kb-home-card-note">代表文档：谢赛宁以‘电池’自喻的团队角色观</p>
+      <p class="kb-home-card-note">代表文档：AI时代闲暇时间流向分析</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/ai-era-leisure-time-allocation-1774312235737">
+      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
+      <h3>AI时代闲暇时间流向分析</h3>
+      <p>AI解放劳动后，人类闲暇时间将主要流向虚拟世界创造、人际连接和自我提升三个核心方向</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-24</span>
+        <span>medium / 12</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="markets-wealth/wealth-psychology/analysis-of-the-relationship-between-learning-work-scarcity-and-money-1774274196706">
       <p class="kb-home-card-eyebrow">市场与财富 / 财富心理</p>
       <h3>学习、做工、稀缺与钱的逻辑链条</h3>
@@ -166,16 +176,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-23</span>
         <span>medium / 12</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="people-life/relationships-trust/team-role-positioning-and-empowerment-1774225298808">
-      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
-      <h3>谢赛宁以‘电池’自喻的团队角色观</h3>
-      <p>谢赛宁借克洛普‘电池’隐喻，表达在团队中甘当能量输出者、赋能他人的角色定位。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-23</span>
-        <span>medium / 11</span>
         <span>news</span>
       </div>
     </a>
