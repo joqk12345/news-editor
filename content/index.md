@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>194</strong>
+      <strong>195</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>118</strong>
+      <strong>119</strong>
       <span>高优先级，另有 63 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -93,11 +93,11 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>42 篇文档</span>
+        <span>43 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-23</span>
+        <span>最近更新 2026-03-24</span>
       </div>
-      <p class="kb-home-card-note">代表文档：学习、做工、稀缺与钱的逻辑链条</p>
+      <p class="kb-home-card-note">代表文档：《Margin Call》：华尔街24小时道德困局</p>
     </a>
     <a class="kb-home-section-card" href="people-life/">
       <p class="kb-home-card-eyebrow">人与生活</p>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/margin-call-1774312708476">
+      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
+      <h3>《Margin Call》：华尔街24小时道德困局</h3>
+      <p>影片以24小时内华尔街投行面临次贷危机为背景，展现金融从业者在道德与生存间的极致抉择。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-24</span>
+        <span>high / 13</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="ai-software/models-research/ai-buzzword-analysis-1774312541681">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
       <h3>AI热词“打假”：营销噱头与技术本质</h3>
@@ -156,16 +166,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
         <span>medium / 12</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="markets-wealth/wealth-psychology/analysis-of-the-relationship-between-learning-work-scarcity-and-money-1774274196706">
-      <p class="kb-home-card-eyebrow">市场与财富 / 财富心理</p>
-      <h3>学习、做工、稀缺与钱的逻辑链条</h3>
-      <p>钱作为稀缺资源需通过做工创造价值获取，而学习旨在提升做工效率以最终赢得财富。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-23</span>
-        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>

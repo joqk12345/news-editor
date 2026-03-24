@@ -11,13 +11,14 @@ generatedType: "index"
 
 上级分类：[ 市场与财富 ](/markets-wealth/)
 
-共 34 篇文档。
+共 35 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
 | [比特币：算法治理公司的股票通缩分红模型](./bitcoin-s-stock-attribute-and-algorithmic-dividend-mechanism-1771889914313) | 2026-02-23 | high | markets-wealth, investing-strategy, task, text-summary |
+| [《Margin Call》：华尔街24小时道德困局](./margin-call-1774312708476) | 2026-03-24 | high | markets-wealth, investing-strategy, news, text-summary |
 | [Indigo房产投资策略：自住为核，抵押加杠杆](./real-estate-investment-strategy-1774276073893) | 2026-03-23 | high | markets-wealth, investing-strategy, news, text-summary |
 | [定投策略有效性跨越制度限制](./dollar-cost-averaging-s-institutional-irrelevance-1774102795974) | 2026-03-21 | high | markets-wealth, investing-strategy, news, text-summary |
 | [长期投资：时间固化收益与场外能力](./long-term-investment-strategy-1773965526136) | 2026-03-20 | high | markets-wealth, investing-strategy, news, text-summary |
