@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>195</strong>
+      <strong>196</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>119</strong>
-      <span>高优先级，另有 63 篇中优先级</span>
+      <span>高优先级，另有 64 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -123,11 +123,11 @@ hero:
       <p class="kb-home-card-eyebrow">流程与系统</p>
       <h3>聚焦流程产物、系统框架、工作流设计与抓取异常。</h3>
       <div class="kb-home-card-meta">
-        <span>16 篇文档</span>
+        <span>17 篇文档</span>
         <span>3 个子分类</span>
-        <span>最近更新 2026-03-23</span>
+        <span>最近更新 2026-03-24</span>
       </div>
-      <p class="kb-home-card-note">代表文档：AI时代学习与教育重构的核心路径</p>
+      <p class="kb-home-card-note">代表文档：AI时代开发者关系的核心框架</p>
     </a>
     </div>
   </section>
@@ -169,12 +169,12 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="operations/systems-workflows/ai-era-educational-transformation-1774274458821">
+    <a class="kb-home-highlight-card" href="operations/systems-workflows/developer-relations-1774312834419">
       <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
-      <h3>AI时代学习与教育重构的核心路径</h3>
-      <p>AI时代需重构学习系统，抵御信息垃圾，培养机器无法替代的特质，并利用闲暇自我强化。</p>
+      <h3>AI时代开发者关系的核心框架</h3>
+      <p>在AI时代，开发者关系是连接能力提供者与价值创造者的桥梁，依赖代码、内容、社区三大支柱，并需重构对开发者旅程与群体的认知。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-23</span>
+        <span>2026-03-24</span>
         <span>medium / 12</span>
         <span>news</span>
       </div>
