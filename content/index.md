@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>198</strong>
+      <strong>199</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>119</strong>
+      <strong>120</strong>
       <span>高优先级，另有 66 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>107 篇文档</span>
+        <span>108 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-24</span>
       </div>
-      <p class="kb-home-card-note">代表文档：AI热词“打假”：营销噱头与技术本质</p>
+      <p class="kb-home-card-note">代表文档：NVIDIA的堡垒与计算未来</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -149,10 +149,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-buzzword-analysis-1774312541681">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/nvidia-s-fortress-and-computing-future-1774363344803">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>AI热词“打假”：营销噱头与技术本质</h3>
-      <p>剖析AI时代流行词汇的真实含义与技术本质</p>
+      <h3>NVIDIA的堡垒与计算未来</h3>
+      <p>NVIDIA是由GeForce一手建立起来的堡垒，安装基数是计算架构中最重要的一部分，推理才是真正的思考，而预训练仅仅是死记硬背，基于检索的计算系统已经跨越到了基于生成的计算系统，预测未来最好的方法就是去发明它。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
         <span>high / 13</span>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-driven-gaming-1774312518651">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-buzzword-analysis-1774312541681">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>AI驱动游戏将成人类第二生活</h3>
-      <p>AI驱动的游戏将成为融合虚拟经济、实时交互和无限算力的新型数字空间，超越电影成为人类未来主要生活方式。</p>
+      <h3>AI热词“打假”：营销噱头与技术本质</h3>
+      <p>剖析AI时代流行词汇的真实含义与技术本质</p>
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
-        <span>medium / 12</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
