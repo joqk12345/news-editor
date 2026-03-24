@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 197 篇文档</span>
+  <span class="kb-chip">共 198 篇文档</span>
   <span class="kb-chip">覆盖 21 个日期</span>
   <span class="kb-chip">高优先级 119 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-24</span>
@@ -56,6 +56,21 @@ generatedType: "index"
       <p>AI驱动的游戏将成为融合虚拟经济、实时交互和无限算力的新型数字空间，超越电影成为人类未来主要生活方式。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-24</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/agents-tooling/ai-programming-paradigm-shift-1774361464816">AI编程范式转变 (AI Programming Paradigm Shift)</a></div>
+      <p>Geoffrey Huntley 宣称传统软件开发已死，倡导通过 Ralph Loop 编排模式让 AI 代理自主循环目标、故障识别与自我修正，并构建编码代理来编程新型 AI ‘计算机’。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 代理与工具</span>
         <span class="kb-chip">medium / 12</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
