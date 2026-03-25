@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>202</strong>
+      <strong>203</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>123</strong>
+      <strong>124</strong>
       <span>高优先级，另有 66 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>111 篇文档</span>
+        <span>112 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-25</span>
       </div>
-      <p class="kb-home-card-note">代表文档：TPU与GPU优劣势对比分析</p>
+      <p class="kb-home-card-note">代表文档：计算范式转向生成式与极限协同</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,10 +139,10 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="ai-software/models-research/tpu-vs-gpu-comparison-1774445241134">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/computational-paradigm-shift-and-ai-system-design-methodology-1774445605611">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>TPU与GPU优劣势对比分析</h3>
-      <p>TPU在算法适配时性能与成本优势显著，但受限于软件生态、供应链及算法迭代风险。</p>
+      <h3>计算范式转向生成式与极限协同</h3>
+      <p>计算范式从检索转向生成，因摩尔定律失效，需极限协同设计与第一性原理重构系统。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-25</span>
         <span>high / 13</span>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-chip-technologies-1774445534262">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/tpu-vs-gpu-comparison-1774445241134">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>AI芯片技术对比：TPU与GPU及相关组件分析</h3>
-      <p>本文对比了TPU与GPU的核心架构差异，并分析了HBM、CoWoS等关键组件在AI芯片中的作用及供应链情况。</p>
+      <h3>TPU与GPU优劣势对比分析</h3>
+      <p>TPU在算法适配时性能与成本优势显著，但受限于软件生态、供应链及算法迭代风险。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-25</span>
         <span>high / 13</span>
