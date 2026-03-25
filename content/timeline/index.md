@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 210 篇文档</span>
+  <span class="kb-chip">共 211 篇文档</span>
   <span class="kb-chip">覆盖 22 个日期</span>
-  <span class="kb-chip">高优先级 128 篇</span>
+  <span class="kb-chip">高优先级 129 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
 </div>
 
@@ -84,6 +84,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/tpu-vs-gpu-comparison-1774445241134">TPU与GPU优劣势对比分析</a></div>
       <p>TPU在算法适配时性能与成本优势显著，但受限于软件生态、供应链及算法迭代风险。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-25</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/gpu-vs-tpu-hardware-architecture-comparison-1774446824879">GPU与TPU架构差异解析</a></div>
+      <p>GPU采用SIMT架构适合通用计算，TPU采用流水线架构专门优化机器学习矩阵运算</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
