@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>203</strong>
+      <strong>204</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>124</strong>
+      <strong>125</strong>
       <span>高优先级，另有 66 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>112 篇文档</span>
+        <span>113 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-25</span>
       </div>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/tpu-vs-gpu-comparison-1774445241134">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/chip-market-competition-landscape-1774445711040">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>TPU与GPU优劣势对比分析</h3>
-      <p>TPU在算法适配时性能与成本优势显著，但受限于软件生态、供应链及算法迭代风险。</p>
+      <h3>TPU挑战GPU垄断与未来芯片市场格局分析</h3>
+      <p>TPU在大规模部署场景具备TCO优势，未来将与GPU并存，打破垄断促进行业发展。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-25</span>
         <span>high / 13</span>
