@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 204 篇文档</span>
+  <span class="kb-chip">共 205 篇文档</span>
   <span class="kb-chip">覆盖 22 个日期</span>
-  <span class="kb-chip">高优先级 125 篇</span>
+  <span class="kb-chip">高优先级 126 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
 </div>
 
@@ -39,6 +39,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/chip-market-competition-landscape-1774445711040">TPU挑战GPU垄断与未来芯片市场格局分析</a></div>
       <p>TPU在大规模部署场景具备TCO优势，未来将与GPU并存，打破垄断促进行业发展。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-25</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/tpu-technology-development-and-commercial-application-1774445829138">TPU发展史：巨头合作与谷歌内部故事</a></div>
+      <p>文章揭示了TPU的起源、苹果成为其最大用户的原因、Anthropic大额采购的深层关系，以及谷歌内部在TPU使用和研发上的矛盾与历史。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
