@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 90 篇文档。
+共 91 篇文档。
 
 ## 文档列表
 
@@ -29,6 +29,7 @@ generatedType: "index"
 | [谷歌TPU版本演进与市场挑战](./google-tpu-generations-1774447420866) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [计算范式转向生成式与极限协同](./computational-paradigm-shift-and-ai-system-design-methodology-1774445605611) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU挑战GPU垄断与未来芯片市场格局分析](./chip-market-competition-landscape-1774445711040) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
+| [TPU应用与制造特点分析](./ai-chip-technology-1774447714767) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU发展史：巨头合作与谷歌内部故事](./tpu-technology-development-and-commercial-application-1774445829138) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU与Groq芯片对比分析](./asic-technology-1774447302805) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU与GPU竞争：定制化芯片的现实考量](./chip-architecture-and-computing-paradigm-evolution-1774446206781) | 2026-03-25 | high | ai-software, models-research, news, text-summary |

@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 215 篇文档</span>
+  <span class="kb-chip">共 216 篇文档</span>
   <span class="kb-chip">覆盖 22 个日期</span>
-  <span class="kb-chip">高优先级 131 篇</span>
+  <span class="kb-chip">高优先级 132 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
 </div>
 
@@ -54,6 +54,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/chip-market-competition-landscape-1774445711040">TPU挑战GPU垄断与未来芯片市场格局分析</a></div>
       <p>TPU在大规模部署场景具备TCO优势，未来将与GPU并存，打破垄断促进行业发展。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-25</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/ai-chip-technology-1774447714767">TPU应用与制造特点分析</a></div>
+      <p>本文讨论了TPU在AI训练部署中的应用、制造限制、生态兼容性及相关技术背景。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
