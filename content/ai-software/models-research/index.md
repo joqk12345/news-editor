@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 89 篇文档。
+共 90 篇文档。
 
 ## 文档列表
 
@@ -85,6 +85,7 @@ generatedType: "index"
 | [DualPath双路径架构破解大模型推理I/O瓶颈](./dualpathi-o-1772239986390) | 2026-02-28 | high | ai-software, models-research, news, link-summary |
 | [DualPath双路径技术突破大模型I/O瓶颈](./dualpath-dual-path-storage-optimization-1772201934355) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
 | [Gemini应用集成Lyria 3实现AI音乐生成](./ai-music-generation-1771483104064) | 2026-02-19 | high | ai-software, models-research, task, link-summary |
+| [技术架构类比解读](./computer-hardware-architecture-1774447563496) | 2026-03-25 | medium | ai-software, models-research, news, text-summary |
 | [TPU成AI训练芯片新选择，挑战英伟达地位](./ai-chip-market-shift-1774446011353) | 2026-03-25 | medium | ai-software, models-research, news, text-summary |
 | [TPU与GPU竞争差异FAQ汇总](./tpu-vs-gpu-comparison-1774445907831) | 2026-03-25 | medium | ai-software, models-research, news, text-summary |
 | [AI驱动游戏将成人类第二生活](./ai-driven-gaming-1774312518651) | 2026-03-24 | medium | ai-software, models-research, news, text-summary |

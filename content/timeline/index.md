@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 214 篇文档</span>
+  <span class="kb-chip">共 215 篇文档</span>
   <span class="kb-chip">覆盖 22 个日期</span>
   <span class="kb-chip">高优先级 131 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
@@ -162,6 +162,21 @@ generatedType: "index"
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-25</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/computer-hardware-architecture-1774447563496">技术架构类比解读</a></div>
+      <p>本文通过厨房、流水线等类比，阐释GPU、TPU等硬件架构的并行与协同机制。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
