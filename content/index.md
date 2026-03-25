@@ -22,17 +22,17 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>200</strong>
+      <strong>201</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>121</strong>
+      <strong>122</strong>
       <span>高优先级，另有 66 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
-      <strong>2026-03-24</strong>
+      <strong>2026-03-25</strong>
       <span>最早可追溯至 2026-02-19</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>109 篇文档</span>
+        <span>110 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-24</span>
+        <span>最近更新 2026-03-25</span>
       </div>
-      <p class="kb-home-card-note">代表文档：极限协同设计与AI计算的突破</p>
+      <p class="kb-home-card-note">代表文档：TPU与GPU优劣势对比分析</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,12 +139,12 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="ai-software/models-research/extreme-co-design-and-ai-computing-breakthroughs-1774395200551">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/tpu-vs-gpu-comparison-1774445241134">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>极限协同设计与AI计算的突破</h3>
-      <p>极限协同设计解决单一GPU无法处理的超大规模计算问题，阿姆达尔定律揭示数据传输和网络成为分布式计算瓶颈，缩放定律描述AI能力随变量增长的规律，CUDA是NVIDIA走向通用计算的关键一步，安装基数是定义架构生存的核心元素，智能体系统利用大语言模型进行自主行动，Token工厂重新…</p>
+      <h3>TPU与GPU优劣势对比分析</h3>
+      <p>TPU在算法适配时性能与成本优势显著，但受限于软件生态、供应链及算法迭代风险。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-24</span>
+        <span>2026-03-25</span>
         <span>high / 13</span>
         <span>news</span>
       </div>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/nvidia-s-fortress-and-computing-future-1774363344803">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/extreme-co-design-and-ai-computing-breakthroughs-1774395200551">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>NVIDIA的堡垒与计算未来</h3>
-      <p>NVIDIA是由GeForce一手建立起来的堡垒，安装基数是计算架构中最重要的一部分，推理才是真正的思考，而预训练仅仅是死记硬背，基于检索的计算系统已经跨越到了基于生成的计算系统，预测未来最好的方法就是去发明它。</p>
+      <h3>极限协同设计与AI计算的突破</h3>
+      <p>极限协同设计解决单一GPU无法处理的超大规模计算问题，阿姆达尔定律揭示数据传输和网络成为分布式计算瓶颈，缩放定律描述AI能力随变量增长的规律，CUDA是NVIDIA走向通用计算的关键一步，安装基数是定义架构生存的核心元素，智能体系统利用大语言模型进行自主行动，Token工厂重新…</p>
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
         <span>high / 13</span>
