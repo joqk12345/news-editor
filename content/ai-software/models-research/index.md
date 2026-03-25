@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 83 篇文档。
+共 84 篇文档。
 
 ## 文档列表
 
@@ -29,6 +29,7 @@ generatedType: "index"
 | [计算范式转向生成式与极限协同](./computational-paradigm-shift-and-ai-system-design-methodology-1774445605611) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU挑战GPU垄断与未来芯片市场格局分析](./chip-market-competition-landscape-1774445711040) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU发展史：巨头合作与谷歌内部故事](./tpu-technology-development-and-commercial-application-1774445829138) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
+| [TPU与GPU竞争：定制化芯片的现实考量](./chip-architecture-and-computing-paradigm-evolution-1774446206781) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU与GPU优劣势对比分析](./tpu-vs-gpu-comparison-1774445241134) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [AI芯片技术对比：TPU与GPU及相关组件分析](./ai-chip-technologies-1774445534262) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [极限协同设计与AI计算的突破](./extreme-co-design-and-ai-computing-breakthroughs-1774395200551) | 2026-03-24 | high | ai-software, models-research, news, text-summary |

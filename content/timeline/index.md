@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 208 篇文档</span>
+  <span class="kb-chip">共 209 篇文档</span>
   <span class="kb-chip">覆盖 22 个日期</span>
-  <span class="kb-chip">高优先级 126 篇</span>
+  <span class="kb-chip">高优先级 127 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
 </div>
 
@@ -54,6 +54,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/tpu-technology-development-and-commercial-application-1774445829138">TPU发展史：巨头合作与谷歌内部故事</a></div>
       <p>文章揭示了TPU的起源、苹果成为其最大用户的原因、Anthropic大额采购的深层关系，以及谷歌内部在TPU使用和研发上的矛盾与历史。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-25</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/chip-architecture-and-computing-paradigm-evolution-1774446206781">TPU与GPU竞争：定制化芯片的现实考量</a></div>
+      <p>在特定大规模部署条件下，定制化TPU在训练效率与TCO上可挑战GPU，但GPU通用性在快速算法迭代中占优，未来生态将定制与通用并存。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
