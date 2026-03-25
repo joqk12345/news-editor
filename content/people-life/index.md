@@ -11,16 +11,16 @@ generatedType: "index"
 
 ## 子分类
 
-- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 16 篇。
+- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 17 篇。
 - [家庭与成长](./family-growth/)：育儿、生育、成长转变、教育心态与家庭经验。 共 5 篇。
 
 ## 最近更新
 
 - [谢赛宁：非线性研究是突破性科研的必经之路](/people-life/relationships-trust/non-linear-research-1773966439876)
 - [家庭关系改善经典书单推荐](/people-life/family-growth/report-1771890779079)
+- [TPU处理机制比喻](/people-life/relationships-trust/tpu-processing-mechanism-1774446103512)
 - [AI时代闲暇时间流向分析](/people-life/relationships-trust/ai-era-leisure-time-allocation-1774312235737)
 - [印刷术与生成式AI的知识传播模式对比](/people-life/relationships-trust/evolution-of-knowledge-dissemination-models-1774109293009)
 - [两次生育假期体验对比：从帮衬到共担](/people-life/family-growth/report-1772326493501)
 - [三胎育儿经历：月子中心体验与喂养请教](/people-life/family-growth/report-1772290103087)
 - [信任的韧性：在伤害后重建善意](/people-life/relationships-trust/trust-and-risk-management-1771635978813)
-- [《上品寒士》：魏晋穿越佳作](/people-life/relationships-trust/shang-pin-han-shi-1774312876380)

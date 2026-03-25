@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>207</strong>
+      <strong>208</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>126</strong>
-      <span>高优先级，另有 68 篇中优先级</span>
+      <span>高优先级，另有 69 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>21 篇文档</span>
+        <span>22 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-24</span>
+        <span>最近更新 2026-03-25</span>
       </div>
-      <p class="kb-home-card-note">代表文档：AI时代闲暇时间流向分析</p>
+      <p class="kb-home-card-note">代表文档：TPU处理机制比喻</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -149,6 +149,16 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/tpu-processing-mechanism-1774446103512">
+      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
+      <h3>TPU处理机制比喻</h3>
+      <p>文本用大厨和心脏泵血的比喻描述TPU在每个步骤安排处理单元并高效传输数据。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-25</span>
+        <span>medium / 12</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/margin-call-1774312708476">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
       <h3>《Margin Call》：华尔街24小时道德困局</h3>
@@ -156,16 +166,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
         <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="people-life/relationships-trust/ai-era-leisure-time-allocation-1774312235737">
-      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
-      <h3>AI时代闲暇时间流向分析</h3>
-      <p>AI解放劳动后，人类闲暇时间将主要流向虚拟世界创造、人际连接和自我提升三个核心方向</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-24</span>
-        <span>medium / 12</span>
         <span>news</span>
       </div>
     </a>
