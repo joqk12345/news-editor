@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>201</strong>
+      <strong>202</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>122</strong>
+      <strong>123</strong>
       <span>高优先级，另有 66 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>110 篇文档</span>
+        <span>111 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-25</span>
       </div>
@@ -189,12 +189,12 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/extreme-co-design-and-ai-computing-breakthroughs-1774395200551">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-chip-technologies-1774445534262">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>极限协同设计与AI计算的突破</h3>
-      <p>极限协同设计解决单一GPU无法处理的超大规模计算问题，阿姆达尔定律揭示数据传输和网络成为分布式计算瓶颈，缩放定律描述AI能力随变量增长的规律，CUDA是NVIDIA走向通用计算的关键一步，安装基数是定义架构生存的核心元素，智能体系统利用大语言模型进行自主行动，Token工厂重新…</p>
+      <h3>AI芯片技术对比：TPU与GPU及相关组件分析</h3>
+      <p>本文对比了TPU与GPU的核心架构差异，并分析了HBM、CoWoS等关键组件在AI芯片中的作用及供应链情况。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-24</span>
+        <span>2026-03-25</span>
         <span>high / 13</span>
         <span>news</span>
       </div>
