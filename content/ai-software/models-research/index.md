@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 88 篇文档。
+共 89 篇文档。
 
 ## 文档列表
 
@@ -26,6 +26,7 @@ generatedType: "index"
 | [AI正重塑经济基础设施](./ai-1773418076847) | 2026-03-13 | high | ai-software, models-research, news, text-summary |
 | [开放共演与自我对弈驱动AI复杂性](./ai-1772237728821) | 2026-02-28 | high | ai-software, models-research, news, text-summary |
 | [M5芯片：AI硬件本地化拐点](./m5-ai-1772150684171) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
+| [谷歌TPU版本演进与市场挑战](./google-tpu-generations-1774447420866) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [计算范式转向生成式与极限协同](./computational-paradigm-shift-and-ai-system-design-methodology-1774445605611) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU挑战GPU垄断与未来芯片市场格局分析](./chip-market-competition-landscape-1774445711040) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU发展史：巨头合作与谷歌内部故事](./tpu-technology-development-and-commercial-application-1774445829138) | 2026-03-25 | high | ai-software, models-research, news, text-summary |

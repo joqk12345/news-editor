@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 213 篇文档</span>
+  <span class="kb-chip">共 214 篇文档</span>
   <span class="kb-chip">覆盖 22 个日期</span>
-  <span class="kb-chip">高优先级 130 篇</span>
+  <span class="kb-chip">高优先级 131 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-25</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/google-tpu-generations-1774447420866">谷歌TPU版本演进与市场挑战</a></div>
+      <p>TPU从V1纯推理芯片逐步演变为V7/V8超越GPU的大模型训练和推理平台</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-03-25</div>
     <div class="kb-timeline-card">

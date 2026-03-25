@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>213</strong>
+      <strong>214</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>130</strong>
+      <strong>131</strong>
       <span>高优先级，另有 70 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>121 篇文档</span>
+        <span>122 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-25</span>
       </div>
-      <p class="kb-home-card-note">代表文档：计算范式转向生成式与极限协同</p>
+      <p class="kb-home-card-note">代表文档：谷歌TPU版本演进与市场挑战</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,10 +139,10 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="ai-software/models-research/computational-paradigm-shift-and-ai-system-design-methodology-1774445605611">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/google-tpu-generations-1774447420866">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>计算范式转向生成式与极限协同</h3>
-      <p>计算范式从检索转向生成，因摩尔定律失效，需极限协同设计与第一性原理重构系统。</p>
+      <h3>谷歌TPU版本演进与市场挑战</h3>
+      <p>TPU从V1纯推理芯片逐步演变为V7/V8超越GPU的大模型训练和推理平台</p>
       <div class="kb-home-card-meta">
         <span>2026-03-25</span>
         <span>high / 13</span>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/chip-market-competition-landscape-1774445711040">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/computational-paradigm-shift-and-ai-system-design-methodology-1774445605611">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>TPU挑战GPU垄断与未来芯片市场格局分析</h3>
-      <p>TPU在大规模部署场景具备TCO优势，未来将与GPU并存，打破垄断促进行业发展。</p>
+      <h3>计算范式转向生成式与极限协同</h3>
+      <p>计算范式从检索转向生成，因摩尔定律失效，需极限协同设计与第一性原理重构系统。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-25</span>
         <span>high / 13</span>
