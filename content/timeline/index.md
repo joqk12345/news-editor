@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 211 篇文档</span>
+  <span class="kb-chip">共 212 篇文档</span>
   <span class="kb-chip">覆盖 22 个日期</span>
   <span class="kb-chip">高优先级 129 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
@@ -177,6 +177,21 @@ generatedType: "index"
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-25</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/ai-1774447257909">Kimi创始人杨植麟：AI研发将进入AI主导时代</a></div>
+      <p>杨植麟在2026中关村论坛演讲，预测AI研发将进入AI主导时代，Kimi估值180亿美元，新一轮10亿美元融资进行中。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 11</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
