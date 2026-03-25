@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 95 篇文档。
+共 96 篇文档。
 
 ## 文档列表
 
@@ -34,6 +34,7 @@ generatedType: "index"
 | [TPU与Groq芯片对比分析](./asic-technology-1774447302805) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU与GPU竞争：定制化芯片的现实考量](./chip-architecture-and-computing-paradigm-evolution-1774446206781) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [TPU与GPU优劣势对比分析](./tpu-vs-gpu-comparison-1774445241134) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
+| [Model Runner V2 (MRV2) 架构与性能概览](./model-runner-v2-1774482016349) | 2026-03-25 | high | ai-software, models-research, news, link-summary |
 | [JavaScript沙箱隔离方案安全评估](./javascript-runtime-security-isolation-1774449029215) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [GPU与TPU架构差异解析](./gpu-vs-tpu-hardware-architecture-comparison-1774446824879) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [CoWoS技术在芯片制造中的关键作用](./chip-on-wafer-on-substrate-1774446538837) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
