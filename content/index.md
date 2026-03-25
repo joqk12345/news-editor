@@ -22,7 +22,7 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>217</strong>
+      <strong>218</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
@@ -123,11 +123,11 @@ hero:
       <p class="kb-home-card-eyebrow">流程与系统</p>
       <h3>聚焦流程产物、系统框架、工作流设计与抓取异常。</h3>
       <div class="kb-home-card-meta">
-        <span>17 篇文档</span>
+        <span>18 篇文档</span>
         <span>3 个子分类</span>
-        <span>最近更新 2026-03-24</span>
+        <span>最近更新 2026-03-25</span>
       </div>
-      <p class="kb-home-card-note">代表文档：AI时代开发者关系的核心框架</p>
+      <p class="kb-home-card-note">代表文档：HBM内存供应链高度垄断且产能锁定</p>
     </a>
     </div>
   </section>
@@ -159,6 +159,16 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="operations/fetch-failures/hbm-memory-supply-chain-challenges-1774447989441">
+      <p class="kb-home-card-eyebrow">流程与系统 / 抓取异常</p>
+      <h3>HBM内存供应链高度垄断且产能锁定</h3>
+      <p>HBM内存因供应商垄断与英伟达锁单导致获取极难，将决定AI大模型训练效率上限。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-25</span>
+        <span>low / 2</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/margin-call-1774312708476">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
       <h3>《Margin Call》：华尔街24小时道德困局</h3>
@@ -166,16 +176,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-24</span>
         <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="operations/systems-workflows/developer-relations-1774312834419">
-      <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
-      <h3>AI时代开发者关系的核心框架</h3>
-      <p>在AI时代，开发者关系是连接能力提供者与价值创造者的桥梁，依赖代码、内容、社区三大支柱，并需重构对开发者旅程与群体的认知。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-24</span>
-        <span>medium / 12</span>
         <span>news</span>
       </div>
     </a>

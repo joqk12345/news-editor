@@ -11,12 +11,13 @@ generatedType: "index"
 
 上级分类：[ 流程与系统 ](/operations/)
 
-共 5 篇文档。
+共 6 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
+| [HBM内存供应链高度垄断且产能锁定](./hbm-memory-supply-chain-challenges-1774447989441) | 2026-03-25 | low | operations, fetch-failures, news, text-summary |
 | [环境异常致内容无法获取](./environmental-anomaly-1772291107907) | 2026-02-28 | low | operations, fetch-failures, news, link-summary |
 | [1772203826613-news-news-task-1772203822109-uek4rr](./1772203826613-news-news-task-1772203822109-uek4rr-1772203822109) | 2026-02-27 | low | operations, fetch-failures, news, text-summary |
 | [原文内容未获取](./report-1771724179165) | 2026-02-22 | low | operations, fetch-failures, task, link-summary |
