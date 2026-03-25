@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 219 篇文档</span>
+  <span class="kb-chip">共 220 篇文档</span>
   <span class="kb-chip">覆盖 22 个日期</span>
-  <span class="kb-chip">高优先级 133 篇</span>
+  <span class="kb-chip">高优先级 134 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
 </div>
 
@@ -189,6 +189,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/ai-chip-technologies-1774445534262">AI芯片技术对比：TPU与GPU及相关组件分析</a></div>
       <p>本文对比了TPU与GPU的核心架构差异，并分析了HBM、CoWoS等关键组件在AI芯片中的作用及供应链情况。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-25</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/ai-inference-optimization-technologies-and-hardware-software-ecosystem-1774449391805">AI推理优化技术概述</a></div>
+      <p>本文系统介绍了AI推理过程中的关键优化技术、硬件架构及软件框架，涵盖KV缓存管理、分离式服务、量化等核心概念。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
