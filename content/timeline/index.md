@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 220 篇文档</span>
+  <span class="kb-chip">共 221 篇文档</span>
   <span class="kb-chip">覆盖 22 个日期</span>
   <span class="kb-chip">高优先级 134 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
@@ -234,6 +234,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/semiconductor-supply-chain-partnership-1774447843464">博通在TPU供应链中的核心作用与长期风险</a></div>
       <p>博通在TPU生产后端环节具有不可替代性，但谷歌对其依赖加深可能引发长期议价权博弈。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-25</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/vllm-2026-architecture-optimization-1774450956523">vLLM 2026架构优化</a></div>
+      <p>通过GPU原生Triton内核、混合内存分配器和编码器预填充分离，vLLM在2026年实现显著性能提升。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">medium / 12</span>
