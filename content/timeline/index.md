@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 236 篇文档</span>
+  <span class="kb-chip">共 237 篇文档</span>
   <span class="kb-chip">覆盖 23 个日期</span>
-  <span class="kb-chip">高优先级 143 篇</span>
+  <span class="kb-chip">高优先级 144 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-27</span>
 </div>
 
@@ -76,6 +76,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-27</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/agents-tooling/stripe-s-ai-tool-ecosystem-in-engineering-practices-1774603967044">Stripe的混合AI工具生态与开发者效率</a></div>
+      <p>Stripe通过Goose框架定制Minions内部AI系统，并整合Claude Code/Cursor商业工具，构建多维度开发效率工具链。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 代理与工具</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>
