@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>233</strong>
+      <strong>234</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>141</strong>
+      <strong>142</strong>
       <span>高优先级，另有 78 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>138 篇文档</span>
+        <span>139 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-27</span>
       </div>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/performance-portability-design-and-implementation-of-triton-attention-backend-in-vllm-1774586456456">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/open-vs-closed-models-in-robotics-1774601625851">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>vLLM Triton注意力后端：跨平台性能可移植性解决方案</h3>
-      <p>vLLM采用完全用Triton实现的注意力后端，通过性能可移植内核在NVIDIA、AMD、Intel GPU上运行相同源代码，降低维护成本并实现顶尖性能。</p>
+      <h3>机器人领域开源与闭源的公平竞赛</h3>
+      <p>机器人领域当前处于开放与封闭模型竞争的“公平竞赛”窗口期，开源阵营有机会挑战科技巨头，但窗口期极短，需加速行动。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-27</span>
         <span>high / 13</span>
