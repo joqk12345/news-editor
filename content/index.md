@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>239</strong>
+      <strong>240</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>146</strong>
-      <span>高优先级，另有 79 篇中优先级</span>
+      <span>高优先级，另有 80 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -93,11 +93,11 @@ hero:
       <p class="kb-home-card-eyebrow">市场与财富</p>
       <h3>聚焦投资判断、资产配置、财富观念与行为偏差。</h3>
       <div class="kb-home-card-meta">
-        <span>43 篇文档</span>
+        <span>44 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-24</span>
+        <span>最近更新 2026-03-27</span>
       </div>
-      <p class="kb-home-card-note">代表文档：《Margin Call》：华尔街24小时道德困局</p>
+      <p class="kb-home-card-note">代表文档：AI智能体作为经济参与者的新应用经济模式</p>
     </a>
     <a class="kb-home-section-card" href="people-life/">
       <p class="kb-home-card-eyebrow">人与生活</p>
@@ -159,6 +159,16 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/ai-agents-as-economic-actors-1774611780218">
+      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
+      <h3>AI智能体作为经济参与者的新应用经济模式</h3>
+      <p>Steve预测AI智能体将通过代币消费和第三方服务参与新型经济体系，重塑企业商业模式和代币-美元价值关联。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-27</span>
+        <span>medium / 12</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="operations/fetch-failures/hbm-memory-supply-chain-challenges-1774447989441">
       <p class="kb-home-card-eyebrow">流程与系统 / 抓取异常</p>
       <h3>HBM内存供应链高度垄断且产能锁定</h3>
@@ -166,16 +176,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-25</span>
         <span>low / 2</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/margin-call-1774312708476">
-      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>《Margin Call》：华尔街24小时道德困局</h3>
-      <p>影片以24小时内华尔街投行面临次贷危机为背景，展现金融从业者在道德与生存间的极致抉择。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-24</span>
-        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
