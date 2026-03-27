@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 226 篇文档</span>
+  <span class="kb-chip">共 227 篇文档</span>
   <span class="kb-chip">覆盖 23 个日期</span>
   <span class="kb-chip">高优先级 138 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-27</span>
@@ -61,6 +61,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-27</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/triton-attention-backend-1774586844979">vLLM Triton注意力后端深度解析</a></div>
+      <p>vLLM采用Triton实现注意力后端，利用性能可移植内核与平铺编程模型，在NVIDIA H100和AMD MI300上达到高效性能，并通过分页注意力优化内存使用。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
       </div>
     </div>
   </div>

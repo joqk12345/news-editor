@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 98 篇文档。
+共 99 篇文档。
 
 ## 文档列表
 
@@ -91,6 +91,7 @@ generatedType: "index"
 | [DualPath双路径架构破解大模型推理I/O瓶颈](./dualpathi-o-1772239986390) | 2026-02-28 | high | ai-software, models-research, news, link-summary |
 | [DualPath双路径技术突破大模型I/O瓶颈](./dualpath-dual-path-storage-optimization-1772201934355) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
 | [Gemini应用集成Lyria 3实现AI音乐生成](./ai-music-generation-1771483104064) | 2026-02-19 | high | ai-software, models-research, task, link-summary |
+| [vLLM Triton注意力后端深度解析](./triton-attention-backend-1774586844979) | 2026-03-27 | medium | ai-software, models-research, news, link-summary |
 | [技术架构类比解读](./computer-hardware-architecture-1774447563496) | 2026-03-25 | medium | ai-software, models-research, news, text-summary |
 | [博通在TPU供应链中的核心作用与长期风险](./semiconductor-supply-chain-partnership-1774447843464) | 2026-03-25 | medium | ai-software, models-research, news, text-summary |
 | [vLLM 2026架构优化](./vllm-2026-architecture-optimization-1774450956523) | 2026-03-25 | medium | ai-software, models-research, news, text-summary |
