@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 222 篇文档</span>
-  <span class="kb-chip">覆盖 22 个日期</span>
+  <span class="kb-chip">共 223 篇文档</span>
+  <span class="kb-chip">覆盖 23 个日期</span>
   <span class="kb-chip">高优先级 135 篇</span>
-  <span class="kb-chip">时间范围 2026-02-19 至 2026-03-25</span>
+  <span class="kb-chip">时间范围 2026-02-19 至 2026-03-27</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-27</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../people-life/relationships-trust/artificial-intelligence-and-software-development-1774569683830">AI时代软件开发范式：意图驱动与人类审美核心</a></div>
+      <p>AI在代码架构上能力卓越，但依赖人类高级意图与审美；团队需转向意图驱动协作，基础设施须将AI作为一等公民。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">人与生活 / 关系与信任</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-03-25</div>
     <div class="kb-timeline-card">

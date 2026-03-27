@@ -11,13 +11,14 @@ generatedType: "index"
 
 上级分类：[ 人与生活 ](/people-life/)
 
-共 17 篇文档。
+共 18 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
 | [谢赛宁：非线性研究是突破性科研的必经之路](./non-linear-research-1773966439876) | 2026-03-20 | high | people-life, relationships-trust, news, text-summary |
+| [AI时代软件开发范式：意图驱动与人类审美核心](./artificial-intelligence-and-software-development-1774569683830) | 2026-03-27 | medium | people-life, relationships-trust, news, text-summary |
 | [TPU处理机制比喻](./tpu-processing-mechanism-1774446103512) | 2026-03-25 | medium | people-life, relationships-trust, news, text-summary |
 | [AI时代闲暇时间流向分析](./ai-era-leisure-time-allocation-1774312235737) | 2026-03-24 | medium | people-life, relationships-trust, news, text-summary |
 | [印刷术与生成式AI的知识传播模式对比](./evolution-of-knowledge-dissemination-models-1774109293009) | 2026-03-21 | medium | people-life, relationships-trust, news, text-summary |

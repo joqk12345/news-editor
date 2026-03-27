@@ -22,17 +22,17 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>222</strong>
+      <strong>223</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>135</strong>
-      <span>高优先级，另有 73 篇中优先级</span>
+      <span>高优先级，另有 74 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
-      <strong>2026-03-25</strong>
+      <strong>2026-03-27</strong>
       <span>最早可追溯至 2026-02-19</span>
     </article>
     <article class="kb-home-stat">
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>22 篇文档</span>
+        <span>23 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-25</span>
+        <span>最近更新 2026-03-27</span>
       </div>
-      <p class="kb-home-card-note">代表文档：TPU处理机制比喻</p>
+      <p class="kb-home-card-note">代表文档：AI时代软件开发范式：意图驱动与人类审美核心</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/artificial-intelligence-and-software-development-1774569683830">
+      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
+      <h3>AI时代软件开发范式：意图驱动与人类审美核心</h3>
+      <p>AI在代码架构上能力卓越，但依赖人类高级意图与审美；团队需转向意图驱动协作，基础设施须将AI作为一等公民。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-27</span>
+        <span>medium / 12</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="ai-software/models-research/google-tpu-generations-1774447420866">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
       <h3>谷歌TPU版本演进与市场挑战</h3>
@@ -146,16 +156,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-25</span>
         <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="people-life/relationships-trust/tpu-processing-mechanism-1774446103512">
-      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
-      <h3>TPU处理机制比喻</h3>
-      <p>文本用大厨和心脏泵血的比喻描述TPU在每个步骤安排处理单元并高效传输数据。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-25</span>
-        <span>medium / 12</span>
         <span>news</span>
       </div>
     </a>
