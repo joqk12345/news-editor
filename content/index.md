@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>224</strong>
+      <strong>225</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>136</strong>
+      <strong>137</strong>
       <span>高优先级，另有 74 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>130 篇文档</span>
+        <span>131 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-27</span>
       </div>
@@ -189,12 +189,12 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/google-tpu-generations-1774447420866">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>谷歌TPU版本演进与市场挑战</h3>
-      <p>TPU从V1纯推理芯片逐步演变为V7/V8超越GPU的大模型训练和推理平台</p>
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-programming-ethics-and-software-quality-1774569933865">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
+      <h3>AI编程速度过快引质量危机，作者呼吁找回开发自主权</h3>
+      <p>文章批判AI编程速度过快导致错误复合与复杂性膨胀，主张通过限制代码生成和手写核心来恢复开发自主权。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-25</span>
+        <span>2026-03-27</span>
         <span>high / 13</span>
         <span>news</span>
       </div>

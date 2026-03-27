@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 224 篇文档</span>
+  <span class="kb-chip">共 225 篇文档</span>
   <span class="kb-chip">覆盖 23 个日期</span>
-  <span class="kb-chip">高优先级 136 篇</span>
+  <span class="kb-chip">高优先级 137 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-27</span>
 </div>
 
@@ -31,6 +31,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-27</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/agents-tooling/ai-programming-ethics-and-software-quality-1774569933865">AI编程速度过快引质量危机，作者呼吁找回开发自主权</a></div>
+      <p>文章批判AI编程速度过快导致错误复合与复杂性膨胀，主张通过限制代码生成和手写核心来恢复开发自主权。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 代理与工具</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>
