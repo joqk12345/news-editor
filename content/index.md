@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>235</strong>
+      <strong>236</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>143</strong>
-      <span>高优先级，另有 78 篇中优先级</span>
+      <span>高优先级，另有 79 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>24 篇文档</span>
+        <span>25 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-27</span>
       </div>
-      <p class="kb-home-card-note">代表文档：AI时代软件开发范式：意图驱动与人类审美核心</p>
+      <p class="kb-home-card-note">代表文档：优秀的开发者体验（DX）能为AI智能体带来更好的结果</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -149,10 +149,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="people-life/relationships-trust/artificial-intelligence-and-software-development-1774569683830">
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/developer-experience-dx-1774603392347">
       <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
-      <h3>AI时代软件开发范式：意图驱动与人类审美核心</h3>
-      <p>AI在代码架构上能力卓越，但依赖人类高级意图与审美；团队需转向意图驱动协作，基础设施须将AI作为一等公民。</p>
+      <h3>优秀的开发者体验（DX）能为AI智能体带来更好的结果</h3>
+      <p>优秀的开发者体验（DX）能为AI智能体带来更好的结果，形成“对开发者有利，对智能体也有利”的良性循环，具体体现在文档、云端环境和CI/CD工具三个方面。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-27</span>
         <span>medium / 12</span>
