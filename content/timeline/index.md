@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 229 篇文档</span>
+  <span class="kb-chip">共 230 篇文档</span>
   <span class="kb-chip">覆盖 23 个日期</span>
   <span class="kb-chip">高优先级 139 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-27</span>
@@ -117,6 +117,21 @@ generatedType: "index"
       <div class="kb-chip-row">
         <span class="kb-chip">人与生活 / 关系与信任</span>
         <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-27</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../people-life/relationships-trust/robot-open-source-revolution-1774600723501">机器人开源革命中的复仇者联盟</a></div>
+      <p>文本描述了机器人开源革命中的‘复仇者联盟’——一群曾在闭源阵营工作的顶尖科学家，后来转投开源，形成跨界协作网络，推动开源生态。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">人与生活 / 关系与信任</span>
+        <span class="kb-chip">medium / 11</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>

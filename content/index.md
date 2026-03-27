@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>229</strong>
+      <strong>230</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>139</strong>
-      <span>高优先级，另有 76 篇中优先级</span>
+      <span>高优先级，另有 77 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -103,7 +103,7 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>23 篇文档</span>
+        <span>24 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-27</span>
       </div>
