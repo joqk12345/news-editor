@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>225</strong>
+      <strong>226</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>137</strong>
+      <strong>138</strong>
       <span>高优先级，另有 74 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>131 篇文档</span>
+        <span>132 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-27</span>
       </div>
-      <p class="kb-home-card-note">代表文档：AI编程颠覆软件工程：老帽谈团队微缩与构建者未来</p>
+      <p class="kb-home-card-note">代表文档：vLLM Triton注意力后端：跨平台性能可移植性解决方案</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,10 +139,10 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="ai-software/models-research/artificial-intelligence-and-software-development-paradigm-shift-1774569863126">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/performance-portability-design-and-implementation-of-triton-attention-backend-in-vllm-1774586456456">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>AI编程颠覆软件工程：老帽谈团队微缩与构建者未来</h3>
-      <p>Arcblock创始人老帽认为AI编程能力已全面超越人类，将导致软件团队规模微缩至个位数，并催生‘构建者’新角色。</p>
+      <h3>vLLM Triton注意力后端：跨平台性能可移植性解决方案</h3>
+      <p>vLLM采用完全用Triton实现的注意力后端，通过性能可移植内核在NVIDIA、AMD、Intel GPU上运行相同源代码，降低维护成本并实现顶尖性能。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-27</span>
         <span>high / 13</span>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-programming-ethics-and-software-quality-1774569933865">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>AI编程速度过快引质量危机，作者呼吁找回开发自主权</h3>
-      <p>文章批判AI编程速度过快导致错误复合与复杂性膨胀，主张通过限制代码生成和手写核心来恢复开发自主权。</p>
+    <a class="kb-home-highlight-card" href="ai-software/models-research/artificial-intelligence-and-software-development-paradigm-shift-1774569863126">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>AI编程颠覆软件工程：老帽谈团队微缩与构建者未来</h3>
+      <p>Arcblock创始人老帽认为AI编程能力已全面超越人类，将导致软件团队规模微缩至个位数，并催生‘构建者’新角色。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-27</span>
         <span>high / 13</span>
