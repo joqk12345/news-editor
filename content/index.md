@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>223</strong>
+      <strong>224</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>135</strong>
+      <strong>136</strong>
       <span>高优先级，另有 74 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>129 篇文档</span>
+        <span>130 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-25</span>
+        <span>最近更新 2026-03-27</span>
       </div>
-      <p class="kb-home-card-note">代表文档：谷歌TPU版本演进与市场挑战</p>
+      <p class="kb-home-card-note">代表文档：AI编程颠覆软件工程：老帽谈团队微缩与构建者未来</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/artificial-intelligence-and-software-development-paradigm-shift-1774569863126">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>AI编程颠覆软件工程：老帽谈团队微缩与构建者未来</h3>
+      <p>Arcblock创始人老帽认为AI编程能力已全面超越人类，将导致软件团队规模微缩至个位数，并催生‘构建者’新角色。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-27</span>
+        <span>high / 13</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="people-life/relationships-trust/artificial-intelligence-and-software-development-1774569683830">
       <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
       <h3>AI时代软件开发范式：意图驱动与人类审美核心</h3>
@@ -146,16 +156,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-27</span>
         <span>medium / 12</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/google-tpu-generations-1774447420866">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>谷歌TPU版本演进与市场挑战</h3>
-      <p>TPU从V1纯推理芯片逐步演变为V7/V8超越GPU的大模型训练和推理平台</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-25</span>
-        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/computational-paradigm-shift-and-ai-system-design-methodology-1774445605611">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/google-tpu-generations-1774447420866">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>计算范式转向生成式与极限协同</h3>
-      <p>计算范式从检索转向生成，因摩尔定律失效，需极限协同设计与第一性原理重构系统。</p>
+      <h3>谷歌TPU版本演进与市场挑战</h3>
+      <p>TPU从V1纯推理芯片逐步演变为V7/V8超越GPU的大模型训练和推理平台</p>
       <div class="kb-home-card-meta">
         <span>2026-03-25</span>
         <span>high / 13</span>
