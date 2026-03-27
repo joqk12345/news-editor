@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>230</strong>
+      <strong>231</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>139</strong>
+      <strong>140</strong>
       <span>高优先级，另有 77 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>135 篇文档</span>
+        <span>136 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-27</span>
       </div>
-      <p class="kb-home-card-note">代表文档：vLLM Triton注意力后端：跨平台性能可移植性解决方案</p>
+      <p class="kb-home-card-note">代表文档：真开源与伪开源的商业心机</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,10 +139,10 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="ai-software/models-research/performance-portability-design-and-implementation-of-triton-attention-backend-in-vllm-1774586456456">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/open-source-vs-closed-source-in-robotics-1774600820421">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>vLLM Triton注意力后端：跨平台性能可移植性解决方案</h3>
-      <p>vLLM采用完全用Triton实现的注意力后端，通过性能可移植内核在NVIDIA、AMD、Intel GPU上运行相同源代码，降低维护成本并实现顶尖性能。</p>
+      <h3>真开源与伪开源的商业心机</h3>
+      <p>真开源与伪开源的区分标准在于硬件绑定与生态锁定，免费模型背后隐藏四层商业战略，开源与闭源之争本质是争夺机器人行业基础设施层生态霸权。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-27</span>
         <span>high / 13</span>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/pi-0-1774600576814">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/performance-portability-design-and-implementation-of-triton-attention-backend-in-vllm-1774586456456">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>PI 的 π₀ 模型：开源引流闭源变现策略</h3>
-      <p>PI 的 π₀ 模型在开源具身智能领域展现出极致精度和泛化能力的“技术极致派”技术优势、零样本泛化潜力及开源引流闭源变现的商业策略。</p>
+      <h3>vLLM Triton注意力后端：跨平台性能可移植性解决方案</h3>
+      <p>vLLM采用完全用Triton实现的注意力后端，通过性能可移植内核在NVIDIA、AMD、Intel GPU上运行相同源代码，降低维护成本并实现顶尖性能。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-27</span>
         <span>high / 13</span>
