@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 103 篇文档。
+共 104 篇文档。
 
 ## 文档列表
 
@@ -96,6 +96,7 @@ generatedType: "index"
 | [Gemini应用集成Lyria 3实现AI音乐生成](./ai-music-generation-1771483104064) | 2026-02-19 | high | ai-software, models-research, task, link-summary |
 | [开源模型胜谷歌RT-2-X](./embodied-intelligence-open-source-model-comparison-1774600026125) | 2026-03-27 | medium | ai-software, models-research, news, text-summary |
 | [vLLM Triton注意力后端深度解析](./triton-attention-backend-1774586844979) | 2026-03-27 | medium | ai-software, models-research, news, link-summary |
+| [Open X-Embodiment 的核心价值 / Core Value of Open X-Embodiment](./core-value-of-open-x-embodiment-1774601396341) | 2026-03-27 | medium | ai-software, models-research, news, text-summary |
 | [技术架构类比解读](./computer-hardware-architecture-1774447563496) | 2026-03-25 | medium | ai-software, models-research, news, text-summary |
 | [博通在TPU供应链中的核心作用与长期风险](./semiconductor-supply-chain-partnership-1774447843464) | 2026-03-25 | medium | ai-software, models-research, news, text-summary |
 | [vLLM 2026架构优化](./vllm-2026-architecture-optimization-1774450956523) | 2026-03-25 | medium | ai-software, models-research, news, text-summary |
