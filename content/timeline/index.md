@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 238 篇文档</span>
+  <span class="kb-chip">共 239 篇文档</span>
   <span class="kb-chip">覆盖 23 个日期</span>
-  <span class="kb-chip">高优先级 145 篇</span>
+  <span class="kb-chip">高优先级 146 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-27</span>
 </div>
 
@@ -101,6 +101,21 @@ generatedType: "index"
       <p>Stripe通过Goose框架定制Minions内部AI系统，并整合Claude Code/Cursor商业工具，构建多维度开发效率工具链。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 代理与工具</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-27</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/stripe-s-ai-billing-methods-1774605437960">Stripe的AI计费方法</a></div>
+      <p>Stripe提供两种计费方式：通用基于使用量的计费适用于各种业务指标，而LLM代币计费产品则专门针对大语言模型（LLM）的Token消耗，两者在AI时代的应用场景不同。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>

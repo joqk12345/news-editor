@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 107 篇文档。
+共 108 篇文档。
 
 ## 文档列表
 
@@ -31,6 +31,7 @@ generatedType: "index"
 | [开源具身智能面临四大挑战与质变潜力](./open-source-embodied-intelligence-1774602686721) | 2026-03-27 | high | ai-software, models-research, news, text-summary |
 | [云环境投资不足阻碍AI开发](./cloud-environment-investment-shortage-hinders-ai-development-1774604348895) | 2026-03-27 | high | ai-software, models-research, news, text-summary |
 | [vLLM Triton注意力后端：跨平台性能可移植性解决方案](./performance-portability-design-and-implementation-of-triton-attention-backend-in-vllm-1774586456456) | 2026-03-27 | high | ai-software, models-research, news, link-summary |
+| [Stripe的AI计费方法](./stripe-s-ai-billing-methods-1774605437960) | 2026-03-27 | high | ai-software, models-research, news, text-summary |
 | [PI开源商业策略](./open-source-business-strategy-in-embodied-intelligence-1774600959296) | 2026-03-27 | high | ai-software, models-research, news, text-summary |
 | [PI 的 π₀ 模型：开源引流闭源变现策略](./pi-0-1774600576814) | 2026-03-27 | high | ai-software, models-research, news, text-summary |
 | [AI编程颠覆软件工程：老帽谈团队微缩与构建者未来](./artificial-intelligence-and-software-development-paradigm-shift-1774569863126) | 2026-03-27 | high | ai-software, models-research, news, text-summary |
