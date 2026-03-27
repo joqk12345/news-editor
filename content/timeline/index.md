@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 237 篇文档</span>
+  <span class="kb-chip">共 238 篇文档</span>
   <span class="kb-chip">覆盖 23 个日期</span>
-  <span class="kb-chip">高优先级 144 篇</span>
+  <span class="kb-chip">高优先级 145 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-27</span>
 </div>
 
@@ -54,6 +54,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/open-source-embodied-intelligence-1774602686721">开源具身智能面临四大挑战与质变潜力</a></div>
       <p>开源具身智能在算力、数据、工程化和安全方面面临挑战，但通过创新应对，未来可能实现生态平衡。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-27</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/cloud-environment-investment-shortage-hinders-ai-development-1774604348895">云环境投资不足阻碍AI开发</a></div>
+      <p>云环境投资不足限制AI开发潜力，需重视虚拟化基础设施建设</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
