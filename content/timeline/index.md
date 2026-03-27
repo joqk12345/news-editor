@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 227 篇文档</span>
+  <span class="kb-chip">共 228 篇文档</span>
   <span class="kb-chip">覆盖 23 个日期</span>
   <span class="kb-chip">高优先级 138 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-27</span>
@@ -57,6 +57,21 @@ generatedType: "index"
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 代理与工具</span>
         <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-27</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/embodied-intelligence-open-source-model-comparison-1774600026125">开源模型胜谷歌RT-2-X</a></div>
+      <p>仅70亿参数的开源模型OpenVLA凭借双视觉编码器架构、优化动作表示、多样化标准化数据及开源工具链，在29项机器人操作中击败参数8倍的谷歌RT-2-X，成功率提高16.5%。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
