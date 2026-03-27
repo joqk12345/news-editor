@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 240 篇文档</span>
+  <span class="kb-chip">共 241 篇文档</span>
   <span class="kb-chip">覆盖 23 个日期</span>
   <span class="kb-chip">高优先级 146 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-27</span>
@@ -226,6 +226,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-27</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/voxtral-tts-1774618436882">Voxtral TTS：Mistral AI发布的第一款文本转语音模型</a></div>
+      <p>Voxtral TTS是Mistral AI发布的第一款文本转语音模型，具备多语言语音生成、低延迟、易适应等核心特性，支持9种语言，原生生成最多两分钟音频，企业用户可通过Mistral Studio或API（每千字符$0.016）测试该模型。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>
