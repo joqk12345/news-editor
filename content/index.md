@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>228</strong>
+      <strong>229</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>138</strong>
+      <strong>139</strong>
       <span>高优先级，另有 76 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>134 篇文档</span>
+        <span>135 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-27</span>
       </div>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/artificial-intelligence-and-software-development-paradigm-shift-1774569863126">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/pi-0-1774600576814">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>AI编程颠覆软件工程：老帽谈团队微缩与构建者未来</h3>
-      <p>Arcblock创始人老帽认为AI编程能力已全面超越人类，将导致软件团队规模微缩至个位数，并催生‘构建者’新角色。</p>
+      <h3>PI 的 π₀ 模型：开源引流闭源变现策略</h3>
+      <p>PI 的 π₀ 模型在开源具身智能领域展现出极致精度和泛化能力的“技术极致派”技术优势、零样本泛化潜力及开源引流闭源变现的商业策略。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-27</span>
         <span>high / 13</span>

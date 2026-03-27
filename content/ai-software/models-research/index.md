@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 100 篇文档。
+共 101 篇文档。
 
 ## 文档列表
 
@@ -27,6 +27,7 @@ generatedType: "index"
 | [开放共演与自我对弈驱动AI复杂性](./ai-1772237728821) | 2026-02-28 | high | ai-software, models-research, news, text-summary |
 | [M5芯片：AI硬件本地化拐点](./m5-ai-1772150684171) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
 | [vLLM Triton注意力后端：跨平台性能可移植性解决方案](./performance-portability-design-and-implementation-of-triton-attention-backend-in-vllm-1774586456456) | 2026-03-27 | high | ai-software, models-research, news, link-summary |
+| [PI 的 π₀ 模型：开源引流闭源变现策略](./pi-0-1774600576814) | 2026-03-27 | high | ai-software, models-research, news, text-summary |
 | [AI编程颠覆软件工程：老帽谈团队微缩与构建者未来](./artificial-intelligence-and-software-development-paradigm-shift-1774569863126) | 2026-03-27 | high | ai-software, models-research, news, text-summary |
 | [谷歌TPU版本演进与市场挑战](./google-tpu-generations-1774447420866) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
 | [计算范式转向生成式与极限协同](./computational-paradigm-shift-and-ai-system-design-methodology-1774445605611) | 2026-03-25 | high | ai-software, models-research, news, text-summary |
