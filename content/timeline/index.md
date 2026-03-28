@@ -10,9 +10,9 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 242 篇文档</span>
+  <span class="kb-chip">共 243 篇文档</span>
   <span class="kb-chip">覆盖 24 个日期</span>
-  <span class="kb-chip">高优先级 147 篇</span>
+  <span class="kb-chip">高优先级 148 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-28</span>
 </div>
 
@@ -26,6 +26,21 @@ generatedType: "index"
       <p>IOC（控制幻觉）在赌徒和市场中导致人们在负期望赌博中错误相信自己能赢，通过选择性记忆正反馈强化，但定投策略能帮助克服。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">市场与财富 / 投资策略</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-28</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/ai-evolution-and-intelligence-understanding-1774699671545">AI正在进化——改变我们对智能的理解</a></div>
+      <p>文章描述了AI正经历的五大范式转变——自然计算、神经计算、预测智能、通用智能和集体智能——以及这些转变如何挑战传统智能观点，类比科学革命，并探讨功能等价、生命的计算性及人类集体智能的基础。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">high / 13</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>

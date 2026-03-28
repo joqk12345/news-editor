@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>242</strong>
+      <strong>243</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>147</strong>
+      <strong>148</strong>
       <span>高优先级，另有 81 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>144 篇文档</span>
+        <span>145 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-27</span>
+        <span>最近更新 2026-03-28</span>
       </div>
-      <p class="kb-home-card-note">代表文档：真开源与伪开源的商业心机</p>
+      <p class="kb-home-card-note">代表文档：AI正在进化——改变我们对智能的理解</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -149,12 +149,12 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/open-source-vs-closed-source-in-robotics-1774600820421">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-evolution-and-intelligence-understanding-1774699671545">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>真开源与伪开源的商业心机</h3>
-      <p>真开源与伪开源的区分标准在于硬件绑定与生态锁定，免费模型背后隐藏四层商业战略，开源与闭源之争本质是争夺机器人行业基础设施层生态霸权。</p>
+      <h3>AI正在进化——改变我们对智能的理解</h3>
+      <p>文章描述了AI正经历的五大范式转变——自然计算、神经计算、预测智能、通用智能和集体智能——以及这些转变如何挑战传统智能观点，类比科学革命，并探讨功能等价、生命的计算性及人类集体智能的基础。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-27</span>
+        <span>2026-03-28</span>
         <span>high / 13</span>
         <span>news</span>
       </div>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/open-vs-closed-models-in-robotics-1774601625851">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/open-source-vs-closed-source-in-robotics-1774600820421">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>机器人领域开源与闭源的公平竞赛</h3>
-      <p>机器人领域当前处于开放与封闭模型竞争的“公平竞赛”窗口期，开源阵营有机会挑战科技巨头，但窗口期极短，需加速行动。</p>
+      <h3>真开源与伪开源的商业心机</h3>
+      <p>真开源与伪开源的区分标准在于硬件绑定与生态锁定，免费模型背后隐藏四层商业战略，开源与闭源之争本质是争夺机器人行业基础设施层生态霸权。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-27</span>
         <span>high / 13</span>
