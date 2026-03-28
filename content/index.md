@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>243</strong>
+      <strong>244</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>148</strong>
-      <span>高优先级，另有 81 篇中优先级</span>
+      <span>高优先级，另有 82 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>25 篇文档</span>
+        <span>26 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-27</span>
+        <span>最近更新 2026-03-28</span>
       </div>
-      <p class="kb-home-card-note">代表文档：优秀的开发者体验（DX）能为AI智能体带来更好的结果</p>
+      <p class="kb-home-card-note">代表文档：上下文工程挑战与文件系统抽象解决方案</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -159,13 +159,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="people-life/relationships-trust/developer-experience-dx-1774603392347">
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/context-engineering-1774701361610">
       <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
-      <h3>优秀的开发者体验（DX）能为AI智能体带来更好的结果</h3>
-      <p>优秀的开发者体验（DX）能为AI智能体带来更好的结果，形成“对开发者有利，对智能体也有利”的良性循环，具体体现在文档、云端环境和CI/CD工具三个方面。</p>
+      <h3>上下文工程挑战与文件系统抽象解决方案</h3>
+      <p>上下文工程是软件系统设计的新挑战，文件系统抽象是上下文工程的解决方案。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-27</span>
-        <span>medium / 12</span>
+        <span>2026-03-28</span>
+        <span>medium / 11</span>
         <span>news</span>
       </div>
     </a>
