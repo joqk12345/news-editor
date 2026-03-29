@@ -22,12 +22,12 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>251</strong>
+      <strong>252</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>149</strong>
+      <strong>150</strong>
       <span>高优先级，另有 88 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>148 篇文档</span>
+        <span>149 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-29</span>
       </div>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/literature-reading-habits-and-historical-fiction-1774779821105">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/historical-novel-creation-1774780834857">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>现代阅读与历史小说价值</h3>
-      <p>现代人阅读习惯改变导致很少有人能花一个下午读完一本书；历史小说创作不亵渎历史，反而增色历史；历史小说核心价值在于发现历史与现代人共鸣点。</p>
+      <h3>历史小说创作的“镣铐与舞步”</h3>
+      <p>历史小说创作需要在遵循历史事实的基础上发挥文学想象</p>
       <div class="kb-home-card-meta">
         <span>2026-03-29</span>
-        <span>medium / 12</span>
+        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
