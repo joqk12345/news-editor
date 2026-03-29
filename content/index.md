@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>245</strong>
+      <strong>246</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>149</strong>
-      <span>高优先级，另有 82 篇中优先级</span>
+      <span>高优先级，另有 83 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -113,11 +113,11 @@ hero:
       <p class="kb-home-card-eyebrow">世界与战略</p>
       <h3>聚焦战略研究、政策冲击、地缘事件与文化历史素材。</h3>
       <div class="kb-home-card-meta">
-        <span>10 篇文档</span>
+        <span>11 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-22</span>
+        <span>最近更新 2026-03-29</span>
       </div>
-      <p class="kb-home-card-note">代表文档：美伊霍尔木兹海峡危机被比作国运之战</p>
+      <p class="kb-home-card-note">代表文档：文学与历史事实汇总</p>
     </a>
     <a class="kb-home-section-card" href="operations/">
       <p class="kb-home-card-eyebrow">流程与系统</p>
@@ -149,6 +149,16 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="world-strategy/culture-history/literature-and-history-facts-summary-1774779761803">
+      <p class="kb-home-card-eyebrow">世界与战略 / 文化与历史</p>
+      <h3>文学与历史事实汇总</h3>
+      <p>本文本汇总了文学名著与创作者、中国历史典籍、《灰姑娘》原型以及现实活动背景的客观事实。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-29</span>
+        <span>medium / 12</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/illusion-of-control-in-gambling-and-trading-1774662741018">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
       <h3>IOC与市场幻觉</h3>
@@ -176,16 +186,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-25</span>
         <span>low / 2</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="world-strategy/strategic-research/us-iran-geopolitical-conflict-over-strait-of-hormuz-1774198182381">
-      <p class="kb-home-card-eyebrow">世界与战略 / 战略研究</p>
-      <h3>美伊霍尔木兹海峡危机被比作国运之战</h3>
-      <p>美国在霍尔木兹海峡的困境使其陷入类似英国失去苏伊士运河的霸权存亡考验。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-22</span>
-        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
