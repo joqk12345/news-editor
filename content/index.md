@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>246</strong>
+      <strong>247</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>149</strong>
-      <span>高优先级，另有 83 篇中优先级</span>
+      <span>高优先级，另有 84 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -83,7 +83,7 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>146 篇文档</span>
+        <span>147 篇文档</span>
         <span>2 个子分类</span>
         <span>最近更新 2026-03-29</span>
       </div>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-evolution-and-intelligence-understanding-1774699671545">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/literature-reading-habits-and-historical-fiction-1774779821105">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>AI正在进化——改变我们对智能的理解</h3>
-      <p>文章描述了AI正经历的五大范式转变——自然计算、神经计算、预测智能、通用智能和集体智能——以及这些转变如何挑战传统智能观点，类比科学革命，并探讨功能等价、生命的计算性及人类集体智能的基础。</p>
+      <h3>现代阅读与历史小说价值</h3>
+      <p>现代人阅读习惯改变导致很少有人能花一个下午读完一本书；历史小说创作不亵渎历史，反而增色历史；历史小说核心价值在于发现历史与现代人共鸣点。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-28</span>
-        <span>high / 13</span>
+        <span>2026-03-29</span>
+        <span>medium / 12</span>
         <span>news</span>
       </div>
     </a>

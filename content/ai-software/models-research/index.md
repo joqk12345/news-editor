@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 111 篇文档。
+共 112 篇文档。
 
 ## 文档列表
 
@@ -100,6 +100,7 @@ generatedType: "index"
 | [DualPath双路径架构破解大模型推理I/O瓶颈](./dualpathi-o-1772239986390) | 2026-02-28 | high | ai-software, models-research, news, link-summary |
 | [DualPath双路径技术突破大模型I/O瓶颈](./dualpath-dual-path-storage-optimization-1772201934355) | 2026-02-27 | high | ai-software, models-research, task, text-summary |
 | [Gemini应用集成Lyria 3实现AI音乐生成](./ai-music-generation-1771483104064) | 2026-02-19 | high | ai-software, models-research, task, link-summary |
+| [现代阅读与历史小说价值](./literature-reading-habits-and-historical-fiction-1774779821105) | 2026-03-29 | medium | ai-software, models-research, news, text-summary |
 | [开源模型胜谷歌RT-2-X](./embodied-intelligence-open-source-model-comparison-1774600026125) | 2026-03-27 | medium | ai-software, models-research, news, text-summary |
 | [vLLM Triton注意力后端深度解析](./triton-attention-backend-1774586844979) | 2026-03-27 | medium | ai-software, models-research, news, link-summary |
 | [Voxtral TTS：Mistral AI发布的第一款文本转语音模型](./voxtral-tts-1774618436882) | 2026-03-27 | medium | ai-software, models-research, news, link-summary |
