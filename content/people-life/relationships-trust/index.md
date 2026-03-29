@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ 人与生活 ](/people-life/)
 
-共 21 篇文档。
+共 22 篇文档。
 
 ## 文档列表
 
@@ -24,6 +24,7 @@ generatedType: "index"
 | [AI时代闲暇时间流向分析](./ai-era-leisure-time-allocation-1774312235737) | 2026-03-24 | medium | people-life, relationships-trust, news, text-summary |
 | [印刷术与生成式AI的知识传播模式对比](./evolution-of-knowledge-dissemination-models-1774109293009) | 2026-03-21 | medium | people-life, relationships-trust, news, text-summary |
 | [信任的韧性：在伤害后重建善意](./trust-and-risk-management-1771635978813) | 2026-02-21 | medium | people-life, relationships-trust, task, text-summary |
+| [大仲马改编《达达尼昂传》为《三个火枪手》](./report-1774780820148) | 2026-03-29 | medium | people-life, relationships-trust, news, text-summary |
 | [上下文工程挑战与文件系统抽象解决方案](./context-engineering-1774701361610) | 2026-03-28 | medium | people-life, relationships-trust, news, link-summary |
 | [机器人开源革命中的复仇者联盟](./robot-open-source-revolution-1774600723501) | 2026-03-27 | medium | people-life, relationships-trust, news, text-summary |
 | [《上品寒士》：魏晋穿越佳作](./shang-pin-han-shi-1774312876380) | 2026-03-24 | medium | people-life, relationships-trust, news, text-summary |

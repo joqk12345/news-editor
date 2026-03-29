@@ -11,7 +11,7 @@ generatedType: "index"
 
 ## 子分类
 
-- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 21 篇。
+- [关系与信任](./relationships-trust/)：人际关系、信任修复、合作边界与相处方法。 共 22 篇。
 - [家庭与成长](./family-growth/)：育儿、生育、成长转变、教育心态与家庭经验。 共 5 篇。
 
 ## 最近更新

@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>250</strong>
+      <strong>251</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>149</strong>
-      <span>高优先级，另有 87 篇中优先级</span>
+      <span>高优先级，另有 88 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -103,11 +103,11 @@ hero:
       <p class="kb-home-card-eyebrow">人与生活</p>
       <h3>聚焦关系、家庭、成长、教育与自我管理。</h3>
       <div class="kb-home-card-meta">
-        <span>26 篇文档</span>
+        <span>27 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-28</span>
+        <span>最近更新 2026-03-29</span>
       </div>
-      <p class="kb-home-card-note">代表文档：上下文工程挑战与文件系统抽象解决方案</p>
+      <p class="kb-home-card-note">代表文档：大仲马改编《达达尼昂传》为《三个火枪手》</p>
     </a>
     <a class="kb-home-section-card" href="world-strategy/">
       <p class="kb-home-card-eyebrow">世界与战略</p>
@@ -159,6 +159,16 @@ hero:
         <span>news</span>
       </div>
     </a>
+    <a class="kb-home-highlight-card" href="people-life/relationships-trust/report-1774780820148">
+      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
+      <h3>大仲马改编《达达尼昂传》为《三个火枪手》</h3>
+      <p>大仲马发现一本名为《达达尼昂先生传》的纪实文学传记，将其作为故事主干，加入戏剧化和狗血情节，最终改编为《三个火枪手》。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-03-29</span>
+        <span>medium / 11</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/illusion-of-control-in-gambling-and-trading-1774662741018">
       <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
       <h3>IOC与市场幻觉</h3>
@@ -166,16 +176,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-28</span>
         <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="people-life/relationships-trust/context-engineering-1774701361610">
-      <p class="kb-home-card-eyebrow">人与生活 / 关系与信任</p>
-      <h3>上下文工程挑战与文件系统抽象解决方案</h3>
-      <p>上下文工程是软件系统设计的新挑战，文件系统抽象是上下文工程的解决方案。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-28</span>
-        <span>medium / 11</span>
         <span>news</span>
       </div>
     </a>

@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 250 篇文档</span>
+  <span class="kb-chip">共 251 篇文档</span>
   <span class="kb-chip">覆盖 25 个日期</span>
   <span class="kb-chip">高优先级 149 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-29</span>
@@ -102,6 +102,21 @@ generatedType: "index"
       <div class="kb-chip-row">
         <span class="kb-chip">世界与战略 / 文化与历史</span>
         <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-29</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../people-life/relationships-trust/report-1774780820148">大仲马改编《达达尼昂传》为《三个火枪手》</a></div>
+      <p>大仲马发现一本名为《达达尼昂先生传》的纪实文学传记，将其作为故事主干，加入戏剧化和狗血情节，最终改编为《三个火枪手》。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">人与生活 / 关系与信任</span>
+        <span class="kb-chip">medium / 11</span>
         <span class="kb-chip">news</span>
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
