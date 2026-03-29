@@ -22,17 +22,17 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>244</strong>
+      <strong>245</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
-      <strong>148</strong>
+      <strong>149</strong>
       <span>高优先级，另有 82 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
-      <strong>2026-03-28</strong>
+      <strong>2026-03-29</strong>
       <span>最早可追溯至 2026-02-19</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>145 篇文档</span>
+        <span>146 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-28</span>
+        <span>最近更新 2026-03-29</span>
       </div>
-      <p class="kb-home-card-note">代表文档：AI正在进化——改变我们对智能的理解</p>
+      <p class="kb-home-card-note">代表文档：叶县故事揭示历史小说创作逻辑</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,20 +139,20 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
-    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/illusion-of-control-in-gambling-and-trading-1774662741018">
-      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
-      <h3>IOC与市场幻觉</h3>
-      <p>IOC（控制幻觉）在赌徒和市场中导致人们在负期望赌博中错误相信自己能赢，通过选择性记忆正反馈强化，但定投策略能帮助克服。</p>
+    <a class="kb-home-highlight-card" href="ai-software/models-research/ye-county-story-1774779731785">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>叶县故事揭示历史小说创作逻辑</h3>
+      <p>叶县故事展示历史小说创作中社会规则与逻辑自洽的重要性</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-28</span>
+        <span>2026-03-29</span>
         <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-evolution-and-intelligence-understanding-1774699671545">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>AI正在进化——改变我们对智能的理解</h3>
-      <p>文章描述了AI正经历的五大范式转变——自然计算、神经计算、预测智能、通用智能和集体智能——以及这些转变如何挑战传统智能观点，类比科学革命，并探讨功能等价、生命的计算性及人类集体智能的基础。</p>
+    <a class="kb-home-highlight-card" href="markets-wealth/investing-strategy/illusion-of-control-in-gambling-and-trading-1774662741018">
+      <p class="kb-home-card-eyebrow">市场与财富 / 投资策略</p>
+      <h3>IOC与市场幻觉</h3>
+      <p>IOC（控制幻觉）在赌徒和市场中导致人们在负期望赌博中错误相信自己能赢，通过选择性记忆正反馈强化，但定投策略能帮助克服。</p>
       <div class="kb-home-card-meta">
         <span>2026-03-28</span>
         <span>high / 13</span>
@@ -189,12 +189,12 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/open-source-vs-closed-source-in-robotics-1774600820421">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/ai-evolution-and-intelligence-understanding-1774699671545">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>真开源与伪开源的商业心机</h3>
-      <p>真开源与伪开源的区分标准在于硬件绑定与生态锁定，免费模型背后隐藏四层商业战略，开源与闭源之争本质是争夺机器人行业基础设施层生态霸权。</p>
+      <h3>AI正在进化——改变我们对智能的理解</h3>
+      <p>文章描述了AI正经历的五大范式转变——自然计算、神经计算、预测智能、通用智能和集体智能——以及这些转变如何挑战传统智能观点，类比科学革命，并探讨功能等价、生命的计算性及人类集体智能的基础。</p>
       <div class="kb-home-card-meta">
-        <span>2026-03-27</span>
+        <span>2026-03-28</span>
         <span>high / 13</span>
         <span>news</span>
       </div>
