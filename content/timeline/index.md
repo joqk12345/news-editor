@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 249 篇文档</span>
+  <span class="kb-chip">共 250 篇文档</span>
   <span class="kb-chip">覆盖 25 个日期</span>
   <span class="kb-chip">高优先级 149 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-03-29</span>
@@ -39,6 +39,21 @@ generatedType: "index"
     <div class="kb-timeline-card">
       <div class="kb-timeline-title"><a href="../ai-software/models-research/literature-reading-habits-and-historical-fiction-1774779821105">现代阅读与历史小说价值</a></div>
       <p>现代人阅读习惯改变导致很少有人能花一个下午读完一本书；历史小说创作不亵渎历史，反而增色历史；历史小说核心价值在于发现历史与现代人共鸣点。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 模型与研究</span>
+        <span class="kb-chip">medium / 12</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-03-29</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/models-research/report-1774780495162">歌德观点</a></div>
+      <p>该分析探讨镣铐与跳舞如何协调历史创作的准确性与文学连接。</p>
       <div class="kb-chip-row">
         <span class="kb-chip">AI 与软件 / 模型与研究</span>
         <span class="kb-chip">medium / 12</span>
