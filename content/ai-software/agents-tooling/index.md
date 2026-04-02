@@ -11,7 +11,7 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 37 篇文档。
+共 38 篇文档。
 
 ## 文档列表
 
@@ -28,6 +28,7 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 | [ZeroClaw：轻量级自主AI助手基础设施](./zeroclaw-ai-1771808496571) | 2026-02-23 | high | ai-software, agents-tooling, task, link-summary |
 | [个人AI基础设施 (PAI) 项目综合报告](./ai-pai-1771724329343) | 2026-02-22 | high | ai-software, agents-tooling, task, link-summary |
 | [Claude Code子代理配置与管理全解析](./subagent-system-1771485189230) | 2026-02-19 | high | ai-software, agents-tooling, task, link-summary |
+| [Claude Code缓存感知提示词架构解析](./claude-code-cache-aware-prompt-architecture-1775090213007) | 2026-04-02 | high | ai-software, agents-tooling, news, text-summary |
 | [Capybara v8虚假声明率上升及Anthropic应对措施](./ai-model-evaluation-and-safety-1775089669282) | 2026-04-02 | high | ai-software, agents-tooling, news, text-summary |
 | [Stripe的混合AI工具生态与开发者效率](./stripe-s-ai-tool-ecosystem-in-engineering-practices-1774603967044) | 2026-03-27 | high | ai-software, agents-tooling, news, text-summary |
 | [AI编程速度过快引质量危机，作者呼吁找回开发自主权](./ai-programming-ethics-and-software-quality-1774569933865) | 2026-03-27 | high | ai-software, agents-tooling, news, text-summary |
