@@ -10,15 +10,30 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 255 篇文档</span>
+  <span class="kb-chip">共 256 篇文档</span>
   <span class="kb-chip">覆盖 26 个日期</span>
-  <span class="kb-chip">高优先级 150 篇</span>
+  <span class="kb-chip">高优先级 151 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-04-02</span>
 </div>
 
 ## 按时间查看
 
 <div class="kb-timeline">
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-04-02</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../ai-software/agents-tooling/ai-model-evaluation-and-safety-1775089669282">Capybara v8虚假声明率上升及Anthropic应对措施</a></div>
+      <p>Anthropic的Capybara v8模型虚假声明率较v4显著上升，公司通过内部版本指令与验证代理进行针对性缓解。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">AI 与软件 / 代理与工具</span>
+        <span class="kb-chip">high / 13</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
   <div class="kb-timeline-item">
     <div class="kb-timeline-date">2026-04-02</div>
     <div class="kb-timeline-card">
