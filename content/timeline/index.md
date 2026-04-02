@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 257 篇文档</span>
+  <span class="kb-chip">共 258 篇文档</span>
   <span class="kb-chip">覆盖 26 个日期</span>
   <span class="kb-chip">高优先级 152 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-04-02</span>
@@ -76,6 +76,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-04-02</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../operations/fetch-failures/kairos-hidden-platform-vs-openclaw-open-source-architecture-1775090247078">KAIROS与OpenClaw架构战略对比</a></div>
+      <p>Claude Code中隐藏的KAIROS平台与开源OpenClaw架构高度相似，但生态策略对立，形成类似iPhone与Android的垂直整合与开放竞争格局。</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">流程与系统 / 抓取异常</span>
+        <span class="kb-chip">low / 2</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">tooling</span>
       </div>
     </div>
   </div>

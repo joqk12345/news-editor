@@ -11,12 +11,13 @@ generatedType: "index"
 
 上级分类：[ 流程与系统 ](/operations/)
 
-共 6 篇文档。
+共 7 篇文档。
 
 ## 文档列表
 
 | 标题 | 日期 | 优先级 | 标签 |
 |------|------|--------|------|
+| [KAIROS与OpenClaw架构战略对比](./kairos-hidden-platform-vs-openclaw-open-source-architecture-1775090247078) | 2026-04-02 | low | operations, fetch-failures, news, text-summary |
 | [HBM内存供应链高度垄断且产能锁定](./hbm-memory-supply-chain-challenges-1774447989441) | 2026-03-25 | low | operations, fetch-failures, news, text-summary |
 | [环境异常致内容无法获取](./environmental-anomaly-1772291107907) | 2026-02-28 | low | operations, fetch-failures, news, link-summary |
 | [1772203826613-news-news-task-1772203822109-uek4rr](./1772203826613-news-news-task-1772203822109-uek4rr-1772203822109) | 2026-02-27 | low | operations, fetch-failures, news, text-summary |
