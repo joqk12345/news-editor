@@ -11,7 +11,7 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 35 篇文档。
+共 36 篇文档。
 
 ## 文档列表
 
@@ -46,6 +46,7 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 | [远程控制与后台代理：工具与运行时的区别](./remote-control-and-background-agent-1772150164425) | 2026-02-26 | high | ai-software, agents-tooling, task, text-summary |
 | [EvoMap：进化协议与AI未来](./evomap-ai-1771751449473) | 2026-02-22 | high | ai-software, agents-tooling, task, link-summary |
 | [Agent技能与GEP基因：工具与进化的根本区别](./agentgep-1771752758010) | 2026-02-22 | high | ai-software, agents-tooling, task, link-summary |
+| [源码澄清Claude模型代号与层级真相](./ai-model-codename-1775088346651) | 2026-04-02 | medium | ai-software, agents-tooling, news, text-summary |
 | [AI编程范式转变 (AI Programming Paradigm Shift)](./ai-programming-paradigm-shift-1774361464816) | 2026-03-24 | medium | ai-software, agents-tooling, news, text-summary |
 | [代码质量与LLM代理协作困境](./llm-agent-code-generation-quality-1774133200900) | 2026-03-21 | medium | ai-software, agents-tooling, news, text-summary |
 | [编码成本降低与好代码标准](./the-changing-cost-of-code-1772338786470) | 2026-03-01 | medium | ai-software, agents-tooling, news, link-summary |

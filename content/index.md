@@ -22,13 +22,13 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>254</strong>
+      <strong>255</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>150</strong>
-      <span>高优先级，另有 89 篇中优先级</span>
+      <span>高优先级，另有 90 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>150 篇文档</span>
+        <span>151 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-03-29</span>
+        <span>最近更新 2026-04-02</span>
       </div>
-      <p class="kb-home-card-note">代表文档：叶县故事揭示历史小说创作逻辑</p>
+      <p class="kb-home-card-note">代表文档：源码澄清Claude模型代号与层级真相</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-model-codename-1775088346651">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
+      <h3>源码澄清Claude模型代号与层级真相</h3>
+      <p>通过分析Anthropic Claude Code源码，澄清了Tengu、Fennec等代号的实际指代，并揭示了Capybara作为全新模型层级的定位及其代号泄漏演变时间线。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-04-02</span>
+        <span>medium / 12</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="operations/systems-workflows/1775088301197-news-news-task-1775088274802-ez3ph7-1775088274802">
       <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
       <h3>1775088301197-news-news-task-1775088274802-ez3ph7</h3>
@@ -146,16 +156,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-04-02</span>
         <span>low / 4</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/ye-county-story-1774779731785">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>叶县故事揭示历史小说创作逻辑</h3>
-      <p>叶县故事展示历史小说创作中社会规则与逻辑自洽的重要性</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-29</span>
-        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/models-research/historical-novel-creation-1774780834857">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/ye-county-story-1774779731785">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
-      <h3>历史小说创作的“镣铐与舞步”</h3>
-      <p>历史小说创作需要在遵循历史事实的基础上发挥文学想象</p>
+      <h3>叶县故事揭示历史小说创作逻辑</h3>
+      <p>叶县故事展示历史小说创作中社会规则与逻辑自洽的重要性</p>
       <div class="kb-home-card-meta">
         <span>2026-03-29</span>
         <span>high / 13</span>
