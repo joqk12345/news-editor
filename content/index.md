@@ -22,7 +22,7 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>253</strong>
+      <strong>254</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
@@ -32,7 +32,7 @@ hero:
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
-      <strong>2026-03-29</strong>
+      <strong>2026-04-02</strong>
       <span>最早可追溯至 2026-02-19</span>
     </article>
     <article class="kb-home-stat">
@@ -123,11 +123,11 @@ hero:
       <p class="kb-home-card-eyebrow">流程与系统</p>
       <h3>聚焦流程产物、系统框架、工作流设计与抓取异常。</h3>
       <div class="kb-home-card-meta">
-        <span>18 篇文档</span>
+        <span>19 篇文档</span>
         <span>3 个子分类</span>
-        <span>最近更新 2026-03-25</span>
+        <span>最近更新 2026-04-02</span>
       </div>
-      <p class="kb-home-card-note">代表文档：HBM内存供应链高度垄断且产能锁定</p>
+      <p class="kb-home-card-note">代表文档：1775088301197-news-news-task-1775088274802-ez3ph7</p>
     </a>
     </div>
   </section>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="operations/systems-workflows/1775088301197-news-news-task-1775088274802-ez3ph7-1775088274802">
+      <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
+      <h3>1775088301197-news-news-task-1775088274802-ez3ph7</h3>
+      <p>1775088301197-news-news-task-1775088274802-ez3ph7</p>
+      <div class="kb-home-card-meta">
+        <span>2026-04-02</span>
+        <span>low / 4</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="ai-software/models-research/ye-county-story-1774779731785">
       <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
       <h3>叶县故事揭示历史小说创作逻辑</h3>
@@ -176,16 +186,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-03-28</span>
         <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="operations/fetch-failures/hbm-memory-supply-chain-challenges-1774447989441">
-      <p class="kb-home-card-eyebrow">流程与系统 / 抓取异常</p>
-      <h3>HBM内存供应链高度垄断且产能锁定</h3>
-      <p>HBM内存因供应商垄断与英伟达锁单导致获取极难，将决定AI大模型训练效率上限。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-03-25</span>
-        <span>low / 2</span>
         <span>news</span>
       </div>
     </a>

@@ -11,7 +11,7 @@ generatedType: "index"
 
 上级分类：[ 流程与系统 ](/operations/)
 
-共 12 篇文档。
+共 13 篇文档。
 
 ## 文档列表
 
@@ -25,6 +25,7 @@ generatedType: "index"
 | [Mercury：专注阅读体验的内容应用](./content-application-segments-and-mercury-s-positioning-1772201171725) | 2026-02-27 | medium | operations, systems-workflows, task, hn-analysis |
 | [youtube-music-cli：YouTube音乐终端播放器综合文档](./youtube-music-terminal-player-1771807224871) | 2026-02-23 | medium | operations, systems-workflows, task, link-summary |
 | [1771465100305-task-1771465092284-9zbfak](./1771465100305-task-1771465092284-9zbfak-1771465092284) | 2026-02-19 | low | operations, systems-workflows, task, text-summary |
+| [1775088301197-news-news-task-1775088274802-ez3ph7](./1775088301197-news-news-task-1775088274802-ez3ph7-1775088274802) | 2026-04-02 | low | operations, systems-workflows, news, rewrite |
 | [1772407660260-news-news-task-1772407647928-cmp8uw](./1772407660260-news-news-task-1772407647928-cmp8uw-1772407647928) | 2026-03-01 | low | operations, systems-workflows, news, rewrite |
 | [1772237974095-news-news-task-1772237943626-ifo2aj](./1772237974095-news-news-task-1772237943626-ifo2aj-1772237943626) | 2026-02-28 | low | operations, systems-workflows, news, rewrite |
 | [1772238940189-news-news-task-1772238928036-ox1aof](./1772238940189-news-news-task-1772238928036-ox1aof-1772238928036) | 2026-02-28 | low | operations, systems-workflows, news, rewrite |
