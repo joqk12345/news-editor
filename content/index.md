@@ -22,7 +22,7 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>259</strong>
+      <strong>260</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
@@ -32,7 +32,7 @@ hero:
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
-      <strong>2026-04-02</strong>
+      <strong>2026-04-10</strong>
       <span>最早可追溯至 2026-02-19</span>
     </article>
     <article class="kb-home-stat">
@@ -123,11 +123,11 @@ hero:
       <p class="kb-home-card-eyebrow">流程与系统</p>
       <h3>聚焦流程产物、系统框架、工作流设计与抓取异常。</h3>
       <div class="kb-home-card-meta">
-        <span>20 篇文档</span>
+        <span>21 篇文档</span>
         <span>3 个子分类</span>
-        <span>最近更新 2026-04-02</span>
+        <span>最近更新 2026-04-10</span>
       </div>
-      <p class="kb-home-card-note">代表文档：1775088301197-news-news-task-1775088274802-ez3ph7</p>
+      <p class="kb-home-card-note">代表文档：1775832882790-news-news-task-1775832872246-ddutaw</p>
     </a>
     </div>
   </section>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="operations/systems-workflows/1775832882790-news-news-task-1775832872246-ddutaw-1775832872246">
+      <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
+      <h3>1775832882790-news-news-task-1775832872246-ddutaw</h3>
+      <p>1775832882790-news-news-task-1775832872246-ddutaw</p>
+      <div class="kb-home-card-meta">
+        <span>2026-04-10</span>
+        <span>low / 3</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="ai-software/agents-tooling/claude-code-cache-aware-prompt-architecture-1775090213007">
       <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
       <h3>Claude Code缓存感知提示词架构解析</h3>
@@ -146,16 +156,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-04-02</span>
         <span>high / 13</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="operations/systems-workflows/1775088301197-news-news-task-1775088274802-ez3ph7-1775088274802">
-      <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
-      <h3>1775088301197-news-news-task-1775088274802-ez3ph7</h3>
-      <p>1775088301197-news-news-task-1775088274802-ez3ph7</p>
-      <div class="kb-home-card-meta">
-        <span>2026-04-02</span>
-        <span>low / 4</span>
         <span>news</span>
       </div>
     </a>
