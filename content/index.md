@@ -22,7 +22,7 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>262</strong>
+      <strong>263</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
@@ -123,7 +123,7 @@ hero:
       <p class="kb-home-card-eyebrow">流程与系统</p>
       <h3>聚焦流程产物、系统框架、工作流设计与抓取异常。</h3>
       <div class="kb-home-card-meta">
-        <span>22 篇文档</span>
+        <span>23 篇文档</span>
         <span>3 个子分类</span>
         <span>最近更新 2026-04-10</span>
       </div>
