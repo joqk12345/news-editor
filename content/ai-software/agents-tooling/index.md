@@ -11,7 +11,7 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 
 上级分类：[ AI 与软件 ](/ai-software/)
 
-共 39 篇文档。
+共 40 篇文档。
 
 ## 文档列表
 
@@ -56,3 +56,4 @@ AI 代理、编码助手、开发工作流与工具使用经验。
 | [用交互式解释化解认知债务](./interactive-explanations-1772339038582) | 2026-03-01 | medium | ai-software, agents-tooling, news, link-summary |
 | [Rust语言被视为智能体开发的理想选择](./rust-language-and-agent-development-1772374678911) | 2026-03-01 | medium | ai-software, agents-tooling, news, link-summary |
 | [1772238376527-news-news-task-1772238345879-4tacps](./1772238376527-news-news-task-1772238345879-4tacps-1772238345879) | 2026-02-28 | low | ai-software, agents-tooling, news, hn-analysis |
+| [1775833030111-news-news-task-1775832900860-xpbjs0](./1775833030111-news-news-task-1775832900860-xpbjs0-1775832900860) | 2026-04-10 | low | ai-software, agents-tooling, news, rewrite |

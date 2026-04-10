@@ -22,7 +22,7 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>260</strong>
+      <strong>261</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>154 篇文档</span>
+        <span>155 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-04-02</span>
+        <span>最近更新 2026-04-10</span>
       </div>
-      <p class="kb-home-card-note">代表文档：Claude Code缓存感知提示词架构解析</p>
+      <p class="kb-home-card-note">代表文档：1775833030111-news-news-task-1775832900860-xpbjs0</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,6 +139,16 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/1775833030111-news-news-task-1775832900860-xpbjs0-1775832900860">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
+      <h3>1775833030111-news-news-task-1775832900860-xpbjs0</h3>
+      <p>1775833030111-news-news-task-1775832900860-xpbjs0</p>
+      <div class="kb-home-card-meta">
+        <span>2026-04-10</span>
+        <span>low / 4</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="operations/systems-workflows/1775832882790-news-news-task-1775832872246-ddutaw-1775832872246">
       <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
       <h3>1775832882790-news-news-task-1775832872246-ddutaw</h3>
@@ -146,16 +156,6 @@ hero:
       <div class="kb-home-card-meta">
         <span>2026-04-10</span>
         <span>low / 3</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/claude-code-cache-aware-prompt-architecture-1775090213007">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>Claude Code缓存感知提示词架构解析</h3>
-      <p>Claude Code通过动态边界划分全局/组织缓存提示词与六层记忆系统，优化API调用成本与上下文管理。</p>
-      <div class="kb-home-card-meta">
-        <span>2026-04-02</span>
-        <span>high / 13</span>
         <span>news</span>
       </div>
     </a>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/ai-model-evaluation-and-safety-1775089669282">
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/claude-code-cache-aware-prompt-architecture-1775090213007">
       <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>Capybara v8虚假声明率上升及Anthropic应对措施</h3>
-      <p>Anthropic的Capybara v8模型虚假声明率较v4显著上升，公司通过内部版本指令与验证代理进行针对性缓解。</p>
+      <h3>Claude Code缓存感知提示词架构解析</h3>
+      <p>Claude Code通过动态边界划分全局/组织缓存提示词与六层记忆系统，优化API调用成本与上下文管理。</p>
       <div class="kb-home-card-meta">
         <span>2026-04-02</span>
         <span>high / 13</span>
