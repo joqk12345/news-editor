@@ -22,7 +22,7 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>264</strong>
+      <strong>265</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
@@ -123,11 +123,11 @@ hero:
       <p class="kb-home-card-eyebrow">流程与系统</p>
       <h3>聚焦流程产物、系统框架、工作流设计与抓取异常。</h3>
       <div class="kb-home-card-meta">
-        <span>23 篇文档</span>
+        <span>24 篇文档</span>
         <span>3 个子分类</span>
-        <span>最近更新 2026-04-10</span>
+        <span>最近更新 2026-04-11</span>
       </div>
-      <p class="kb-home-card-note">代表文档：1775833119778-news-news-task-1775833038681-0ghkrm</p>
+      <p class="kb-home-card-note">代表文档：1775915221508-news-news-task-1775915164733-5kb6wf</p>
     </a>
     </div>
   </section>
@@ -149,13 +149,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="operations/systems-workflows/1775833119778-news-news-task-1775833038681-0ghkrm-1775833038681">
+    <a class="kb-home-highlight-card" href="operations/systems-workflows/1775915221508-news-news-task-1775915164733-5kb6wf-1775915164733">
       <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
-      <h3>1775833119778-news-news-task-1775833038681-0ghkrm</h3>
-      <p>1775833119778-news-news-task-1775833038681-0ghkrm</p>
+      <h3>1775915221508-news-news-task-1775915164733-5kb6wf</h3>
+      <p>1775915221508-news-news-task-1775915164733-5kb6wf</p>
       <div class="kb-home-card-meta">
-        <span>2026-04-10</span>
-        <span>low / 4</span>
+        <span>2026-04-11</span>
+        <span>low / 2</span>
         <span>news</span>
       </div>
     </a>
@@ -189,10 +189,10 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/1775833030111-news-news-task-1775832900860-xpbjs0-1775832900860">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>1775833030111-news-news-task-1775832900860-xpbjs0</h3>
-      <p>1775833030111-news-news-task-1775832900860-xpbjs0</p>
+    <a class="kb-home-highlight-card" href="operations/systems-workflows/1775833119778-news-news-task-1775833038681-0ghkrm-1775833038681">
+      <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
+      <h3>1775833119778-news-news-task-1775833038681-0ghkrm</h3>
+      <p>1775833119778-news-news-task-1775833038681-0ghkrm</p>
       <div class="kb-home-card-meta">
         <span>2026-04-10</span>
         <span>low / 4</span>

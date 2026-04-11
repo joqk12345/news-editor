@@ -10,7 +10,7 @@ generatedType: "index"
 按日期串联全部整理文档，方便从最近更新倒查到更早素材，并快速看到每篇文档所属主题与优先级。
 
 <div class="kb-chip-row">
-  <span class="kb-chip">共 264 篇文档</span>
+  <span class="kb-chip">共 265 篇文档</span>
   <span class="kb-chip">覆盖 28 个日期</span>
   <span class="kb-chip">高优先级 153 篇</span>
   <span class="kb-chip">时间范围 2026-02-19 至 2026-04-11</span>
@@ -31,6 +31,21 @@ generatedType: "index"
         <span class="kb-chip">ai</span>
         <span class="kb-chip">agents</span>
         <span class="kb-chip">models</span>
+      </div>
+    </div>
+  </div>
+  <div class="kb-timeline-item">
+    <div class="kb-timeline-date">2026-04-11</div>
+    <div class="kb-timeline-card">
+      <div class="kb-timeline-title"><a href="../operations/systems-workflows/1775915221508-news-news-task-1775915164733-5kb6wf-1775915164733">1775915221508-news-news-task-1775915164733-5kb6wf</a></div>
+      <p>1775915221508-news-news-task-1775915164733-5kb6wf</p>
+      <div class="kb-chip-row">
+        <span class="kb-chip">流程与系统 / 系统与工作流</span>
+        <span class="kb-chip">low / 2</span>
+        <span class="kb-chip">news</span>
+        <span class="kb-chip">ai</span>
+        <span class="kb-chip">agents</span>
+        <span class="kb-chip">research</span>
       </div>
     </div>
   </div>
