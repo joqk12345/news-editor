@@ -22,17 +22,17 @@ hero:
   <section class="kb-home-stats">
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">文档规模</p>
-      <strong>263</strong>
+      <strong>264</strong>
       <span>已整理入库的可浏览文档</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">优先级</p>
       <strong>153</strong>
-      <span>高优先级，另有 90 篇中优先级</span>
+      <span>高优先级，另有 91 篇中优先级</span>
     </article>
     <article class="kb-home-stat">
       <p class="kb-home-stat-label">时间跨度</p>
-      <strong>2026-04-10</strong>
+      <strong>2026-04-11</strong>
       <span>最早可追溯至 2026-02-19</span>
     </article>
     <article class="kb-home-stat">
@@ -83,11 +83,11 @@ hero:
       <p class="kb-home-card-eyebrow">AI 与软件</p>
       <h3>聚焦 AI 代理、模型系统、研究方法与软件工具链。</h3>
       <div class="kb-home-card-meta">
-        <span>155 篇文档</span>
+        <span>156 篇文档</span>
         <span>2 个子分类</span>
-        <span>最近更新 2026-04-10</span>
+        <span>最近更新 2026-04-11</span>
       </div>
-      <p class="kb-home-card-note">代表文档：1775833030111-news-news-task-1775832900860-xpbjs0</p>
+      <p class="kb-home-card-note">代表文档：阅读提升认知能力与社会经济地位</p>
     </a>
     <a class="kb-home-section-card" href="markets-wealth/">
       <p class="kb-home-card-eyebrow">市场与财富</p>
@@ -139,20 +139,20 @@ hero:
       <p>优先展示最近进入知识库、且权重较高的文档，适合先扫一遍当前热点。</p>
     </div>
     <div class="kb-home-highlight-grid">
+    <a class="kb-home-highlight-card" href="ai-software/models-research/the-impact-of-reading-on-cognitive-ability-and-socioeconomic-status-1775914401334">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 模型与研究</p>
+      <h3>阅读提升认知能力与社会经济地位</h3>
+      <p>阅读不仅能提升认知能力，还能显著预测未来的社会经济地位。</p>
+      <div class="kb-home-card-meta">
+        <span>2026-04-11</span>
+        <span>medium / 12</span>
+        <span>news</span>
+      </div>
+    </a>
     <a class="kb-home-highlight-card" href="operations/systems-workflows/1775833119778-news-news-task-1775833038681-0ghkrm-1775833038681">
       <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
       <h3>1775833119778-news-news-task-1775833038681-0ghkrm</h3>
       <p>1775833119778-news-news-task-1775833038681-0ghkrm</p>
-      <div class="kb-home-card-meta">
-        <span>2026-04-10</span>
-        <span>low / 4</span>
-        <span>news</span>
-      </div>
-    </a>
-    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/1775833030111-news-news-task-1775832900860-xpbjs0-1775832900860">
-      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
-      <h3>1775833030111-news-news-task-1775832900860-xpbjs0</h3>
-      <p>1775833030111-news-news-task-1775832900860-xpbjs0</p>
       <div class="kb-home-card-meta">
         <span>2026-04-10</span>
         <span>low / 4</span>
@@ -189,13 +189,13 @@ hero:
         <span>news</span>
       </div>
     </a>
-    <a class="kb-home-highlight-card" href="operations/systems-workflows/1775832882790-news-news-task-1775832872246-ddutaw-1775832872246">
-      <p class="kb-home-card-eyebrow">流程与系统 / 系统与工作流</p>
-      <h3>1775832882790-news-news-task-1775832872246-ddutaw</h3>
-      <p>1775832882790-news-news-task-1775832872246-ddutaw</p>
+    <a class="kb-home-highlight-card" href="ai-software/agents-tooling/1775833030111-news-news-task-1775832900860-xpbjs0-1775832900860">
+      <p class="kb-home-card-eyebrow">AI 与软件 / 代理与工具</p>
+      <h3>1775833030111-news-news-task-1775832900860-xpbjs0</h3>
+      <p>1775833030111-news-news-task-1775832900860-xpbjs0</p>
       <div class="kb-home-card-meta">
         <span>2026-04-10</span>
-        <span>low / 3</span>
+        <span>low / 4</span>
         <span>news</span>
       </div>
     </a>
