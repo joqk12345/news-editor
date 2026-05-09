@@ -171,6 +171,50 @@ CATEGORY_RULES = {
     ],
 }
 
+HTML_INLINE_TAG_ALLOWLIST = {
+    "a",
+    "abbr",
+    "b",
+    "blockquote",
+    "br",
+    "code",
+    "del",
+    "details",
+    "div",
+    "em",
+    "i",
+    "img",
+    "kbd",
+    "li",
+    "mark",
+    "ol",
+    "p",
+    "pre",
+    "s",
+    "small",
+    "span",
+    "strong",
+    "sub",
+    "summary",
+    "sup",
+    "table",
+    "tbody",
+    "td",
+    "th",
+    "thead",
+    "tr",
+    "u",
+    "ul",
+}
+
+
+def escape_pseudo_html_tag(match: re.Match[str]) -> str:
+    tag = match.group(1)
+    if tag.lower() in HTML_INLINE_TAG_ALLOWLIST:
+        return match.group(0)
+    return f"&lt;{tag}&gt;"
+
+
 TAG_RULES = {
     "ai": ["ai", "模型", "model", "llm"],
     "agents": ["agent", "代理", "subagent", "子代理"],
@@ -454,6 +498,9 @@ def normalize_body(text: str) -> str:
             if match:
                 level = min(6, len(match.group(1)) + 2)
                 line = "#" * level + match.group(2)
+
+            # Escape pseudo-HTML tags like <tick> that break Vue SFC parsing in VitePress.
+            line = re.sub(r"<([A-Za-z][A-Za-z0-9_-]*)>", escape_pseudo_html_tag, line)
 
         lines.append(line)
 

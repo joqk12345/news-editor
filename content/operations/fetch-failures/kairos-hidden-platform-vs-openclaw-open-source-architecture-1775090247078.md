@@ -135,7 +135,7 @@ requestId: "1775090247078-watioq"
 
 #### 事实与看法（区分）
 ##### 事实
-- KAIROS在源码中已完整实现，包括Agent SDK守护进程、MCP频道集成、主动<tick>模式、终端焦点检测、GitHub webhook订阅、SendUserMessage工具。
+- KAIROS在源码中已完整实现，包括Agent SDK守护进程、MCP频道集成、主动&lt;tick&gt;模式、终端焦点检测、GitHub webhook订阅、SendUserMessage工具。
 - OpenClaw架构包含openclaw gateway、18+频道适配器（WhatsApp、Telegram等）、定时/webhook唤醒、原生消息格式、推送通知、语音唤醒。
 - 两者均采用持久守护进程、频道抽象、入站推送、主动调度、结构化通信的核心设计。
 
