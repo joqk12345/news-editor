@@ -224,7 +224,7 @@ requestId: "1771807224871-c8ka07"
 - 问：如何自定义配置？  
   答：编辑~/.youtube-music-cli/config.json文件，修改主题、音量、流媒体质量等设置。
 - 问：如何安装插件？  
-  答：使用`youtube-music-cli plugins install <plugin-name>`命令安装所需插件。
+  答：使用`youtube-music-cli plugins install &lt;plugin-name&gt;`命令安装所需插件。
 
 #### Visualization
 ##### Mermaid 图 1（概念结构图）
